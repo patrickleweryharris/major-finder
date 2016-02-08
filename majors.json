@@ -1,0 +1,23 @@
+var text = '{ "majors" : [' +
+'{ "name":"Computer Science" , "requirements:":"CSC148, CSC108, CSC165"},' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },' +
+'{ "name":"" , "requirements":"" },]}';
