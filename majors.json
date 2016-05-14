@@ -1,23 +1,143 @@
-var text = '{ "majors" : [' +
-'{ "name":"Computer Science" , "requirements:":"CSC148, CSC108, CSC165"},' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },' +
-'{ "name":"" , "requirements":"" },]}';
+{
+  "majors" : [
+  {
+    "name":"Computer Science Major/Specialist/Minor",
+    "requirements:":[
+      "CSC148",
+      "CSC165",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Computer Science Major/Specialist/Minor",
+    "requirements:":[
+      "CSC148",
+      "CSC165",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"African Studies Specialist/Major",
+    "requirements":[
+      "NEW150"
+    ]
+  },
+  {
+    "name":"Acturial Science Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "MAT137",
+      "MAT223",
+    ]
+  },
+  {
+    "name":"Acturial Science Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "MAT157",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"American Studies",
+    "requirements":[
+      "USA200"
+    ]
+  },
+  {
+    "name":"Anthropology Major/Minor (General)",
+    "requirements":[
+      "ANT100"
+    ]
+  },
+  {
+    "name":"Anthropology Major (Evolutionary)",
+    "requirements":[
+      "ANT100",
+      "BIO120"
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+
+]
+}
