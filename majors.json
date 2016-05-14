@@ -59,6 +59,322 @@
     ]
   },
   {
+    "name":"Anthropology Specialist/Major (Society, Culture, and Language)",
+    "requirements":[
+      "ANT100",
+      "ANT207"
+    ]
+  },
+  {
+    "name":"Environmental Anthropology Minor",
+    "requirements":[
+      "ANT100"
+    ]
+  },
+  {
+    "name":"Archaeology Specialist",
+    "requirements":[
+      "ANT200",
+      "GGR270",
+      "ANT100"
+    ]
+  },
+  {
+    "name":"Archaeology Specialist",
+    "requirements":[
+      "ANT200",
+      "ANT100",
+      "CLA160"
+    ]
+  },
+  {
+    "name":"Archaeology Major",
+    "requirements":[
+      "ANT200",
+      "ANT100"
+    ]
+  },
+  {
+    "name":"Archaeology Major",
+    "requirements":[
+      "ANT200",
+      "CLA160"
+    ]
+  },
+  {
+    "name":"Visual Studies Minor",
+    "requirements":[
+      "VIS120",
+      "VIS130"
+    ]
+  },
+  {
+    "name":"Visual Studies Minor",
+    "requirements":[
+      "JAV120",
+      "JAV130"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Arts)",
+    "requirements":[
+      "CSC104",
+      "LIN100"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Arts)",
+    "requirements":[
+      "CSC108",
+      "LIN100"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Arts)",
+    "requirements":[
+      "CSC120",
+      "LIN100"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Science)",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Science)",
+    "requirements":[
+      "CSC120",
+      "CSC148",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Science)",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Cognitive Science Major (Science)",
+    "requirements":[
+      "CSC120",
+      "CSC148",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Astronomy and Physics Specialist",
+    "requirements":[
+      "MAT137",
+      "MAT223",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Astronomy and Physics Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT137",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT137",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT157",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Major",
+    "requirements":[
+      "MAT157",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Minor",
+    "requirements":[
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Astronomy and Astrophysics Minor",
+    "requirements":[
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Biochemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biochemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM138",
+      "CHM139",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biochemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biochemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137",
+    ]
+  },
+  {
+    "name":"Biochemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157",
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
     "name":"",
     "requirements":[
     ]
@@ -138,6 +454,35 @@
     "requirements":[
     ]
   },
-
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
+  {
+    "name":"",
+    "requirements":[
+    ]
+  },
 ]
 }
