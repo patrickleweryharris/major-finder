@@ -253,7 +253,7 @@
     ]
   },
   {
-    "name":"Biochemistry Specialist",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -264,7 +264,7 @@
     ]
   },
   {
-    "name":"Biochemistry Specialist",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "name":"Biochemistry Specialist",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "name":"Biochemistry Specialist",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "name":"Biochemistry Specialist",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -305,48 +305,325 @@
     ]
   },
   {
-    "name":"",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157",
     ]
   },
   {
-    "name":"",
+    "name":"Biochemistry Specialist/Major",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137",
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO130"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO150"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO130"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO150"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT137",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO130"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT137",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO130"
     ]
   },
   {
-    "name":"",
+    "name":"Bioinformatics and Computational Biology Specialist",
     "requirements":[
+      "MAT137",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO150"
+    ]
+  },
+  {
+    "name":"Bioinformatics and Computational Biology Specialist",
+    "requirements":[
+      "MAT137",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO150"
+    ]
+  },
+  {
+    "name":"Bioinformatics and Computational Biology Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Bioinformatics and Computational Biology Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148",
+      "CSC165",
+      "CHM135",
+      "CHM136",
+      "BIO150"
+    ]
+  },
+  {
+    "name":"Bioinformatics and Computational Biology Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO150"
+    ]
+  },
+  {
+    "name":"Bioinformatics and Computational Biology Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148",
+      "CSC165",
+      "CHM151",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT137",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT137",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT157",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Specialist/Major",
+    "requirements":[
+      "MAT157",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Biology Minor",
+    "requirements":[
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT137",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT137",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT157",
+      "CHM135",
+      "CHM136",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Genome Biology Major",
+    "requirements":[
+      "MAT157",
+      "CHM151",
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "name":"Book and Media Studies Major/Minor (complicated requirements, see calendar)",
+    "requirements":[
+      "SMC188"
+    ]
+  },
+  {
+    "name":"Celtic Studies Specialist/Major",
+    "requirements":[
+      "SMC141",
+      "SMC188"
+    ]
+  },
+  {
+    "name":"Christianity and Culture Specialist/Major",
+    "requirements":[
+      "SMC103"
+    ]
+  },
+  {
+    "name":"Christianity and Culture Specialist/Major",
+    "requirements":[
+      "SMC188"
+    ]
+  },
+  {
+    "name":"Christianity and Education Minor",
+    "requirements":[
+      "SMC103"
+    ]
+  },
+  {
+    "name":"Christianity and Education Minor",
+    "requirements":[
+      "SMC188"
+    ]
+  },
+  {
+    "name":"Mediaeval Studies Specialist/Major",
+    "requirements":[
+      "SMC175"
+    ]
+  },
+  {
+    "name":"Mediaeval Studies Specialist/Major",
+    "requirements":[
+      "SMC176"
     ]
   },
   {
