@@ -12,7 +12,7 @@ program(s) you are eligible for
 ### Data Structure
 
 The application relies on a compiled [list](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json) of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:
-```JSON
+```json
 {
   "majors" : [
   {
