@@ -2475,28 +2475,693 @@
     ]
   },
   {
-    "name":"",
+    "name":"Finnish Studies Major/Minor",
     "requirements":[
+      "FIN100",
+      "FIN110"
     ]
   },
   {
-    "name":"",
+    "name":"Forest Biomaterials Science Major/Minor",
     "requirements":[
+      "BIO120",
+      "ECO100"
     ]
   },
   {
-    "name":"",
+    "name":"Forest Biomaterials Science Major/Minor",
     "requirements":[
+      "BIO120",
+      "ECO105"
     ]
   },
   {
-    "name":"",
+    "name":"Forest Biomaterials Science Major/Minor",
     "requirements":[
+      "BIO120",
+      "MAT135",
+      "CHM135"
     ]
   },
   {
-    "name":"",
+    "name":"Forest Biomaterials Science Major/Minor",
     "requirements":[
+      "BIO120",
+      "MSE101",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"French Language and Literature Specialist/Major",
+    "requirements":[
+      "FSL121"
+    ]
+  },
+  {
+    "name":"French Language and Literature Specialist/Major",
+    "requirements":[
+      "FSL221"
+    ]
+  },
+  {
+    "name":"French Language and French Linguistics Specialist/Major",
+    "requirements":[
+      "FSL121"
+    ]
+  },
+  {
+    "name":"French Language and French Linguistics Specialist/Major",
+    "requirements":[
+      "FSL221"
+    ]
+  },
+  {
+    "name":"French Language Learning Major",
+    "requirements":[
+      "FSL121"
+    ]
+  },
+  {
+    "name":"French Language Learning Major",
+    "requirements":[
+      "FSL221"
+    ]
+  },
+  {
+    "name":"French as a Second Language Minor",
+    "requirements":[
+      "FSL121"
+    ]
+  },
+  {
+    "name":"French as a Second Language Minor",
+    "requirements":[
+      "FSL221"
+    ]
+  },
+  {
+    "name":"French Studies Minor",
+    "requirements":[
+      "FSL121"
+    ]
+  },
+  {
+    "name":"French Studies Minor",
+    "requirements":[
+      "FSL221"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT137",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT137",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT137",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Environment and Energy Minor",
+    "requirements":[
+      "MAT137",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "GGR107"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "GGR100"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "GGR101"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "GGR112"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "GGR124"
+    ]
+  },
+  {
+    "name":"Environmental Geography Minor",
+    "requirements":[
+      "JEG100"
+    ]
+  },
+  {
+    "name":"German Studies Specialist/Major/Minor",
+    "requirements":[
+      "GER100"
+    ]
+  },
+  {
+    "name":"Business German Minor",
+    "requirements":[
+      "GER100"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS100"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS101"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS102"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS103"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS106"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS107"
+    ]
+  },
+  {
+    "name":"History Specialist/Major/Minor",
+    "requirements":[
+      "HIS109"
+    ]
+  },
+  {
+    "name":"History and Philosophy of Science and Technology Major/Minor",
+    "requirements":[
+      "HPS100"
+    ]
+  },
+  {
+    "name":"History and Philosophy of Science and Technology Major/Minor",
+    "requirements":[
+      "HPS110"
+    ]
+  },
+  {
+    "name":"History and Philosophy of Science and Technology Major/Minor",
+    "requirements":[
+      "HPS120"
+    ]
+  },
+  {
+    "name":"History of Art Specialist/Major/Minor",
+    "requirements":[
+      "FAH102"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Fundamental Genetics and its Applications Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Global Health Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PSY100",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Global Health Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Health and Disease Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "CHM151",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Neuroscience Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Human Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131"
+    ]
+  },
+  {
+    "name":"Hungarian Studies Major/Minor",
+    "requirements":[
+      "HUN100"
+    ]
+  },
+  {
+    "name":"Immunology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Immunology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Immunology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Immunology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Immunology Major/Minor",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Immunology Major/Minor",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
     ]
   },
   {

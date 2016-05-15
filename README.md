@@ -43,8 +43,15 @@ This data structure visualized:
 
 Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this
 
-#### Problematic Programs (requirements don't really work with the JSON):
+#### Problematic Programs (requirements don't work with the JSON):
   - Geoscience Major/Minor
   - Earth and Environmental Systems Major
   - Ethics, Society and Law Major (Based on breadth reqs.)
   - International Relations Specialist (Only some variants of the reqs.)
+  - Forest Conservation Science Specialist/Major/Minor
+  - Forest Conservation Specialist/Major/Minor
+  - Environmental Geography Specialist/Major (Pick any two courses)
+  - Human Geography Specialist/Major/Minor (Pick any two courses)
+  - Physical and Environmental Geography Specialist/Major/Minor
+  - Geographic Information Systems Minor
+  
