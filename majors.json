@@ -1917,13 +1917,561 @@
     ]
   },
   {
-    "name":"",
+    "name":"Environmental Biology Minor",
     "requirements":[
+      "BIO120"
     ]
   },
   {
-    "name":"",
+    "name":"Economics Major/Minor (Arts)",
     "requirements":[
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO105",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO105",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO105",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Economics Major/Minor (Arts)",
+    "requirements":[
+      "ECO105",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Financial Economics Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Financial Economics Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Financial Economics Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Economics and Mathematics Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Economics and Mathematics Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "SOC101"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "SOC101"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "SOC102",
+      "SOC103"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "SOC102",
+      "SOC103"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "SOC102",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "SOC102",
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "PSY100",
+      "SOC103"
+    ]
+  },
+  {
+    "name":"Employment Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "PSY100",
+      "SOC103"
+    ]
+  },
+  {
+    "name":"English Specialist/Major/Minor",
+    "requirements":[
+      "ENG110"
+    ]
+  },
+  {
+    "name":"English Specialist/Major/Minor",
+    "requirements":[
+      "ENG140"
+    ]
+  },
+  {
+    "name":"English Specialist/Major/Minor",
+    "requirements":[
+      "ENG150"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM135",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM135",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM135",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM136",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM151",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Environmental Science Major/Minor",
+    "requirements":[
+      "BIO120",
+      "CHM135",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Estonian Studies Minor",
+    "requirements":[
+      "EST100",
+      "EST101"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS103",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS103",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS103",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS103",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS103",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS103",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS102",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS102",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "HIS102",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS102",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS102",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "HIS102",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN150",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN150",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN150",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN150",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN150",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN150",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN151",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO100",
+      "TRN151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN151",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"International Relations Specialist/Major",
+    "requirements":[
+      "ECO105",
+      "TRN151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"European Studies Major (Estonian)",
+    "requirements":[
+      "EST100",
+      "EST101"
+    ]
+  },
+  {
+    "name":"European Studies Major (French)",
+    "requirements":[
+      "FSL100",
+      "FSL102"
+    ]
+  },
+  {
+    "name":"European Studies Major (French)",
+    "requirements":[
+      "FSL100",
+      "FSL121"
+    ]
+  },
+  {
+    "name":"European Studies Major (German)",
+    "requirements":[
+      "GER100"
+    ]
+  },
+  {
+    "name":"European Studies Major (Hungarian)",
+    "requirements":[
+      "HUN100"
+    ]
+  },
+  {
+    "name":"European Studies Major (Italian)",
+    "requirements":[
+      "ITA100"
+    ]
+  },
+  {
+    "name":"European Studies Major (Greek)",
+    "requirements":[
+      "MGR100"
+    ]
+  },
+  {
+    "name":"European Studies Major (Greek)",
+    "requirements":[
+      "MGR101"
+    ]
+  },
+  {
+    "name":"European Studies Major (Portugese)",
+    "requirements":[
+      "PRT100"
+    ]
+  },
+  {
+    "name":"European Studies Major (Czech)",
+    "requirements":[
+      "SLA204"
+    ]
+  },
+  {
+    "name":"European Studies Major (Ukranian)",
+    "requirements":[
+      "SLA208"
+    ]
+  },
+  {
+    "name":"European Studies Major (Russian)",
+    "requirements":[
+      "SLA220"
     ]
   },
   {

@@ -1,4 +1,4 @@
-# major-finder
+# Major Finder
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
@@ -12,7 +12,8 @@ program(s) you are eligible for
 ### Data Structure
 
 The application relies on a compiled [list](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json) of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:
-```javascript
+
+```json
 {
   "majors" : [
   {
@@ -35,6 +36,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
 ]
 }
 ```
+
 This data structure visualized:
 
 ![visualized](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json-visual.png)
@@ -44,3 +46,5 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
 #### Problematic Programs (requirements don't really work with the JSON):
   - Geoscience Major/Minor
   - Earth and Environmental Systems Major
+  - Ethics, Society and Law Major (Based on breadth reqs.)
+  - International Relations Specialist (Only some variants of the reqs.)
