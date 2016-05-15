@@ -28,7 +28,7 @@
     "requirements":[
       "ECO100",
       "MAT137",
-      "MAT223",
+      "MAT223"
     ]
   },
   {
@@ -291,7 +291,7 @@
       "BIO130",
       "CHM135",
       "CHM136",
-      "MAT137",
+      "MAT137"
     ]
   },
   {
@@ -301,7 +301,7 @@
       "BIO130",
       "CHM135",
       "CHM136",
-      "MAT157",
+      "MAT157"
     ]
   },
   {
@@ -310,7 +310,7 @@
       "BIO120",
       "BIO130",
       "CHM151",
-      "MAT157",
+      "MAT157"
     ]
   },
   {
@@ -319,7 +319,7 @@
       "BIO120",
       "BIO130",
       "CHM151",
-      "MAT137",
+      "MAT137"
     ]
   },
   {
@@ -1663,21 +1663,257 @@
     "name":"Biodiversity and Conservation Biology Major",
     "requirements":[
       "BIO120",
-      "MAT137",
+      "MAT137"
     ]
   },
   {
     "name":"Biodiversity and Conservation Biology Major",
     "requirements":[
       "BIO120",
-      "MAT157",
+      "MAT157"
     ]
   },
   {
     "name":"Biodiversity and Conservation Biology Major",
     "requirements":[
       "BIO120",
-      "JMB170",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Ecology and Evolutionary Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY131",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Biology Major",
+    "requirements":[
+      "BIO120",
+      "PHY151",
+      "CHM151",
+      "MAT157"
     ]
   },
   {
@@ -1779,6 +2015,6 @@
     "name":"",
     "requirements":[
     ]
-  },
+  }
 ]
 }
