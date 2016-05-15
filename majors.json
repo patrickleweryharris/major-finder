@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name":"African Studies Specialist/Major",
+    "name":"African Studies Specialist/Major/Minor",
     "requirements":[
       "NEW150"
     ]
@@ -615,26 +615,636 @@
     ]
   },
   {
-    "name":"Mediaeval Studies Specialist/Major",
+    "name":"Mediaeval Studies Specialist/Major/Minor",
     "requirements":[
       "SMC175"
     ]
   },
   {
-    "name":"Mediaeval Studies Specialist/Major",
+    "name":"Mediaeval Studies Specialist/Major/Minor",
     "requirements":[
       "SMC176"
     ]
   },
   {
-    "name":"",
+    "name":"Caribbean Studies Specialist/Major/Minor",
     "requirements":[
+      "NEW120"
     ]
   },
   {
-    "name":"",
+    "name":"Animal Physiology Major",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "JMB170"
     ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Animal Physiology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Cell & Molecular Biology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Developmental Biology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "JMB170"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Biological Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemical Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM135",
+          "CHM136",
+          "MAT135",
+          "MAT136"
+      ]
+  },
+  {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM151",
+          "MAT135",
+          "MAT136"
+      ]
+  }, {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM135",
+          "CHM136",
+          "MAT137"
+      ]
+  }, {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM151",
+          "MAT137"
+      ]
+  }, {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM135",
+          "CHM136",
+          "MAT157"
+      ]
+  }, {
+      "name": "Chemistry Major/Minor",
+      "requirements": [
+          "CHM151",
+          "MAT157"
+      ]
   },
   {
     "name":"",
