@@ -1204,71 +1204,480 @@
     ]
   },
   {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM135",
-          "CHM136",
-          "MAT135",
-          "MAT136"
-      ]
-  },
-  {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM151",
-          "MAT135",
-          "MAT136"
-      ]
-  }, {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM135",
-          "CHM136",
-          "MAT137"
-      ]
-  }, {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM151",
-          "MAT137"
-      ]
-  }, {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM135",
-          "CHM136",
-          "MAT157"
-      ]
-  }, {
-      "name": "Chemistry Major/Minor",
-      "requirements": [
-          "CHM151",
-          "MAT157"
-      ]
-  },
-  {
-    "name":"",
-    "requirements":[
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
     ]
   },
   {
-    "name":"",
-    "requirements":[
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM151",
+      "MAT135",
+      "MAT136"
     ]
   },
   {
-    "name":"",
-    "requirements":[
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM135",
+      "CHM136",
+      "MAT137"
     ]
   },
   {
-    "name":"",
-    "requirements":[
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM151",
+      "MAT137"
     ]
   },
   {
-    "name":"",
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name": "Chemistry Major/Minor",
+    "requirements": [
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Minor",
+    "requirements":[
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Environmental Chemistry Minor",
+    "requirements":[
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Synthetic & Catalytic Chemistry Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Cinema Studies Specialist/Major/Minor",
+    "requirements":[
+      "CIN105"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Geophysics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Environmental Geosciences Minor",
+    "requirements":[
+      "CHM136"
+    ]
+  },
+  {
+    "name":"East Asian Studies Specialist/Major/Minor",
+    "requirements":[
+      "EAS103",
+      "EAS105"
+    ]
+  },
+  {
+    "name":"Biodiversity and Conservation Biology Major",
+    "requirements":[
+      "BIO120",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biodiversity and Conservation Biology Major",
+    "requirements":[
+      "BIO120",
+      "MAT137",
+    ]
+  },
+  {
+    "name":"Biodiversity and Conservation Biology Major",
+    "requirements":[
+      "BIO120",
+      "MAT157",
+    ]
+  },
+  {
+    "name":"Biodiversity and Conservation Biology Major",
+    "requirements":[
+      "BIO120",
+      "JMB170",
     ]
   },
   {

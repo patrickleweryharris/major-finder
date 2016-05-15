@@ -8,3 +8,7 @@ Takes your first year courses and tells you what Specialist, Major or Minor
 program(s) you are eligible for
 
 ### Currently drawing data from the 2016-2017 Arts and Science Calendar
+
+#### Problematic Programs (requirements don't really work with the JSON):
+  - Geoscience Major/Minor
+  - Earth and Environmental Systems Major
