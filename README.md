@@ -2,14 +2,14 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
-## A tool for finding your major at UofT
+#### A tool for finding your major at UofT
 
 Takes your first year courses and tells you what Specialist, Major or Minor
 program(s) you are eligible for
 
 ### Currently drawing data from the 2016-2017 Arts and Science Calendar
 
-### Data Structure
+## Data Structure
 
 The application relies on a compiled [list](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json) of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:
 
@@ -37,13 +37,13 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
 }
 ```
 
-This data structure visualized:
+This data structure visualized (from [json 2 html](http://json.bloople.net/)):
 
 ![visualized](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json-visual.png)
 
 Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this
 
-#### Problematic Programs (requirements don't work with the JSON):
+## Problematic Programs (requirements don't work with the JSON):
   - Geoscience Major/Minor
   - Earth and Environmental Systems Major
   - Ethics, Society and Law Major (Based on breadth reqs.)
@@ -54,4 +54,8 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Human Geography Specialist/Major/Minor (Pick any two courses)
   - Physical and Environmental Geography Specialist/Major/Minor
   - Geographic Information Systems Minor
-  
+  - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
+
+## License Information
+
+Major Finder is open source and released under the [MIT License](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE)
