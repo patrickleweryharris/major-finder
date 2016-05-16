@@ -3165,8 +3165,1030 @@
     ]
   },
   {
-    "name":"",
+    "name":"Italian Specialist/Major/Minor",
     "requirements":[
+      "ITA100"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "MAT137",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Pathobiology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Linguistics Specialist/Major/Minor",
+    "requirements":[
+      "LIN100",
+      "LIN102"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "MAT137",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Materials Science Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Mathematics Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "MAT247"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT137",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT137",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT157",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Mathematics Major",
+    "requirements":[
+      "MAT157",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Mathematics Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Mathematics Minor",
+    "requirements":[
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Applied Mathematics Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "MAT247",
+      "CSC108",
+      "CSC148"
+    ]
+  },
+  {
+    "name":"Mathematics and Physics Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "MAT247",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Mathematics and Philosophy Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "MAT247",
+      "PHL232"
+    ]
+  },
+  {
+    "name":"Mathematics and Philosophy Specialist",
+    "requirements":[
+      "MAT157",
+      "MAT240",
+      "MAT247",
+      "PHL233"
+    ]
+  },
+  {
+    "name":"Mathematics and Its Applications Specialist (Teaching)",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT137",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Mathematics and Its Applications Specialist (Teaching)",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT137",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Mathematics and Its Applications Specialist",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT157",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Mathematics and Its Applications Specialist",
+    "requirements":[
+      "CSC108",
+      "CSC148",
+      "MAT157",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Mathematical Applications in Economics and Finance Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT137",
+      "MAT223",
+      "MAT224"
+    ]
+  },
+  {
+    "name":"Mathematical Applications in Economics and Finance Specialist",
+    "requirements":[
+      "ECO100",
+      "MAT157",
+      "MAT223",
+      "MAT224"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "MAT137",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Molecular Genetics and Microbiology Specialist/Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Music Specialist/Major",
+    "requirements":[
+      "HMU111",
+      "HMU126",
+      "TMU115",
+      "TMU140"
+    ]
+  },
+  {
+    "name":"Music History and Culture Minor",
+    "requirements":[
+      "MUS110",
+      "MUS111"
+    ]
+  },
+  {
+    "name":"Nutritional Science Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Nutritional Science Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Pharmaceutical Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmaceutical Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmaceutical Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Pharmaceutical Chemistry Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Pharmacology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Pharmacology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Pharmacology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist ",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "name":"Biomedical Toxicology Major",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Pharmacology and Biomedical Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "name":"Environment and Toxicology Specialist",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "name":"Philosophy Specialist/Major/Minor",
+    "requirements":[
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT137",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT137",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT157",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics and Philosophy Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT157",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Bioethics Specialist/Major",
+    "requirements":[
+      "PHL100",
+      "BIO120",
+      "BIO220"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136",
+      "MAT223"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136",
+      "MAT240"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT137",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT137",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157",
+      "MAT240",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT157",
+      "MAT223",
+      "PHL100"
+    ]
+  },
+  {
+    "name":"Physics Specialist",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT157",
+      "MAT240",
+      "PHL100"
     ]
   },
   {
@@ -3219,11 +4241,7 @@
     "requirements":[
     ]
   },
-  {
-    "name":"",
-    "requirements":[
-    ]
-  },
+
   {
     "name":"",
     "requirements":[

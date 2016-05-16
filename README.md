@@ -44,6 +44,7 @@ This data structure visualized (from [json 2 html](http://json.bloople.net/)):
 Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this
 
 ## Problematic Programs (requirements don't work with the JSON):
+  - Any program without specific first year requirements
   - Geoscience Major/Minor
   - Earth and Environmental Systems Major
   - Ethics, Society and Law Major (Based on breadth reqs.)
@@ -55,6 +56,8 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Physical and Environmental Geography Specialist/Major/Minor
   - Geographic Information Systems Minor
   - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
+  - Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
+  - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
 
 ## License Information
 
