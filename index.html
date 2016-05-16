@@ -34,6 +34,11 @@ program(s) you are eligible for</p>
 <a id="currently-drawing-data-from-the-2016-2017-arts-and-science-calendar" class="anchor" href="#currently-drawing-data-from-the-2016-2017-arts-and-science-calendar" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Currently drawing data from the 2016-2017 Arts and Science Calendar</h3>
 
 <h2>
+<a id="license-information" class="anchor" href="#license-information" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License Information</h2>
+
+<p>Major Finder is open source and released under the <a href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE">MIT License</a></p>
+
+<h2>
 <a id="data-structure" class="anchor" href="#data-structure" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data Structure</h2>
 
 <p>The application relies on a compiled <a href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json">list</a> of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:</p>
@@ -67,7 +72,7 @@ program(s) you are eligible for</p>
 <p>Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this</p>
 
 <h2>
-<a id="problematic-programs-requirements-dont-work-with-the-json" class="anchor" href="#problematic-programs-requirements-dont-work-with-the-json" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Problematic Programs (requirements don't work with the JSON):</h2>
+<a id="programs-not-included-in-the-application-for-now-due-to-complicated-requirements" class="anchor" href="#programs-not-included-in-the-application-for-now-due-to-complicated-requirements" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/patrickleweryharris/major-finder/issues/1">Programs not included in the application (for now) due to complicated requirements</a>:</h2>
 
 <ul>
 <li>Any program without specific first year requirements</li>
@@ -77,19 +82,73 @@ program(s) you are eligible for</p>
 <li>International Relations Specialist (Only some variants of the reqs.)</li>
 <li>Forest Conservation Science Specialist/Major/Minor</li>
 <li>Forest Conservation Specialist/Major/Minor</li>
-<li>Environmental Geography Specialist/Major (Pick any two courses)</li>
-<li>Human Geography Specialist/Major/Minor (Pick any two courses)</li>
+<li>Environmental Geography Specialist/Major ("Pick any two courses")</li>
+<li>Human Geography Specialist/Major/Minor ("Pick any two courses")</li>
 <li>Physical and Environmental Geography Specialist/Major/Minor</li>
 <li>Geographic Information Systems Minor</li>
 <li>Urban Studies Specialist/Major/Minor (Pick selections of different courses)</li>
 <li>Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)</li>
 <li>Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)</li>
+<li>Physiology Major/Minor ("Pick any of the following")</li>
 </ul>
 
 <h2>
-<a id="license-information" class="anchor" href="#license-information" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License Information</h2>
+<a id="programs-that-need-to-be-added" class="anchor" href="#programs-that-need-to-be-added" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/patrickleweryharris/major-finder/issues/2">Programs that need to be added</a>:</h2>
 
-<p>Major Finder is open source and released under the <a href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE">MIT License</a></p>
+<ul>
+<li>Sociology Specialist/Major/Minor</li>
+<li>South Asian Studies Minor</li>
+<li>Spanish Specialist/Major/Minor</li>
+<li>Statistics Specialist/Major/Minor</li>
+<li>Applied Statistics Specialist</li>
+<li>Women and Gender Studies Specialist/Major/Minor</li>
+</ul>
+
+<h2>
+<a id="algorithm-construction" class="anchor" href="#algorithm-construction" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Algorithm Construction</h2>
+
+<ul>
+<li>Program design is fairly simple</li>
+<li>Takes sanitized input of first year courses from a user, and organizes them into an array
+
+<ul>
+<li>For example, a user may enter:
+MAT137Y, CSC148H, csc165h, ita100</li>
+<li>The application will interpret this as:
+<code>
+["MAT137", "CSC148", "CSC165", "ITA100"]
+</code>
+</li>
+</ul>
+</li>
+<li>Passing this data into our algorithm, we compare the user's input with data from the <a href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json">list of programs</a>
+</li>
+<li>If a programs <code>"requirements"</code> are entirely contained in the input, that program's <code>"name"</code> is added to the list of programs returned to the user when the program terminates</li>
+<li>Repeat the previous step until the list of programs has been exhausted</li>
+<li>Display the list of programs that the user qualifies for</li>
+<li>
+<p>For our example above, this list would be:</p>
+
+<pre><code>Computer Science Specialist/Major/Minor
+
+Italian Specialist/Major/Minor
+
+European Studies Major (Italian)
+
+Statistics Specialist/Major/Minor
+
+Applied Statistics Specialist
+</code></pre>
+</li>
+</ul>
+
+<h2>
+<a id="possible-improvements" class="anchor" href="#possible-improvements" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><a href="https://github.com/patrickleweryharris/major-finder/issues/3">Possible improvements</a>
+</h2>
+
+<ul>
+<li>Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)</li>
+</ul>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/patrickleweryharris/major-finder">Major-finder</a> is maintained by <a href="https://github.com/patrickleweryharris">patrickleweryharris</a>.</span>
