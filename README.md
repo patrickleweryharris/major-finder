@@ -86,11 +86,16 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Repeat the previous step until the list of programs has been exhausted
   - Display the list of programs that the user qualifies for
   - For our example above, this list would be:
+  
     ```
     Computer Science Specialist/Major/Minor
+
     Italian Specialist/Major/Minor
+
     European Studies Major (Italian)
+
     Statistics Specialist/Major/Minor
+
     Applied Statistics Specialist
     ```
 
