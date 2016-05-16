@@ -47,7 +47,7 @@ This data structure visualized (from [json 2 html](http://json.bloople.net/)):
 
 Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this
 
-## Programs not included in the application (for now) due to complicated requirements:
+## [Programs not included in the application (for now) due to complicated requirements](https://github.com/patrickleweryharris/major-finder/issues/1):
   - Any program without specific first year requirements
   - Geoscience Major/Minor
   - Earth and Environmental Systems Major
@@ -64,7 +64,7 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
   - Physiology Major/Minor ("Pick any of the following")
 
-## Programs that need to be added:
+## [Programs that need to be added](https://github.com/patrickleweryharris/major-finder/issues/2):
   - Sociology Specialist/Major/Minor
   - South Asian Studies Minor
   - Spanish Specialist/Major/Minor
@@ -86,5 +86,5 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Repeat the previous step until the list of programs has been exhausted
   - Display the list of programs that the user qualifies for
 
-## Possible improvements
+## [Possible improvements](https://github.com/patrickleweryharris/major-finder/issues/3)
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
