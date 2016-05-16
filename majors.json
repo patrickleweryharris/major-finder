@@ -4248,33 +4248,115 @@
     ]
   },
   {
-    "name":"",
+    "name":"Physiology Specialist",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
     ]
   },
   {
-    "name":"",
+    "name":"Physiology Specialist",
     "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
     ]
   },
   {
-    "name":"",
+    "name":"Physiology Specialist",
     "requirements":[
+      "PSL190",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
     ]
   },
   {
-    "name":"",
+    "name":"Physiology Specialist",
     "requirements":[
+      "PSL190",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
     ]
   },
   {
-    "name":"",
+    "name":"Planetary Science Specialist",
     "requirements":[
+      "CHM151",
+      "PHY151",
+      "PHY152",
+      "MAT137"
     ]
   },
   {
-    "name":"",
+    "name":"Planetary Science Specialist",
     "requirements":[
+      "CHM151",
+      "PHY131",
+      "PHY132",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Planetary Science Specialist",
+    "requirements":[
+      "CHM151",
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Planetary Science Specialist",
+    "requirements":[
+      "CHM151",
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Political Science Specialist/Major/Minor",
+    "requirements":[
+      "POL101"
+    ]
+  },
+  {
+    "name":"Portuguese Specialist",
+    "requirements":[
+      "PRT100"
+    ]
+  },
+  {
+    "name":"Portuguese Specialist/Major/Minor",
+    "requirements":[
+      "PRT120"
+    ]
+  },
+  {
+    "name":"Psychology Specialist/Major/Minor",
+    "requirements":[
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Psychology Research Specialist (Type 3 with hard reqs.)",
+    "requirements":[
+      "PSY100"
     ]
   },
   {

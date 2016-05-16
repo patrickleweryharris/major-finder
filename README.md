@@ -51,13 +51,14 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - International Relations Specialist (Only some variants of the reqs.)
   - Forest Conservation Science Specialist/Major/Minor
   - Forest Conservation Specialist/Major/Minor
-  - Environmental Geography Specialist/Major (Pick any two courses)
-  - Human Geography Specialist/Major/Minor (Pick any two courses)
+  - Environmental Geography Specialist/Major ("Pick any two courses")
+  - Human Geography Specialist/Major/Minor ("Pick any two courses")
   - Physical and Environmental Geography Specialist/Major/Minor
   - Geographic Information Systems Minor
   - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
   - Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
+  - Physiology Major/Minor ("Pick any of the following")
 
 ## License Information
 
