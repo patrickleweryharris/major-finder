@@ -4360,24 +4360,228 @@
     ]
   },
   {
-    "name":"",
+    "name":"Education and Society Minor",
     "requirements":[
+      "PSY100"
+    ]
+  },
+  {
+    "name":"Literature and Critical Theory in the Comparative Literature Stream Specialist/Major",
+    "requirements":[
+      "VIC202"
+    ]
+  },
+  {
+    "name":"Literature and Critical Theory in the Cultural Theory Stream Specialist/Major",
+    "requirements":[
+      "VIC202"
+    ]
+  },
+  {
+    "name":"Major in Public Policy",
+    "requirements":[
+      "POl101",
+      "ECO100"
+    ]
+  },
+  {
+    "name":"Major in Public Policy",
+    "requirements":[
+      "POl101",
+      "ECO105"
+    ]
+  },
+  {
+    "name":"Religion Specialist/Major/Minor",
+    "requirements":[
+      "RLG100"
+    ]
+  },
+  {
+    "name":"Religion Specialist/Major/Minor",
+    "requirements":[
+      "RLG101"
+    ]
+  },
+  {
+    "name":"Buddhist Studies Specialist/Major",
+    "requirements":[
+      "RLG100"
+    ]
+  },
+  {
+    "name":"Buddhist Studies Specialist/Major",
+    "requirements":[
+      "RLG101"
+    ]
+  },
+  {
+    "name":"Islamic Studies Major",
+    "requirements":[
+      "RLG100"
+    ]
+  },
+  {
+    "name":"Islamic Studies Major",
+    "requirements":[
+      "RLG101"
+    ]
+  },
+  {
+    "name":"Chrisitan Origins Specialist",
+    "requirements":[
+      "RLG100"
+    ]
+  },
+  {
+    "name":"Chrisitan Origins Specialist",
+    "requirements":[
+      "RLG101"
+    ]
+  },
+  {
+    "name":"Rotman Commerce",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Rotman Commerce",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Rotman Commerce",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Rotman Commerce",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Finance and Economics Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Finance and Economics Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Finance and Economics Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Finance and Economics Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Management Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Management Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Management Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Management Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Accounting Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "name":"Accounting Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Accounting Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Accounting Specialist (BCom)",
+    "requirements":[
+      "RSM100",
+      "ECO100",
+      "MAT157"
     ]
   },
   {
     "name":"",
     "requirements":[
-    ]
-  },
-  {
-    "name":"",
-    "requirements":[
+
     ]
   },
 
   {
-    "name":"",
+    "name":"Literature and Critical Theory Minor",
     "requirements":[
+      "VIC202"
     ]
   }
 ]
