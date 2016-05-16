@@ -4117,8 +4117,7 @@
       "PHY131",
       "PHY132",
       "MAT137",
-      "MAT223",
-      "PHL100"
+      "MAT223"
     ]
   },
   {
@@ -4127,8 +4126,7 @@
       "PHY131",
       "PHY132",
       "MAT137",
-      "MAT240",
-      "PHL100"
+      "MAT240"
     ]
   },
   {
@@ -4137,8 +4135,7 @@
       "PHY151",
       "PHY152",
       "MAT137",
-      "MAT223",
-      "PHL100"
+      "MAT223"
     ]
   },
   {
@@ -4147,8 +4144,7 @@
       "PHY151",
       "PHY152",
       "MAT137",
-      "MAT240",
-      "PHL100"
+      "MAT240"
     ]
   },
   {
@@ -4157,8 +4153,7 @@
       "PHY131",
       "PHY132",
       "MAT157",
-      "MAT223",
-      "PHL100"
+      "MAT223"
     ]
   },
   {
@@ -4167,8 +4162,7 @@
       "PHY131",
       "PHY132",
       "MAT157",
-      "MAT240",
-      "PHL100"
+      "MAT240"
     ]
   },
   {
@@ -4177,8 +4171,7 @@
       "PHY151",
       "PHY152",
       "MAT157",
-      "MAT223",
-      "PHL100"
+      "MAT223"
     ]
   },
   {
@@ -4187,13 +4180,71 @@
       "PHY151",
       "PHY152",
       "MAT157",
-      "MAT240",
-      "PHL100"
+      "MAT240"
     ]
   },
   {
-    "name":"",
+    "name":"Physics Major",
     "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Physics Major",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "name":"Physics Major",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Physics Major",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT137"
+    ]
+  },
+  {
+    "name":"Physics Major",
+    "requirements":[
+      "PHY131",
+      "PHY132",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Physics Major",
+    "requirements":[
+      "PHY151",
+      "PHY152",
+      "MAT157"
+    ]
+  },
+  {
+    "name":"Physics Minor",
+    "requirements":[
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "name":"Physics Minor",
+    "requirements":[
+      "PHY151",
+      "PHY152"
     ]
   },
   {
