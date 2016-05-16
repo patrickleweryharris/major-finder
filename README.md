@@ -70,7 +70,7 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
     - For example, a user may enter:
       MAT137Y, CSC148H, csc165h, ita100
     - The application will interpret this as:
-      ```json
+      ```
       ["MAT137", "CSC148", "CSC165", "ITA100"]
       ```
     - Passing this data into our algorithm, we compare the user's input with data from the [list of programs](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json)
