@@ -64,6 +64,14 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
   - Physiology Major/Minor ("Pick any of the following")
 
+## Programs that need to be added:
+  - Sociology Specialist/Major/Minor
+  - South Asian Studies Minor
+  - Spanish Specialist/Major/Minor
+  - Statistics Specialist/Major/Minor
+  - Applied Statistics Specialist
+  - Women and Gender Studies Specialist/Major/Minor
+
 ## Algorithm Construction
   - Program design is fairly simple
   - Takes sanitized input of first year courses from a user, and organizes them into an array
@@ -73,10 +81,10 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
       ```
       ["MAT137", "CSC148", "CSC165", "ITA100"]
       ```
-    - Passing this data into our algorithm, we compare the user's input with data from the [list of programs](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json)
-    - If a programs `"requirements"` are entirely contained in the input, that program's `"name"` is added to the list of programs returned to the user when the program terminates
-    - Repeat the previous step until the list of programs has been exhausted
-    - Display the list of programs that the user qualifies for
+  - Passing this data into our algorithm, we compare the user's input with data from the [list of programs](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json)
+  - If a programs `"requirements"` are entirely contained in the input, that program's `"name"` is added to the list of programs returned to the user when the program terminates
+  - Repeat the previous step until the list of programs has been exhausted
+  - Display the list of programs that the user qualifies for
 
 ## Possible improvements
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
