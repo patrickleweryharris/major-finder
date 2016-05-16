@@ -85,6 +85,14 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - If a programs `"requirements"` are entirely contained in the input, that program's `"name"` is added to the list of programs returned to the user when the program terminates
   - Repeat the previous step until the list of programs has been exhausted
   - Display the list of programs that the user qualifies for
+  - For our example above, this list would be:
+    ```
+    Computer Science Specialist/Major/Minor
+    Italian Specialist/Major/Minor
+    European Studies Major (Italian)
+    Statistics Specialist/Major/Minor
+    Applied Statistics Specialist
+    ```
 
 ## [Possible improvements](https://github.com/patrickleweryharris/major-finder/issues/3)
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
