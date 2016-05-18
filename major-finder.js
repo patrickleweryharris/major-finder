@@ -1,6 +1,6 @@
 /*
 
-Major Finder 0.0.1
+Major Finder 0.0.2
 
 Find majors you are eligible for at UofT
 
@@ -15,20 +15,25 @@ Github site: http://github.com/patrickleweryharris/major-finder
 
 */
 
-function load(){
+// Getting user input and sanitizing it
+var userInputText;
+var userInput;
+var programOutput;
+function getInput(){
+  userInputText = document.getElementById('input1').value;
+  console.log(userInputText);
+  userInput = userInputText.split(',');
+  console.log(userInput);
+  // Needs to capitalize each item
+  // Take only the first six chars of each item
+}
+
+// Finding majors
+function findMajors(){
   $.getJSON('http://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
     console.log("JSON loaded");
+    getInput();
     window.alert(data[0].name);
+    window.alert(userInput);
   });
 }
-// Input santization ----------
-
-// ----------------------------
-
-
-// Comparison with JSON file ---
-
-// ----------------------------
-
-
-// Return data
