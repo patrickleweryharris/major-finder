@@ -17,14 +17,11 @@ Github site: http://github.com/patrickleweryharris/major-finder
 
 // Getting user input and sanitizing it
 var userInput;
-var programOutput;
+var programOutput = "You are eligible for:";
 function getInput(){
   var userInputText = document.getElementById('input1').value;
-  console.log(userInputText);
   userInputText = userInputText.toUpperCase(); // Capitalize each item in string
-  console.log(userInputText);
-  userInput = userInputText.split(',');
-  console.log(userInput);
+  userInput = userInputText.split(','); // Make input into an array we can traverse
   var len = userInput.length;
   for (i = 0; i < len; i++){ // Loop for input sanitizing
     userInput[i] = userInput[i].trim(); // Remove any whitespace
@@ -38,6 +35,40 @@ function findMajors(){
   $.getJSON('http://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
     console.log("JSON loaded");
     getInput();
-    window.alert(userInput);
+    var len = data.length;
+    for (i = 0; i < len; i++){
+      var flag = isSub(userInput, data[i].requirements);
+      if (flag === true){
+        programOutput = programOutput.concat(data[i].postName);
+        console.log(programOutput);
+      }
+    }
   });
+}
+
+/*
+
+Helper function for comparing the arrays
+
+Sort both arrays, traverse both.
+Compare the elements. If an element in the post_reqs is not found in the
+inputted courses, then the courses do not meet the post requirements
+
+*/
+function isSub(courses, post_reqs){
+  courses.sort();
+  post_reqs.sort();
+  var i, j;
+  for(i = 0, j = 0; i < courses.length && j < post_reqs.length;){
+    if (courses[i] < post_reqs[j]){
+      ++i;
+    }
+    else if (courses[i] == post_reqs[j]){
+      ++i; ++j;
+    }
+    else{
+      return false;
+    }
+  }
+  return j == post_reqs.length;
 }

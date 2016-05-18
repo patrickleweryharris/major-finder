@@ -72,8 +72,7 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Applied Statistics Specialist
   - Women and Gender Studies Specialist/Major/Minor
 
-## Algorithm Construction
-  - Program design is fairly simple
+## Program Design
   - Takes sanitized input of first year courses from a user, and organizes them into an array
     - For example, a user may enter:
       MAT137Y, CSC148H, csc165h, ita100
@@ -86,7 +85,7 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Repeat the previous step until the list of programs has been exhausted
   - Display the list of programs that the user qualifies for
   - For our example above, this list would be:
-  
+
     ```
     Computer Science Specialist/Major/Minor
 
