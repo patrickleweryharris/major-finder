@@ -17,27 +17,33 @@
 
     <!-- CSS Linking
   ================================================== -->
-  <link rel="stylesheet" href="https://plh.io/stylesheets/home.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css">
+    <link rel="stylesheet" href="https://plh.io/stylesheets/home.css">
 
     <!-- javascript
   ================================================== -->
-  <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/major-finder.js"></script>
+    <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/major-finder.js"></script>
 
     <!-- Favicons
 ================================================== -->
-  <link rel="shortcut icon" href="images/favicon.ico">
-  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="https://plh.io/images/favicon.ico">
+    <link rel="apple-touch-icon" href="https://plh.io/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://plh.io/images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://plh.io/images/apple-touch-icon-114x114.png">
 </head>
+
 <body>
-     <h1> Major Finder (Version 1.0.0) </h1>
-     <p> Enter your first year courses seperated by commas </p>
-     <input type="text" id="input1" />
-     <button onclick="findMajors()"></button>
-     <div>
-       <p id="output1">
-       </p>
-     </div>
+    <div class="top">
+        <a href="https://plh.io/"><img id="rotate" src="https://plh.io/images/home.png" width="70" height="70" alt="top" /></a>
+    </div>
+    <h1> Major Finder (Version 1.0.0) </h1>
+    <p> Enter your first year courses seperated by commas </p>
+    <input type="text" id="input1" />
+    <button onclick="findMajors()"></button>
+    <div>
+        <p id="output1">
+        </p>
+    </div>
+    Made with <span class="love">♥</span> by <a href="https://plh.io" target="blank">Patrick Harris</a>
 </body>
