@@ -1,5 +1,4 @@
-{
-  "majors" : [
+[
   {
     "name":"Computer Science Major/Specialist/Minor",
     "requirements:":[
@@ -4585,4 +4584,3 @@
     ]
   }
 ]
-}
