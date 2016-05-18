@@ -1,6 +1,6 @@
 /*
 
-Major Finder 0.0.2
+Major Finder 0.1.0
 
 Find majors you are eligible for at UofT
 
@@ -39,10 +39,11 @@ function findMajors(){
     for (i = 0; i < len; i++){
       var flag = isSub(userInput, data[i].requirements);
       if (flag === true){
+        programOutput = programOutput.concat("\n");
         programOutput = programOutput.concat(data[i].postName);
-        console.log(programOutput);
       }
     }
+    console.log(programOutput);
   });
 }
 
