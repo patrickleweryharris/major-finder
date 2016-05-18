@@ -16,16 +16,21 @@ Github site: http://github.com/patrickleweryharris/major-finder
 */
 
 // Getting user input and sanitizing it
-var userInputText;
 var userInput;
 var programOutput;
 function getInput(){
-  userInputText = document.getElementById('input1').value;
+  var userInputText = document.getElementById('input1').value;
+  console.log(userInputText);
+  userInputText = userInputText.toUpperCase(); // Capitalize each item in string
   console.log(userInputText);
   userInput = userInputText.split(',');
   console.log(userInput);
-  // Needs to capitalize each item
-  // Take only the first six chars of each item
+  var len = userInput.length;
+  for (i = 0; i < len; i++){ // Loop for input sanitizing
+    userInput[i] = userInput[i].trim(); // Remove any whitespace
+    userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
+  }
+  console.log(userInput);
 }
 
 // Finding majors
@@ -33,7 +38,6 @@ function findMajors(){
   $.getJSON('http://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
     console.log("JSON loaded");
     getInput();
-    window.alert(data[0].name);
     window.alert(userInput);
   });
 }
