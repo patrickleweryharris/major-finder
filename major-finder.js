@@ -1,12 +1,9 @@
 // See README.md for algorithm design
 function load(){
-  var posts;
   $.getJSON('http://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
-    console.log(data);
-    posts = data;
+    console.log("JSON loaded");
+    window.alert(data[0].name);
   });
-  window.alert(posts[0].name);
-  console.log(posts[0].requirements[3]);
 }
 // Input santization ----------
 
