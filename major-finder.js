@@ -1,10 +1,10 @@
 /*
 
-Major Finder 0.1.0
+Major Finder 1.0.0
 
 Find majors you are eligible for at UofT
 
-Copyright (c) 2016 Patrick Harris (plh.io)
+Copyright (c) 2016 Patrick Harris (https://plh.io)
 
 Licensed under the MIT License
 https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE
@@ -32,18 +32,18 @@ function getInput(){
 
 // Finding majors
 function findMajors(){
-  $.getJSON('http://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
+  $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
     console.log("JSON loaded");
     getInput();
     var len = data.length;
     for (i = 0; i < len; i++){
       var flag = isSub(userInput, data[i].requirements);
       if (flag === true){
-        programOutput = programOutput.concat("\n");
+        programOutput = programOutput.concat("<br>");
         programOutput = programOutput.concat(data[i].postName);
       }
     }
-    console.log(programOutput);
+    document.getElementById("output1").innerHTML = programOutput;
   });
 }
 
@@ -62,7 +62,7 @@ function isSub(courses, post_reqs){
   var i, j;
   for(i = 0, j = 0; i < courses.length && j < post_reqs.length;){
     if (courses[i] < post_reqs[j]){
-      ++i;
+      ++i; // Something appears in input that reqs doesn't need or have
     }
     else if (courses[i] == post_reqs[j]){
       ++i; ++j;
