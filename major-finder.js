@@ -54,7 +54,7 @@ function findMajors(){
 
       }
 
-      document.getElementById("program_eligibility").innerHTML = programOutput;
+      document.getElementById("program_eligible").innerHTML = programOutput;
   
   });
 }
