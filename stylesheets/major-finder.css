@@ -5,6 +5,47 @@ body {
 	font-weight: 300;
 }
 
+header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  height: 60px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 60px;
+}
+
+.left {
+  position: fixed;
+  left: 4em;
+  width: 33%;
+  height: 60%;
+  top: 8em;
+}
+
+.right {
+  position: fixed;
+  right: 4em;
+  width: 33%;
+  top: 8em;
+}
+
+.center {
+    margin: auto;
+    position: absolute;
+    top: 10em;
+    left: 45%;
+    width: 15%;
+}
+
+.longInput{
+  font-family: "source-sans-pro";
+  font-size: 14pt;
+}
 .credits {
 	text-align: center;
 	font-size: 1.3em;
@@ -53,4 +94,104 @@ body {
 
 @keyframes love {
   to { transform: scale(1.1); }
+}
+
+.center .myButton {
+	background-color:#7182a2;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:7px solid #8397bc;
+	display:inline-block;
+	cursor:pointer;
+	color:#f2f2f2;
+	font-family:"source-sans-pro";
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.center .myButton:hover {
+	background-color:#7182a2;
+}
+.center .myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.title {
+	margin: 0;
+	font-size: 72px;
+	text-align: center;
+	font-family: "abril-text";
+}
+
+.subtitle {
+	margin: 0 0 10px;
+	font-size: 28px;
+	font-weight: 400;
+  text-align: center;
+}
+
+.orange .title,
+.orange .subtitle a,
+.orange .instructions a,
+.orange .instructions h3,
+.orange .instructions code {
+	color: rgba(255, 184, 108, 1);
+}
+
+.orange .instructions a:hover {
+	color: rgba(255, 184, 108, .7);
+}
+
+.pink .title,
+.pink .subtitle a,
+.pink .instructions a,
+.pink .instructions h3,
+.pink .instructions code {
+	color: rgba(255, 121, 198, 1);
+}
+
+.pink .instructions a:hover {
+	color: rgba(255, 121, 198, .7);
+}
+
+.cyan .title,
+.cyan .subtitle a,
+.cyan .instructions a,
+.cyan .instructions h3,
+.cyan .instructions code {
+	color: rgba(139, 233, 253, 1);
+}
+
+.cyan .instructions a:hover {
+	color: rgba(139, 233, 253, .7);
+}
+
+.purple .title,
+.purple .subtitle a,
+.purple .instructions a,
+.purple .instructions h3,
+.purple .instructions code {
+	color: rgba(189, 147, 249, 1);
+}
+
+.purple .instructions a:hover {
+	color: rgba(189, 147, 249, .7);
+}
+
+.green .title,
+.green .subtitle a {
+	color: rgb(80, 250, 123);
+}
+
+.green .subtitle a:hover {
+	color: rgba(80, 250, 123, .7);
+}
+
+textarea {
+  resize: none;
+  width: 100%;
+  height: 100%;
 }

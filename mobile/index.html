@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <!-- Basic Meta Tags
   ================================================== -->
     <meta charset="utf-8">
@@ -31,39 +32,20 @@
     <link rel="apple-touch-icon" href="https://plh.io/images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="https://plh.io/images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="https://plh.io/images/apple-touch-icon-114x114.png">
-    <script type="text/javascript">
-      <!--
-      if (screen.width <= 800) {
-        window.location = "https://plh.io/major-finder/mobile";
-      }
-      //-->
-    </script>
 </head>
 
 <body>
     <div class="top">
         <a href="https://plh.io/"><img id="rotate" src="https://plh.io/images/home.png" width="70" height="70" alt="top" /></a>
     </div>
-    <header class="green">
-        <h1 class="title">Major Finder</h1>
-        <h2 class="subtitle"> A tool for finding your major at UofT</h2>
-    </header>
-    <div class="left">
-        <p> Enter your first year course codes seperated by commas</p>
-        <textarea id="input1" class="longInput" cols="50" rows="20" placeholder="CSC165, CSC148, MAT137..."></textarea>
-    </div>
-    <div class="center">
-        <button class="myButton" onclick="findMajors()">
-            Submit
-        </button>
-    </div>
-    <div class="right">
+    <h1> Major Finder</h1>
+    <p> Enter your first year courses seperated by commas </p>
+    <input type="text" id="input1" />
+    <button onclick="findMajors()">Submit</button>
+    <div>
         <p id="output1">
         </p>
     </div>
-    <footer>
-        <p class="credits">Made with <span class="love">♥</span> by <a class="green" href="https://plh.io" target="blank">Patrick Harris</a> under <a class="orange" href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE" target="blank">MIT license</a></p>
-    </footer>
-</body>
+    <p class="credits">Made with <span class="love">♥</span> by <a class="green" ref="https://plh.io" target="blank">Patrick Harris</a> under <a class="orange" href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE" target="blank">MIT license</a></p>
 
-</html>
+</body>
