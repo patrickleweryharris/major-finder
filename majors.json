@@ -1,6 +1,6 @@
 [
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "postName":"Computer Science Major/Specialist/Minor",
+    "postName":"Computer Science Major / Specialist / Minor",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -50,13 +50,13 @@
     ]
   },
   {
-    "postName":"African Studies Specialist/Major/Minor",
+    "postName":"African Studies Specialist / Major / Minor",
     "requirements":[
       "NEW150"
     ]
   },
   {
-    "postName":"Acturial Science Specialist/Major",
+    "postName":"Acturial Science Specialist / Major",
     "requirements":[
       "ECO100",
       "MAT137",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "postName":"Acturial Science Specialist/Major",
+    "postName":"Acturial Science Specialist / Major",
     "requirements":[
       "ECO100",
       "MAT157",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "postName":"Anthropology Major/Minor (General)",
+    "postName":"Anthropology Major / Minor (General)",
     "requirements":[
       "ANT100"
     ]
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "postName":"Anthropology Specialist/Major (Society, Culture, and Language)",
+    "postName":"Anthropology Specialist / Major (Society, Culture, and Language)",
     "requirements":[
       "ANT100",
       "ANT207"
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -307,7 +307,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -317,7 +317,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -327,7 +327,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -337,7 +337,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "postName":"Biochemistry Specialist/Major",
+    "postName":"Biochemistry Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -485,7 +485,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT137",
       "CHM135",
@@ -516,7 +516,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT137",
       "CHM151",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT157",
       "CHM135",
@@ -535,7 +535,7 @@
     ]
   },
   {
-    "postName":"Biology Specialist/Major",
+    "postName":"Biology Specialist / Major",
     "requirements":[
       "MAT157",
       "CHM151",
@@ -610,26 +610,26 @@
     ]
   },
   {
-    "postName":"Book and Media Studies Major/Minor (complicated requirements, see calendar)",
+    "postName":"Book and Media Studies Major / Minor (complicated requirements, see calendar)",
     "requirements":[
       "SMC188"
     ]
   },
   {
-    "postName":"Celtic Studies Specialist/Major",
+    "postName":"Celtic Studies Specialist / Major",
     "requirements":[
       "SMC141",
       "SMC188"
     ]
   },
   {
-    "postName":"Christianity and Culture Specialist/Major",
+    "postName":"Christianity and Culture Specialist / Major",
     "requirements":[
       "SMC103"
     ]
   },
   {
-    "postName":"Christianity and Culture Specialist/Major",
+    "postName":"Christianity and Culture Specialist / Major",
     "requirements":[
       "SMC188"
     ]
@@ -647,19 +647,19 @@
     ]
   },
   {
-    "postName":"Mediaeval Studies Specialist/Major/Minor",
+    "postName":"Mediaeval Studies Specialist / Major / Minor",
     "requirements":[
       "SMC175"
     ]
   },
   {
-    "postName":"Mediaeval Studies Specialist/Major/Minor",
+    "postName":"Mediaeval Studies Specialist / Major / Minor",
     "requirements":[
       "SMC176"
     ]
   },
   {
-    "postName":"Caribbean Studies Specialist/Major/Minor",
+    "postName":"Caribbean Studies Specialist / Major / Minor",
     "requirements":[
       "NEW120"
     ]
@@ -785,7 +785,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -796,7 +796,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -806,7 +806,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -835,7 +835,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -844,7 +844,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -854,7 +854,7 @@
     ]
   },
   {
-    "postName":"Cell & Molecular Biology Specialist/Major",
+    "postName":"Cell & Molecular Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1245,7 +1245,7 @@
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM151",
       "MAT135",
@@ -1253,7 +1253,7 @@
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1261,14 +1261,14 @@
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM151",
       "MAT137"
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1276,7 +1276,7 @@
     ]
   },
   {
-    "postName": "Chemistry Major/Minor",
+    "postName": "Chemistry Major / Minor",
     "requirements": [
       "CHM151",
       "MAT157"
@@ -1556,7 +1556,7 @@
     ]
   },
   {
-    "postName":"Cinema Studies Specialist/Major/Minor",
+    "postName":"Cinema Studies Specialist / Major / Minor",
     "requirements":[
       "CIN105"
     ]
@@ -1677,7 +1677,7 @@
     ]
   },
   {
-    "postName":"East Asian Studies Specialist/Major/Minor",
+    "postName":"East Asian Studies Specialist / Major / Minor",
     "requirements":[
       "EAS103",
       "EAS105"
@@ -1713,7 +1713,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1724,7 +1724,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1734,7 +1734,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1744,7 +1744,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1753,7 +1753,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1763,7 +1763,7 @@
     ]
   },
   {
-    "postName":"Ecology and Evolutionary Biology Specialist/Major",
+    "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1955,14 +1955,14 @@
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO100",
       "MAT133"
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO100",
       "MAT135",
@@ -1970,28 +1970,28 @@
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO100",
       "MAT137"
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO100",
       "MAT157"
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO105",
       "MAT133"
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO105",
       "MAT135",
@@ -1999,14 +1999,14 @@
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO105",
       "MAT137"
     ]
   },
   {
-    "postName":"Economics Major/Minor (Arts)",
+    "postName":"Economics Major / Minor (Arts)",
     "requirements":[
       "ECO105",
       "MAT157"
@@ -2049,21 +2049,21 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "SOC101"
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "SOC101"
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "SOC102",
@@ -2071,7 +2071,7 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "SOC102",
@@ -2079,7 +2079,7 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "SOC102",
@@ -2087,7 +2087,7 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "SOC102",
@@ -2095,7 +2095,7 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "PSY100",
@@ -2103,7 +2103,7 @@
     ]
   },
   {
-    "postName":"Employment Relations Specialist/Major",
+    "postName":"Employment Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "PSY100",
@@ -2111,25 +2111,25 @@
     ]
   },
   {
-    "postName":"English Specialist/Major/Minor",
+    "postName":"English Specialist / Major / Minor",
     "requirements":[
       "ENG110"
     ]
   },
   {
-    "postName":"English Specialist/Major/Minor",
+    "postName":"English Specialist / Major / Minor",
     "requirements":[
       "ENG140"
     ]
   },
   {
-    "postName":"English Specialist/Major/Minor",
+    "postName":"English Specialist / Major / Minor",
     "requirements":[
       "ENG150"
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2137,7 +2137,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2145,7 +2145,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2153,7 +2153,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2161,7 +2161,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2169,7 +2169,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2177,7 +2177,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2185,7 +2185,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2193,7 +2193,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2201,7 +2201,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2209,7 +2209,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2217,7 +2217,7 @@
     ]
   },
   {
-    "postName":"Environmental Science Major/Minor",
+    "postName":"Environmental Science Major / Minor",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2232,7 +2232,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2240,7 +2240,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2248,7 +2248,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2257,7 +2257,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2265,7 +2265,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2273,7 +2273,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2282,7 +2282,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2290,7 +2290,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2298,7 +2298,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2307,7 +2307,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2315,7 +2315,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2323,7 +2323,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2332,7 +2332,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2340,7 +2340,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2348,7 +2348,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2357,7 +2357,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2365,7 +2365,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2373,7 +2373,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2382,7 +2382,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2390,7 +2390,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2398,7 +2398,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2407,7 +2407,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2415,7 +2415,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2423,7 +2423,7 @@
     ]
   },
   {
-    "postName":"International Relations Specialist/Major",
+    "postName":"International Relations Specialist / Major",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2507,28 +2507,28 @@
     ]
   },
   {
-    "postName":"Finnish Studies Major/Minor",
+    "postName":"Finnish Studies Major / Minor",
     "requirements":[
       "FIN100",
       "FIN110"
     ]
   },
   {
-    "postName":"Forest Biomaterials Science Major/Minor",
+    "postName":"Forest Biomaterials Science Major / Minor",
     "requirements":[
       "BIO120",
       "ECO100"
     ]
   },
   {
-    "postName":"Forest Biomaterials Science Major/Minor",
+    "postName":"Forest Biomaterials Science Major / Minor",
     "requirements":[
       "BIO120",
       "ECO105"
     ]
   },
   {
-    "postName":"Forest Biomaterials Science Major/Minor",
+    "postName":"Forest Biomaterials Science Major / Minor",
     "requirements":[
       "BIO120",
       "MAT135",
@@ -2536,7 +2536,7 @@
     ]
   },
   {
-    "postName":"Forest Biomaterials Science Major/Minor",
+    "postName":"Forest Biomaterials Science Major / Minor",
     "requirements":[
       "BIO120",
       "MSE101",
@@ -2544,25 +2544,25 @@
     ]
   },
   {
-    "postName":"French Language and Literature Specialist/Major",
+    "postName":"French Language and Literature Specialist / Major",
     "requirements":[
       "FSL121"
     ]
   },
   {
-    "postName":"French Language and Literature Specialist/Major",
+    "postName":"French Language and Literature Specialist / Major",
     "requirements":[
       "FSL221"
     ]
   },
   {
-    "postName":"French Language and French Linguistics Specialist/Major",
+    "postName":"French Language and French Linguistics Specialist / Major",
     "requirements":[
       "FSL121"
     ]
   },
   {
-    "postName":"French Language and French Linguistics Specialist/Major",
+    "postName":"French Language and French Linguistics Specialist / Major",
     "requirements":[
       "FSL221"
     ]
@@ -2706,7 +2706,7 @@
     ]
   },
   {
-    "postName":"German Studies Specialist/Major/Minor",
+    "postName":"German Studies Specialist / Major / Minor",
     "requirements":[
       "GER100"
     ]
@@ -2718,73 +2718,73 @@
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS100"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS101"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS102"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS103"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS106"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS107"
     ]
   },
   {
-    "postName":"History Specialist/Major/Minor",
+    "postName":"History Specialist / Major / Minor",
     "requirements":[
       "HIS109"
     ]
   },
   {
-    "postName":"History and Philosophy of Science and Technology Major/Minor",
+    "postName":"History and Philosophy of Science and Technology Major / Minor",
     "requirements":[
       "HPS100"
     ]
   },
   {
-    "postName":"History and Philosophy of Science and Technology Major/Minor",
+    "postName":"History and Philosophy of Science and Technology Major / Minor",
     "requirements":[
       "HPS110"
     ]
   },
   {
-    "postName":"History and Philosophy of Science and Technology Major/Minor",
+    "postName":"History and Philosophy of Science and Technology Major / Minor",
     "requirements":[
       "HPS120"
     ]
   },
   {
-    "postName":"History of Art Specialist/Major/Minor",
+    "postName":"History of Art Specialist / Major / Minor",
     "requirements":[
       "FAH102"
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2794,7 +2794,7 @@
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2803,7 +2803,7 @@
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2812,7 +2812,7 @@
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2822,7 +2822,7 @@
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2831,7 +2831,7 @@
     ]
   },
   {
-    "postName":"Fundamental Genetics and its Applications Specialist/Major",
+    "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2955,7 +2955,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2965,7 +2965,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2974,7 +2974,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2983,7 +2983,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2993,7 +2993,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3002,7 +3002,7 @@
     ]
   },
   {
-    "postName":"Health and Disease Specialist/Major",
+    "postName":"Health and Disease Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3012,7 +3012,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3023,7 +3023,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3033,7 +3033,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3043,7 +3043,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3054,7 +3054,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3064,7 +3064,7 @@
     ]
   },
   {
-    "postName":"Neuroscience Specialist/Major",
+    "postName":"Neuroscience Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3132,7 +3132,7 @@
     ]
   },
   {
-    "postName":"Hungarian Studies Major/Minor",
+    "postName":"Hungarian Studies Major / Minor",
     "requirements":[
       "HUN100"
     ]
@@ -3178,7 +3178,7 @@
     ]
   },
   {
-    "postName":"Immunology Major/Minor",
+    "postName":"Immunology Major / Minor",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3188,7 +3188,7 @@
     ]
   },
   {
-    "postName":"Immunology Major/Minor",
+    "postName":"Immunology Major / Minor",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3197,7 +3197,7 @@
     ]
   },
   {
-    "postName":"Italian Specialist/Major/Minor",
+    "postName":"Italian Specialist / Major / Minor",
     "requirements":[
       "ITA100"
     ]
@@ -3262,7 +3262,7 @@
     ]
   },
   {
-    "postName":"Linguistics Specialist/Major/Minor",
+    "postName":"Linguistics Specialist / Major / Minor",
     "requirements":[
       "LIN100",
       "LIN102"
@@ -3485,7 +3485,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3496,7 +3496,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3506,7 +3506,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3515,7 +3515,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3525,7 +3525,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3534,7 +3534,7 @@
     ]
   },
   {
-    "postName":"Molecular Genetics and Microbiology Specialist/Major",
+    "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3544,7 +3544,7 @@
     ]
   },
   {
-    "postName":"Music Specialist/Major",
+    "postName":"Music Specialist / Major",
     "requirements":[
       "HMU111",
       "HMU126",
@@ -3966,7 +3966,7 @@
     ]
   },
   {
-    "postName":"Philosophy Specialist/Major/Minor",
+    "postName":"Philosophy Specialist / Major / Minor",
     "requirements":[
       "PHL100"
     ]
@@ -4096,7 +4096,7 @@
     ]
   },
   {
-    "postName":"Bioethics Specialist/Major",
+    "postName":"Bioethics Specialist / Major",
     "requirements":[
       "PHL100",
       "BIO120",
@@ -4362,7 +4362,7 @@
     ]
   },
   {
-    "postName":"Political Science Specialist/Major/Minor",
+    "postName":"Political Science Specialist / Major / Minor",
     "requirements":[
       "POL101"
     ]
@@ -4374,13 +4374,13 @@
     ]
   },
   {
-    "postName":"Portuguese Specialist/Major/Minor",
+    "postName":"Portuguese Specialist / Major / Minor",
     "requirements":[
       "PRT120"
     ]
   },
   {
-    "postName":"Psychology Specialist/Major/Minor",
+    "postName":"Psychology Specialist / Major / Minor",
     "requirements":[
       "PSY100"
     ]
@@ -4398,13 +4398,13 @@
     ]
   },
   {
-    "postName":"Literature and Critical Theory in the Comparative Literature Stream Specialist/Major",
+    "postName":"Literature and Critical Theory in the Comparative Literature Stream Specialist / Major",
     "requirements":[
       "VIC202"
     ]
   },
   {
-    "postName":"Literature and Critical Theory in the Cultural Theory Stream Specialist/Major",
+    "postName":"Literature and Critical Theory in the Cultural Theory Stream Specialist / Major",
     "requirements":[
       "VIC202"
     ]
@@ -4424,25 +4424,25 @@
     ]
   },
   {
-    "postName":"Religion Specialist/Major/Minor",
+    "postName":"Religion Specialist / Major / Minor",
     "requirements":[
       "RLG100"
     ]
   },
   {
-    "postName":"Religion Specialist/Major/Minor",
+    "postName":"Religion Specialist / Major / Minor",
     "requirements":[
       "RLG101"
     ]
   },
   {
-    "postName":"Buddhist Studies Specialist/Major",
+    "postName":"Buddhist Studies Specialist / Major",
     "requirements":[
       "RLG100"
     ]
   },
   {
-    "postName":"Buddhist Studies Specialist/Major",
+    "postName":"Buddhist Studies Specialist / Major",
     "requirements":[
       "RLG101"
     ]
@@ -4604,7 +4604,7 @@
     ]
   },
   {
-    "postName":"Women and Gender Studies Specialist/Major/Minor",
+    "postName":"Women and Gender Studies Specialist / Major / Minor",
     "requirements":[
       "WGS160"
     ]
@@ -4754,20 +4754,20 @@
     ]
   },
   {
-    "postName":"Statistics Major/Minor",
+    "postName":"Statistics Major / Minor",
     "requirements":[
       "MAT135",
       "MAT136"
     ]
   },
   {
-    "postName":"Statistics Major/Minor",
+    "postName":"Statistics Major / Minor",
     "requirements":[
       "MAT137"
     ]
   },
   {
-    "postName":"Statistics Major/Minor",
+    "postName":"Statistics Major / Minor",
     "requirements":[
       "MAT157"
     ]
@@ -4779,7 +4779,7 @@
     ]
   },
   {
-    "postName":"Spanish Specialist/Major/Minor",
+    "postName":"Spanish Specialist / Major / Minor",
     "requirements":[
       "SPA100"
     ]
@@ -4791,38 +4791,38 @@
     ]
   },
   {
-    "postName":"Sociology Specialist/Major/Minor",
+    "postName":"Sociology Specialist / Major / Minor",
     "requirements":[
       "SOC101"
     ]
   },
   {
-    "postName":"Sociology Specialist/Major/Minor",
+    "postName":"Sociology Specialist / Major / Minor",
     "requirements":[
       "SOC102",
       "SOC103"
     ]
   },
   {
-    "postName":"Czech and Slovak Studies Major/Minor",
+    "postName":"Czech and Slovak Studies Major / Minor",
     "requirements":[
       "SLA105"
     ]
   },
   {
-    "postName":"Polish Language and Literature Major/Minor",
+    "postName":"Polish Language and Literature Major / Minor",
     "requirements":[
       "SLA106"
     ]
   },
   {
-    "postName":"Polish Studies Major/Minor",
+    "postName":"Polish Studies Major / Minor",
     "requirements":[
       "SLA106"
     ]
   },
   {
-    "postName":"Russian Language and Literature Specialist/Major/Minor",
+    "postName":"Russian Language and Literature Specialist / Major / Minor",
     "requirements":[
       "SLA100",
       "SLA101"
@@ -4842,7 +4842,7 @@
     ]
   },
   {
-    "postName":"Ukrainian Language and Literature Specialist/Major",
+    "postName":"Ukrainian Language and Literature Specialist / Major",
     "requirements":[
       "SLA108"
     ]

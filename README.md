@@ -20,7 +20,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
 ```json
 [
   {
-    "name":"Computer Science Major/Specialist/Minor",
+    "name":"Computer Science Major / Specialist / Minor",
     "requirements:":[
       "CSC148",
       "CSC165",
@@ -29,7 +29,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
     ]
   },
   {
-    "name":"Computer Science Major/Specialist/Minor",
+    "name":"Computer Science Major / Specialist / Minor",
     "requirements:":[
       "CSC148",
       "CSC165",
@@ -90,3 +90,4 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
 
 ## [Possible improvements](https://github.com/patrickleweryharris/major-finder/issues/3)
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
+  - Better feedback for user
