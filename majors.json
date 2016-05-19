@@ -17,6 +17,14 @@
     ]
   },
   {
+    "postName":"Computer Science Major/Specialist/Minor",
+    "requirements":[
+      "CSC148",
+      "CSC165",
+      "MAT157"
+    ]
+  },
+  {
     "postName":"African Studies Specialist/Major/Minor",
     "requirements":[
       "NEW150"
