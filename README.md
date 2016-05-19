@@ -18,8 +18,7 @@ Major Finder is open source and released under the [MIT License](https://raw.git
 The application relies on a compiled [list](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json) of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:
 
 ```json
-{
-  "majors" : [
+[
   {
     "name":"Computer Science Major/Specialist/Minor",
     "requirements:":[
@@ -38,7 +37,6 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
     ]
   }
 ]
-}
 ```
 
 This data structure visualized (from [json 2 html](http://json.bloople.net/)):
@@ -63,14 +61,6 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
   - Physiology Major/Minor ("Pick any of the following")
-
-## [Programs that need to be added](https://github.com/patrickleweryharris/major-finder/issues/2):
-  - Sociology Specialist/Major/Minor
-  - South Asian Studies Minor
-  - Spanish Specialist/Major/Minor
-  - Statistics Specialist/Major/Minor
-  - Applied Statistics Specialist
-  - Women and Gender Studies Specialist/Major/Minor
 
 ## Program Design
   - Takes sanitized input of first year courses from a user, and organizes them into an array

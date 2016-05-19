@@ -4571,12 +4571,249 @@
     ]
   },
   {
-    "postName":"",
+    "postName":"Women and Gender Studies Specialist/Major/Minor",
     "requirements":[
-
+      "WGS160"
     ]
   },
-
+  {
+    "postName":"Applied Statistics Specialist (using CSC108)",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC108"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC120"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist (using CSC121)",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC121"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT135",
+      "MAT136",
+      "CSC148"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist (using CSC108)",
+    "requirements":[
+      "MAT137",
+      "CSC108"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT137",
+      "CSC120"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist (using CSC121)",
+    "requirements":[
+      "MAT137",
+      "CSC121"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT137",
+      "CSC148"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist (using CSC108)",
+    "requirements":[
+      "MAT157",
+      "CSC108"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC120"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist (using CSC121)",
+    "requirements":[
+      "MAT157",
+      "CSC121"
+    ]
+  },
+  {
+    "postName":"Applied Statistics Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist (using CSC108)",
+    "requirements":[
+      "MAT137",
+      "CSC108"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist",
+    "requirements":[
+      "MAT137",
+      "CSC120"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist (using CSC121)",
+    "requirements":[
+      "MAT137",
+      "CSC121"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist",
+    "requirements":[
+      "MAT137",
+      "CSC148"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist (using CSC108)",
+    "requirements":[
+      "MAT157",
+      "CSC108"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC120"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist (using CSC121)",
+    "requirements":[
+      "MAT157",
+      "CSC121"
+    ]
+  },
+  {
+    "postName":"Statistics Specialist",
+    "requirements":[
+      "MAT157",
+      "CSC148"
+    ]
+  },
+  {
+    "postName":"Statistics Major/Minor",
+    "requirements":[
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Statistics Major/Minor",
+    "requirements":[
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Statistics Major/Minor",
+    "requirements":[
+      "MAT157"
+    ]
+  },
+  {
+    "postName":"Statistics Minor",
+    "requirements":[
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Spanish Specialist/Major/Minor",
+    "requirements":[
+      "SPA100"
+    ]
+  },
+  {
+    "postName":"South Asian Studies Minor",
+    "requirements":[
+      "SAS114"
+    ]
+  },
+  {
+    "postName":"Sociology Specialist/Major/Minor",
+    "requirements":[
+      "SOC101"
+    ]
+  },
+  {
+    "postName":"Sociology Specialist/Major/Minor",
+    "requirements":[
+      "SOC102",
+      "SOC103"
+    ]
+  },
+  {
+    "postName":"Czech and Slovak Studies Major/Minor",
+    "requirements":[
+      "SLA105"
+    ]
+  },
+  {
+    "postName":"Polish Language and Literature Major/Minor",
+    "requirements":[
+      "SLA106"
+    ]
+  },
+  {
+    "postName":"Polish Studies Major/Minor",
+    "requirements":[
+      "SLA106"
+    ]
+  },
+  {
+    "postName":"Russian Language and Literature Specialist/Major/Minor",
+    "requirements":[
+      "SLA100",
+      "SLA101"
+    ]
+  },
+  {
+    "postName":"Russian Language Minor",
+    "requirements":[
+      "SLA100",
+      "SLA101"
+    ]
+  },
+  {
+    "postName":"South Slavic Studies Major",
+    "requirements":[
+      "SLA109"
+    ]
+  },
+  {
+    "postName":"Ukrainian Language and Literature Specialist/Major",
+    "requirements":[
+      "SLA108"
+    ]
+  },
   {
     "postName":"Literature and Critical Theory Minor",
     "requirements":[
