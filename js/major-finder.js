@@ -17,7 +17,6 @@ Github site: http://github.com/patrickleweryharris/major-finder
 
 // Getting user input and sanitizing it
 var userInput;
-var programOutput = "You are eligible for:";
 function getInput(){
   var userInputText = document.getElementById('input1').value;
   userInputText = userInputText.toUpperCase(); // Capitalize each item in string
@@ -35,6 +34,7 @@ function findMajors(){
   $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
     console.log("JSON loaded");
     getInput();
+    var programOutput = "You are eligible for:";
     var len = data.length;
     for (i = 0; i < len; i++){
       var flag = isSub(userInput, data[i].requirements);
