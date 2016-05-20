@@ -17,6 +17,9 @@ Major Finder is open source and released under the [MIT License](https://raw.git
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
   - Better feedback for user
   - Add UTM/UTSC version
+  - Input validation ("Error, not a valid course code")
+  - Links to the calendar page of posts a user is eligible for
+    - Can be done by adding links to majors.json and adapting the output in javascript to display the postName as a link
 
 ## Data Structure
 
