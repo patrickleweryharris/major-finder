@@ -1,11 +1,18 @@
 /*
+
 Major Finder 1.0.0
+
 Find majors you are eligible for at UofT
+
 Copyright (c) 2016 Patrick Harris (https://plh.io)
+
 Licensed under the MIT License
 https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE
+
+
 Project site: https://plh.io/major-finder
 Github site: http://github.com/patrickleweryharris/major-finder
+
 */
 
 /*
@@ -54,10 +61,13 @@ function findMajors(){
 }
 
 /*
+
 Helper function for comparing the arrays
+
 Sort both arrays, traverse both.
 Compare the elements. If an element in the post_reqs is not found in the
 inputted courses, then the courses do not meet the post requirements
+
 */
 function isSub(courses, post_reqs){
   courses.sort();
