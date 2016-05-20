@@ -35,6 +35,7 @@ function getInput(){
 
 /*
  * Finding majors
+
  */
 function findMajors(){
   $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
@@ -54,7 +55,9 @@ function findMajors(){
 
       }
 
-      document.getElementById("program_eligible").innerHTML = programOutput;
+
+      document.getElementById("eligible_programs").innerHTML = programOutput + "<br>";
+
 
   });
 }
