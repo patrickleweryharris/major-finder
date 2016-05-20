@@ -1423,8 +1423,7 @@
 				// otherwise, text selection within the input won't work.
 				if (e.target !== self.$control_input[0]) {
 					if (self.settings.mode === 'single') {
-						// toggle dropdown
-						self.isOpen ? self.close() : self.open();
+						//Remove the stupid dropdown please.
 					} else if (!defaultPrevented) {
 						self.setActiveItem(null);
 					}
