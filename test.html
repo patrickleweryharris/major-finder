@@ -5,6 +5,13 @@
         <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
         <script type="text/javascript" src="majors.json"></script>
         <script type="text/javascript" src="major-finder.js"></script>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.1/css/selectize.min.css" rel="stylesheet" />
+        <script src="selectize.js"></script>
+        <style type="text/css">
+            .selectize-dropdown {
+                display: none !important;
+            }
+        </style>
     </head>
     <body>
       <h1> Major Finder (Version 1.0.0) </h1>
@@ -33,5 +40,18 @@
               Physiology Major/Minor <br>
           </p>
       </div>
+
+      <script type="text/javascript">
+          $('#course_input').selectize({
+              delimiter: [',', ' '],
+              persist: false,
+              create: function(input) {
+                  return {
+                      value: input,
+                      text: input
+                  };
+              }
+          });
+      </script>
     </body>
 </html>
