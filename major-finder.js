@@ -15,35 +15,47 @@ Github site: http://github.com/patrickleweryharris/major-finder
 
 */
 
-// Getting user input and sanitizing it
+/*
+ *  Getting user input and sanitizing it
+ */ 
 var userInput;
 function getInput(){
-  var userInputText = document.getElementById('input1').value;
-  userInputText = userInputText.toUpperCase(); // Capitalize each item in string
-  userInput = userInputText.split(','); // Make input into an array we can traverse
-  var len = userInput.length;
-  for (i = 0; i < len; i++){ // Loop for input sanitizing
-    userInput[i] = userInput[i].trim(); // Remove any whitespace
-    userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
-  }
-  console.log(userInput);
+    
+    var userInputText = document.getElementById('course_input').value;
+    
+    userInput = userInputText.toUpperCase().split(','); 
+
+    //Loop over and sanitize course inputs
+    for (i = 0; i < userInput.length; i++){ 
+      userInput[i] = userInput[i].trim();
+      userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
+    }
+    
 }
 
-// Finding majors
+/*
+ * Finding majors
+ */ 
 function findMajors(){
   $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
-    console.log("JSON loaded");
-    getInput();
-    var programOutput = "You are eligible for:";
-    var len = data.length;
-    for (i = 0; i < len; i++){
-      var flag = isSub(userInput, data[i].requirements);
-      if (flag === true){
-        programOutput = programOutput.concat("<br>");
-        programOutput = programOutput.concat(data[i].postName);
+      
+      getInput();
+      var programOutput = "You are eligible for:";
+    
+      for (i = 0; i < data.length; i++){
+        
+        //Check if the input meets any post requirements
+        var flag = isSub(userInput, data[i].requirements);
+        
+        if (flag === true){
+          programOutput = programOutput.concat("<br>");
+          programOutput = programOutput.concat(data[i].postName);
+        }
+
       }
-    }
-    document.getElementById("output1").innerHTML = programOutput;
+
+      document.getElementById("program_eligible").innerHTML = programOutput;
+  
   });
 }
 
