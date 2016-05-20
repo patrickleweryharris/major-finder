@@ -5,10 +5,18 @@ body {
 	font-weight: 300;
 }
 
+.selectize-dropdown {
+    display: none !important;
+}
+
 .credits {
 	text-align: center;
 	font-size: 1.3em;
 	margin: 0 0 60px;
+}
+
+input, .item {
+  text-transform: uppercase;
 }
 
 .credits a {

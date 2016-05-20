@@ -23,6 +23,10 @@ footer {
 	z-index:10;
 }
 
+.selectize-dropdown {
+    display: none !important;
+}
+            
 .left {
   position: fixed;
   left: 4em;
@@ -32,7 +36,7 @@ footer {
 }
 
 .right {
-	position: absolute;;
+	position: absolute;
 	overflow: auto;
   right: 4em;
   width: 33%;
@@ -65,7 +69,9 @@ footer {
 	transition: color .3s linear;
 	background: inherit;
 }
-
+input, .item {
+	text-transform: uppercase;
+}
 .credits .cyan { color: rgba(139, 233, 253, 1); }
 .credits .cyan:hover { color: rgba(139, 233, 253, .7); }
 
