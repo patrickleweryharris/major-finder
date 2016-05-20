@@ -13,6 +13,11 @@ program(s) you are eligible for
 
 Major Finder is open source and released under the [MIT License](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE)
 
+## [To Do List](https://github.com/patrickleweryharris/major-finder/issues/3)
+  - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
+  - Better feedback for user
+  - Add UTM/UTSC version
+
 ## Data Structure
 
 The application relies on a compiled [list](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json) of St.George Campus Arts and Science subject POSTs and their requirements. This list is in the following format:
@@ -87,7 +92,3 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
 
     Applied Statistics Specialist
     ```
-
-## [Possible improvements](https://github.com/patrickleweryharris/major-finder/issues/3)
-  - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
-  - Better feedback for user
