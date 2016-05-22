@@ -26,9 +26,15 @@ function getInput(){
     userInput = userInputText.toUpperCase().split(',');
 
     //Loop over and sanitize course inputs
+<<<<<<< HEAD
+    for (i = 0; i < userInput.length; i++){ 
+      // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
+      userInput[i] = userInput[i].trim().slice(0,6); 
+=======
     for (i = 0; i < userInput.length; i++){
       userInput[i] = userInput[i].trim();
       userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
+>>>>>>> upstream/gh-pages
     }
 
 }

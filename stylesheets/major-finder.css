@@ -23,6 +23,10 @@ footer {
 	z-index:10;
 }
 
+#course_warning {
+	text-align: center;
+}
+
 .selectize-dropdown {
     display: none !important;
 }
