@@ -987,9 +987,6 @@
 		return width;
 	};
 	
-
-	var GLOBAL_REDS = 0;
-
 	/**
 	 * Sets up an input to grow horizontally as the user
 	 * types. If the value is changed manually, you can
@@ -2557,18 +2554,14 @@
 	
 			if (i !== -1) {
 
-				if($item.css("background-color") == "rgb(255, 0, 0)"){
-					GLOBAL_REDS -= 1;
-					console.log(GLOBAL_REDS);
-					if(GLOBAL_REDS === 0){
-						$("#course_warning").html("");
-					}
-				}
-
 				$item.remove();
 				if ($item.hasClass('active')) {
 					idx = self.$activeItems.indexOf($item[0]);
 					self.$activeItems.splice(idx, 1);
+				}
+
+				if($("div[class=item][style]").length === 0){
+					$("#course_warning").html("");
 				}
 	
 				self.items.splice(i, 1);
@@ -2659,7 +2652,6 @@
 
 		  	if($.inArray(last_input, course_list) === -1){
 		  		$("div[data-value=" + last_input + "]").css("background-color", "red");
-		  		GLOBAL_REDS += 1;
 		  		$("#course_warning").html("One or more of your courses could not be found");
 		  	}	
 
