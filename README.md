@@ -18,7 +18,7 @@ Major Finder is open source and released under the [MIT License](https://raw.git
   - Better feedback for user
   - Add UTM/UTSC version
   - Input validation ("Error, not a valid course code")
-  - Links to the calendar page of posts a user is eligible for
+  - Links to the calendar page of posts a user is eligible for (Patrick currently working on)
     - Can be done by adding links to majors.json and adapting the output in javascript to display the postName as a link
 
 ## Data Structure
