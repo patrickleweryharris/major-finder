@@ -17,45 +17,45 @@ Github site: http://github.com/patrickleweryharris/major-finder
 
 /*
  *  Getting user input and sanitizing it
- */ 
+ */
 var userInput;
 function getInput(){
-    
+
     var userInputText = document.getElementById('course_input').value;
-    
-    userInput = userInputText.toUpperCase().split(','); 
+
+    userInput = userInputText.toUpperCase().split(',');
 
     //Loop over and sanitize course inputs
-    for (i = 0; i < userInput.length; i++){ 
+    for (i = 0; i < userInput.length; i++){
       userInput[i] = userInput[i].trim();
       userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
     }
-    
+
 }
 
 /*
  * Finding majors
- */ 
+ */
 function findMajors(){
   $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
-      
+
       getInput();
       var programOutput = "You are eligible for:";
-    
+
       for (i = 0; i < data.length; i++){
-        
+
         //Check if the input meets any post requirements
         var flag = isSub(userInput, data[i].requirements);
-        
+
         if (flag === true){
           programOutput = programOutput.concat("<br>");
-          programOutput = programOutput.concat(data[i].postName);
+          programOutput = programOutput.concat("<a href=data[i].calLink>data[i].postName</a>");
         }
 
       }
 
       document.getElementById("eligible_programs").innerHTML = programOutput + "<br>";
-  
+
   });
 }
 
