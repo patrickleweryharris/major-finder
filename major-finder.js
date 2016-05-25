@@ -49,7 +49,11 @@ function findMajors(){
 
         if (flag === true){
           programOutput = programOutput.concat("<br>");
-          programOutput = programOutput.concat("<a href=data[i].calLink>data[i].postName</a>");
+          programOutput = programOutput.concat("<a href=");
+          programOutput = programOutput.concat(data[i].calLink);
+          programOutput = programOutput.concat(">");
+          programOutput = programOutput.concat(data[i].postName);
+          programOutput = programOutput.concat("</a>");
         }
 
       }
