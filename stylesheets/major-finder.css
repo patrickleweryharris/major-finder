@@ -14,6 +14,13 @@ header {
 	z-index:10;
 }
 
+a{
+	color: rgba(139, 233, 253, 1);
+}
+
+a:hover{
+	color: rgba(139, 233, 253, .7);
+}
 footer {
   position: fixed;
   bottom: 0px;
@@ -30,7 +37,7 @@ footer {
 .selectize-dropdown {
     display: none !important;
 }
-            
+
 .left {
   position: fixed;
   left: 4em;

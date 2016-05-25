@@ -26,9 +26,9 @@ function getInput(){
     userInput = userInputText.toUpperCase().split(',');
 
     //Loop over and sanitize course inputs
-    for (i = 0; i < userInput.length; i++){ 
+    for (i = 0; i < userInput.length; i++){
       // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
-      userInput[i] = userInput[i].trim().slice(0,6); 
+      userInput[i] = userInput[i].trim().slice(0,6);
     }
 
 }
@@ -50,7 +50,11 @@ function findMajors(){
 
         if (flag === true){
           programOutput = programOutput.concat("<br>");
+          programOutput = programOutput.concat("<a href=");
+          programOutput = programOutput.concat(data[i].calLink);
+          programOutput = programOutput.concat(">");
           programOutput = programOutput.concat(data[i].postName);
+          programOutput = programOutput.concat("</a>");
         }
 
       }

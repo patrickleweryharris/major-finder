@@ -5,6 +5,14 @@ body {
 	font-weight: 300;
 }
 
+a{
+	color: rgba(139, 233, 253, 1);
+}
+
+a:hover{
+	color: rgba(139, 233, 253, .7);
+}
+
 .selectize-dropdown {
     display: none !important;
 }
