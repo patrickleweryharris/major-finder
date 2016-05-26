@@ -4821,6 +4821,144 @@
     ]
   },
   {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT157"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT157"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Physiology Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135",
+      "PHY131"
+    ]
+  },
+  {
+    "postName":"Physiology Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMIN0482",
+    "requirements":[
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "postName":"Physiology Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMIN0482",
+    "requirements":[
+      "BIO150"
+    ]
+  },
+  {
     "postName":"Planetary Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pln.htm#ASSPE1073",
     "requirements":[
