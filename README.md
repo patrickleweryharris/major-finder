@@ -17,9 +17,6 @@ Major Finder is open source and released under the [MIT License](https://raw.git
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
   - Better feedback for user
   - Add UTM/UTSC version
-  - Input validation ("Error, not a valid course code")
-  - Links to the calendar page of posts a user is eligible for (Patrick currently working on)
-    - Can be done by adding links to majors.json and adapting the output in javascript to display the postName as a link
 
 ## Data Structure
 
@@ -68,7 +65,6 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
   - Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
-  - Physiology Major/Minor ("Pick any of the following")
 
 ## Program Design
   - Takes sanitized input of first year courses from a user, and organizes them into an array
