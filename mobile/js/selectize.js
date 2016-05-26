@@ -2645,15 +2645,12 @@
 
 			var userInput = document.getElementById('course_input').value;
 			userInput = userInput.toUpperCase().split(',,');
-			for(var z = 0; z < userInput.length; z++){
-				userInput[z] = userInput[z].trim().slice(0, 6); 
-			}
-		  	var last_input = userInput[userInput.length - 1];
-
-		  	if($.inArray(last_input, course_list) === -1){
+			var last_input = userInput[userInput.length - 1];
+			var word = last_input.trim().slice(0, 6);
+			if($.inArray(word, course_list) === -1){
 		  		$("div[data-value=" + last_input + "]").css("background-color", "red");
 		  		$("#course_warning").html("One or more of your courses could not be found");
-		  	}	
+		  	}	  		
 
 			return true;
 		},
