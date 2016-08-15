@@ -46,7 +46,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
 
 This data structure visualized (from [json 2 html](http://json.bloople.net/)):
 
-![visualized](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json-visual.png)
+![visualized](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/img/json-visual.png)
 
 Some programs can have different courses that allow entry (i.e. MAT135/136 vs. MAT137), so the same POST may result from different first year courses. The list of programs and requirements reflects this
 
