@@ -1,6 +1,6 @@
 /*
 
-Major Finder 1.0.0
+Major Finder 2.0.0 Alpha
 
 Find majors you are eligible for at UofT
 
@@ -14,6 +14,18 @@ Project site: https://plh.io/major-finder
 Github site: http://github.com/patrickleweryharris/major-finder
 
 */
+/*
+Getting campus selection
+*/
+var campusSelection;
+function getSelection(){
+  if (document.getElementById('r1').checked) {
+    campusSelection = document.getElementById('r1').value;
+  }
+  if (document.getElementById('r2').checked) {
+    campusSelection = document.getElementById('r2').value;
+  }
+}
 
 /*
  *  Getting user input and sanitizing it
@@ -30,14 +42,22 @@ function getInput(){
       userInput[i] = userInput[i].trim();
       userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
     }
-
 }
 
 /*
  * Finding majors
  */
+ var jsonStr;
 function findMajors(){
-  $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json', function(data){
+  getSelection();
+  if (campusSelection == 'UTSG'){
+    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
+  }
+  if (campusSelection == 'UTM'){
+    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
+  }
+  console.log(jsonStr);
+  $.getJSON(jsonStr, function(data){
 
       getInput();
       var programOutput = "You are eligible for:";
