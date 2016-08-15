@@ -38,7 +38,7 @@ function getInput(){
 
  */
 function findMajors(){
-  $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/majors.json', function(data){
+  $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json', function(data){
 
       getInput();
       var programOutput = "You are eligible for:";
