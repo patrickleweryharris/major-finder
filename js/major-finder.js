@@ -47,7 +47,7 @@ function getInput(){
 /*
  * Finding majors
  */
- var jsonStr;
+var jsonStr;
 function findMajors(){
   getSelection();
   if (campusSelection == 'UTSG'){
@@ -56,7 +56,6 @@ function findMajors(){
   if (campusSelection == 'UTM'){
     jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
   }
-  console.log(jsonStr);
   $.getJSON(jsonStr, function(data){
 
       getInput();

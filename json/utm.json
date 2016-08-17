@@ -161,31 +161,287 @@
     ]
   },
   {
-    "postName":"Biology",
+    "postName":"Comparative Physiology Specialist",
     "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
     "requirements":[
-      ""
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Comparative Physiology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
     "requirements":[
-      ""
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Comparative Physiology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
     "requirements":[
-      ""
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Ecology and Evolution Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
     "requirements":[
-      ""
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Ecology and Evolution Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Ecology and Evolution Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Biotechnology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Biotechnology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Biotechnology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Molecular Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Molecular Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Molecular Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Biology Specialist / Major (has additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM140",
+      "MAT134",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM140",
+      "MAT135",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Palentology Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM140",
+      "MAT137",
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Biology for Health Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Biology for Health Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Biology for Health Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Biology Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=10",
+    "requirements":[
+      "BIO152",
+      "BIO153"
+    ]
+  },
+  {
+    "postName":"Biomedical Communications Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=132",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "HSC200"
     ]
   },
   {
