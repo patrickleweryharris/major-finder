@@ -25,7 +25,7 @@ function getSelection(){
   if (document.getElementById('r2').checked) {
     campusSelection = document.getElementById('r2').value;
   }
-}
+} /* There has to be a better way of doing this...
 
 /*
  *  Getting user input and sanitizing it

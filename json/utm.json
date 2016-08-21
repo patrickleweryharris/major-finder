@@ -1048,38 +1048,1042 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
     "requirements":[
-      ""
+      "ENV100",
+      "CHM140",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
     "requirements":[
-      ""
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
     "requirements":[
-      ""
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
     "requirements":[
-      ""
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
     "requirements":[
-      ""
+      "ENV100",
+      "CHM140",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM140",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM140",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM140",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM140",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM140",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT134",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT135",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT137",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "CHM140"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT134",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT135",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT137",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "CHM110",
+      "CHM120"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT134",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Earth Science Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Earth Science Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=19",
+    "requirements":[
+      "ERS103",
+      "ERS120"
+    ]
+  },
+  {
+    "postName":"Economics Specialist (BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MGT120",
+      "MGM101",
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Economics Specialist (BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MGT120",
+      "MGM101",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Economics Specialist (BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MGT120",
+      "MGM101",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Economics Specialist (BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MGT120",
+      "MGM101",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Economics Specialist / Major / Minor(Arts, BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Economics Specialist / Major / Minor (Arts, BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Economics Specialist / Major / Minor (Arts, BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Economics Specialist / Major / Minor (Arts, BCom)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=7",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Education Studies Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=164",
+    "requirements":[
+      "EDS100"
+    ]
+  },
+  {
+    "postName":"English Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=43",
+    "requirements":[
+      "ENG110"
+    ]
+  },
+  {
+    "postName":"English Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=43",
+    "requirements":[
+      "ENG121"
+    ]
+  },
+  {
+    "postName":"English Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=43",
+    "requirements":[
+      "ENG122"
+    ]
+  },
+  {
+    "postName":"English Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=43",
+    "requirements":[
+      "ENG140"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ERS120",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ENV100",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ERS120",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ENV100",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ERS120",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Environmental Geoscience Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=161",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "PHY136",
+      "PHY137",
+      "STA107",
+      "ENV100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Environmental Management Specialist (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=23",
+    "requirements":[
+      "ENV100",
+      "ECO100"
+    ]
+  },
+  {
+    "postName":"Combined Specialist in Environmental Management and MScSM (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=23",
+    "requirements":[
+      "ENV100",
+      "ECO100"
+    ]
+  },
+  {
+    "postName":"Environmental Management Major (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=23",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Combined Major in Environmental Management and MScSM (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=23",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Environmental Management Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=23",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Environmental Science Specialist / Major / Minor (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=24",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Combined Specialist / Major in Environmental Science and MScSM (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=24",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Exceptionality in Human Learning Specialist / Major (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26",
+    "requirements":[
+      "PSY100"
+    ]
+  },
+  {
+    "postName":"Exceptionality in Human Learning Specialist (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26",
+    "requirements":[
+      "ANT101",
+      "ANT102"
+    ]
+  },
+  {
+    "postName":"Exceptionality in Human Learning Specialist (Additional reqs. See calendar)",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26",
+    "requirements":[
+      "BIO152",
+      "BIO153"
+    ]
+  },
+  {
+    "postName":"Financial Economics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=134",
+    "requirements":[
+      "ECO100",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Financial Economics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=134",
+    "requirements":[
+      "ECO100",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Financial Economics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=134",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Financial Economics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=134",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Forensic Anthropology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "ANT101",
+      "ANT102",
+      "BIO152",
+      "BIO153",
+      "FSC239"
+    ]
+  },
+  {
+    "postName":"Forensic Biology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Forensic Biology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Forensic Biology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Forensic Chemistry Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Forensic Chemistry Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Forensic Chemistry Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "BIO152",
+      "BIO153",
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Forensic Psychology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "PSY100",
+      "FSC239",
+      "BIO152",
+      "BIO153"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY135",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY135",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY135",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Forensic Science Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "FSC239",
+      "PHY136",
+      "PHY137",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Forensic Science Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=89",
+    "requirements":[
+      "FSC239"
+    ]
+  },
+  {
+    "postName":"Language Teaching and Learning: French and Italian Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=48",
+    "requirements":[
+      "FRE180",
+      "FRE181"
+    ]
+  },
+  {
+    "postName":"French Studies Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=48",
+    "requirements":[
+      "FRE180",
+      "FRE181"
+    ]
+  },
+  {
+    "postName":"French and Italian Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=8",
+    "requirements":[
+      "FRE180",
+      "FRE181"
     ]
   },
   {
