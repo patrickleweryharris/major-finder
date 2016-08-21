@@ -65,6 +65,11 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
   - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
   - Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
   - Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
+  - Classical Civilization Major (UTM)
+  - Diaspora and Transnational Studies (UTM)
+  - Economics and Political Science (UTM)
+  - Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts (UTM)
+  - Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts (UTM)
 
 ## Program Design
   - Takes sanitized input of first year courses from a user, and organizes them into an array
