@@ -19,14 +19,8 @@ Getting campus selection
 */
 var campusSelection;
 function getSelection(){
-  if (document.getElementById('r1').checked) {
-    campusSelection = document.getElementById('r1').value;
-  }
-  if (document.getElementById('r2').checked) {
-    campusSelection = document.getElementById('r2').value;
-  }
-} /* There has to be a better way of doing this...
-
+  campusSelection = $('input[name=group1]:checked').val();
+}
 /*
  *  Getting user input and sanitizing it
  */
