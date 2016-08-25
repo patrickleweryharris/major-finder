@@ -2087,31 +2087,316 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Geographical Information Systems Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=49",
     "requirements":[
-      ""
+      "GGR111",
+      "GGR112"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Geography Specialist / Major / Minor (Arts or Science) [Additional reqs. for science program. See calendar]",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=121",
     "requirements":[
-      ""
+      "GGR111",
+      "GGR112"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
     "requirements":[
-      ""
+      "CHM140",
+      "ENV100",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
     "requirements":[
-      ""
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT134",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ENV100",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ENV100",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ENV100",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ENV100",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ENV100",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ENV100",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM140",
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Geology Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=20",
+    "requirements":[
+      "CHM110",
+      "CHM120",
+      "ERS103",
+      "ERS120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"History Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=53",
+    "requirements":[
+      "HIS101"
+    ]
+  },
+  {
+    "postName":"History and Political Science Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=54",
+    "requirements":[
+      "HIS101"
+    ]
+  },
+  {
+    "postName":"History of Religion Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=71",
+    "requirements":[
+      "RLG101"
     ]
   },
   {
