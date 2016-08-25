@@ -106,6 +106,7 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
 
     Applied Statistics Specialist
     ```
+
 ## Usage
 Major finder for UofT St. George is currently released (the gh-pages branch is the release branch). Major finder for UTM is currently in development (master branch).
 
