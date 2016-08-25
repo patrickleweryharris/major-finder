@@ -9,6 +9,14 @@ program(s) you are eligible for
 
 ### Currently drawing data from the 2016-2017 Arts and Science Calendar
 
+##### Table of Contents  
+[License Information](https://github.com/patrickleweryharris/major-finder#license-information)  
+[To Do List](https://github.com/patrickleweryharris/major-finder#to-do-list)  
+[Data Structure](https://github.com/patrickleweryharris/major-finder#data-structure)  
+[Programs not included](https://github.com/patrickleweryharris/major-finder#programs-not-included-in-the-application-for-now-due-to-complicated-requirements)  
+[Program Design](https://github.com/patrickleweryharris/major-finder#program-design)  
+[Usage](https://github.com/patrickleweryharris/major-finder#usage)  
+
 ## License Information
 
 Major Finder is open source and released under the [MIT License](https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE)
@@ -26,6 +34,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
 [
   {
     "name":"Computer Science Major / Specialist / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
     "requirements:":[
       "CSC148",
       "CSC165",
@@ -35,6 +44,7 @@ The application relies on a compiled [list](https://raw.githubusercontent.com/pa
   },
   {
     "name":"Computer Science Major / Specialist / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
     "requirements:":[
       "CSC148",
       "CSC165",
@@ -96,3 +106,13 @@ Some programs can have different courses that allow entry (i.e. MAT135/136 vs. M
 
     Applied Statistics Specialist
     ```
+## Usage
+Major finder for UofT St. George is currently released (the gh-pages branch is the release branch). Major finder for UTM is currently in development (master branch).
+
+Should you wish to develop major finder for another campus/school, all you need do is create a json file for that school, then put this into the find_majors() function:
+```javascript
+if (campusSelection == 'yourCampus'){
+  jsonStr = 'yourJSONURL';
+}
+```
+A corresponding selector must be added to the accompanying html file.
