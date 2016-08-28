@@ -8,6 +8,11 @@
 Takes your first year courses and tells you what Specialist, Major or Minor
 program(s) you are eligible for
 
+### Branches
+
+- [Development](https://github.com/patrickleweryharris/major-finder)
+- [Release](https://github.com/patrickleweryharris/major-finder/tree/gh-pages)
+
 ## Table of Contents
 
 - [Background](#background)
