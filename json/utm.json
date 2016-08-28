@@ -2400,38 +2400,86 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"International Affairs Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=56",
     "requirements":[
-      ""
+      "ECO100",
+      "MAT133"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"International Affairs Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=56",
     "requirements":[
-      ""
+      "ECO100",
+      "MAT134"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"International Affairs Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=56",
     "requirements":[
-      ""
+      "ECO100",
+      "MAT135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Italian Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=57",
     "requirements":[
-      ""
+      "ITA100"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Language Teaching and Learning: Italian",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=57",
     "requirements":[
-      ""
+      "ITA100"
+    ]
+  },
+  {
+    "postName":"Language Teaching and Learning: Italian",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=57",
+    "requirements":[
+      "ITA101"
+    ]
+  },
+  {
+    "postName":"Italian Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=57",
+    "requirements":[
+      "ITA101"
+    ]
+  },
+  {
+    "postName":"Latin American and Caribbean Studies Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=162",
+    "requirements":[
+      "HIS290"
+    ]
+  },
+  {
+    "postName":"Linguistic Studies Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=59",
+    "requirements":[
+      "LIN101",
+      "LIN102"
+    ]
+  },
+  {
+    "postName":"Linguistic Studies Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=59",
+    "requirements":[
+      "LIN101",
+      "LIN100"
+    ]
+  },
+  {
+    "postName":"English Language Linguistics Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=59",
+    "requirements":[
+      "LIN101",
+      "LIN102"
     ]
   },
   {
