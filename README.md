@@ -81,7 +81,8 @@ The following programs are not included due to having non-standard curricula:
 - Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts (UTM)
 - Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts (UTM)
 - Philosophy (UTM)
-- Ethics, Society and Law Minor (UTM)  
+- Ethics, Society and Law Minor (UTM)
+- South Asian Civilizations Minor (UTM)   
 
 ## Contribute
 
