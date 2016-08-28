@@ -14,7 +14,13 @@ Project site: https://plh.io/major-finder
 Github site: http://github.com/patrickleweryharris/major-finder
 
 */
-
+/*
+Getting campus selection
+*/
+var campusSelection;
+function getSelection(){
+  campusSelection = $('input[name=group1]:checked').val();
+}
 /*
  *  Getting user input and sanitizing it
  */
@@ -37,7 +43,14 @@ function getInput(){
  * Finding majors
  */
 function findMajors(){
-  $.getJSON('https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json', function(data){
+  getSelection();
+  if (campusSelection == 'UTSG'){
+    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
+  }
+  if (campusSelection == 'UTM'){
+    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
+  }
+  $.getJSON(jsonStr, function(data){
 
       getInput();
       var programOutput = "You are eligible for:";
