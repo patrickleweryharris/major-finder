@@ -2898,24 +2898,28 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Visual Culture Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=160",
     "requirements":[
-      ""
+      "VCC101"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Visual Culture and Communications Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=153",
     "requirements":[
-      ""
+      "CCT109",
+      "CCT110",
+      "FAH101",
+      "VCC101",
+      "CIN101"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Women and Gender Studies Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=75",
     "requirements":[
-      ""
+      "WGS101"
     ]
   }
 ]
