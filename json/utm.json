@@ -2483,73 +2483,303 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Human Resource Management and Industrial Relations Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=61",
     "requirements":[
-      ""
+      "MGM101",
+      "MGM102",
+      "ECO100"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Management Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=61",
     "requirements":[
-      ""
+      "MGM101",
+      "MGM102",
+      "ECO100"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Mathematical Sciences Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=62",
     "requirements":[
-      ""
+      "CSC108",
+      "CSC148",
+      "MAT102",
+      "MAT137",
+      "MAT240"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Mathematical Sciences Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=62",
     "requirements":[
-      ""
+      "MAT102",
+      "MAT134"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Mathematical Sciences Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=62",
     "requirements":[
-      ""
+      "MAT102",
+      "MAT135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Mathematical Sciences Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=62",
     "requirements":[
-      ""
+      "MAT102",
+      "MAT137"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Philosophy of Science Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=65",
     "requirements":[
-      ""
+      "PHL105"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
     "requirements":[
-      ""
+      "BIO152",
+      "CHM140",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
     "requirements":[
-      ""
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY135"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
     "requirements":[
-      ""
+      "BIO152",
+      "CHM140",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM140",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM140",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT134",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM140",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT135",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM140",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Biomedical Physics Specialist",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "BIO152",
+      "CHM110",
+      "CHM120",
+      "MAT137",
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY135",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY136",
+      "PHY137",
+      "MAT134"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY135",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY136",
+      "PHY137",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY135",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Physics Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY136",
+      "PHY137",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Physics Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY135"
+    ]
+  },
+  {
+    "postName":"Physics Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=68",
+    "requirements":[
+      "PHY136",
+      "PHY137"
+    ]
+  },
+  {
+    "postName":"Political Science Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=69",
+    "requirements":[
+      "POL111"
+    ]
+  },
+  {
+    "postName":"Political Science Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=69",
+    "requirements":[
+      "POL112"
+    ]
+  },
+  {
+    "postName":"Political Science Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=69",
+    "requirements":[
+      "POL113"
+    ]
+  },
+  {
+    "postName":"Political Science Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=69",
+    "requirements":[
+      "POL114"
+    ]
+  },
+  {
+    "postName":"Professional Writing and Communcation Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=70",
+    "requirements":[
+      "WRI203"
+    ]
+  },
+  {
+    "postName":"Psychology Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=27",
+    "requirements":[
+      "PSY100"
     ]
   },
   {
