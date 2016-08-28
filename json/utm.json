@@ -2783,24 +2783,118 @@
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Sociology Specialist / Major / Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=73",
     "requirements":[
-      ""
+      "SOC100"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
     "requirements":[
-      ""
+      "CSC108",
+      "MAT102",
+      "MAT134",
+      "MAT223"
     ]
   },
   {
-    "postName":"",
-    "calLink":"",
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
     "requirements":[
-      ""
+      "CSC108",
+      "MAT102",
+      "MAT135",
+      "MAT223"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "CSC108",
+      "MAT102",
+      "MAT137",
+      "MAT223"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "CSC108",
+      "MAT102",
+      "MAT134",
+      "MAT240"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "CSC108",
+      "MAT102",
+      "MAT135",
+      "MAT240"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Specialist / Major",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "CSC108",
+      "MAT102",
+      "MAT137",
+      "MAT240"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT134",
+      "MAT223"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT135",
+      "MAT223"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT137",
+      "MAT223"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT134",
+      "MAT240"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT135",
+      "MAT240"
+    ]
+  },
+  {
+    "postName":"Statistics, Applied Minor",
+    "calLink":"https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=74",
+    "requirements":[
+      "MAT137",
+      "MAT240"
     ]
   },
   {
