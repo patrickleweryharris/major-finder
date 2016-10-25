@@ -46,9 +46,13 @@ function findMajors(){
   getSelection();
   if (campusSelection == 'UTSG'){
     jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
+     $('#georgi').show();
+     $('#missy').hide();
   }
   if (campusSelection == 'UTM'){
     jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
+     $('#missy').show();
+     $('#georgi').hide();
   }
   $.getJSON(jsonStr, function(data){
 

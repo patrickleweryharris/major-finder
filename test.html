@@ -1,73 +1,84 @@
 <!doctype html>
 <html>
-    <head>
-        <title>Testing File</title>
-        <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
-        <script type="text/javascript" src="js/major-finder.js"></script>
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.1/css/selectize.min.css" rel="stylesheet" />
-        <script src="js/selectize.js"></script>
-        <style type="text/css">
-            .selectize-dropdown {
-                display: none !important;
-            }
-        </style>
-    </head>
-    <body>
-      <h1> Major Finder (Version 1.0.0) </h1>
-      <p> Enter your first year courses seperated by commas </p>
-      <p>
+
+<head>
+    <title>Testing File</title>
+    <script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/major-finder.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.1/css/selectize.min.css" rel="stylesheet" />
+    <script src="js/selectize.js"></script>
+    <style type="text/css">
+        .selectize-dropdown {
+            display: none !important;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> Major Finder (Version 1.0.0) </h1>
+    <p> Enter your first year courses seperated by commas </p>
+    <p>
         Campus:
         <input type="radio" name="group1" id="r1" value="UTSG" checked>
         <label for="item1">St. George</label>
         <input type="radio" name="group1" id="r2" value="UTM">
         <label for="item13">Mississauga</label>
-      </p>
-      <input type="text" id="course_input" />
-      <button onclick="findMajors()"></button>
-      <div>
-          <p id="eligible_programs">
+    </p>
+    <input type="text" id="course_input" />
+    <button onclick="findMajors()"></button>
+    <div>
+        <p id="eligible_programs">
 
-          </p>
-          <p>
-              Due to loose first year requirements we are currently not searching for: <br>
-              Geoscience Major/Minor <br>
-              Earth and Environmental Systems Major <br>
-              Ethics, Society and Law Major  <br>
-              International Relations Specialist <br>
-              Forest Conservation Science Specialist/Major/Minor <br>
-              Forest Conservation Specialist/Major/Minor <br>
-              Environmental Geography Specialist/Major <br>
-              Human Geography Specialist/Major/Minor  <br>
-              Physical and Environmental Geography Specialist/Major/Minor <br>
-              Geographic Information Systems Minor <br>
-              Urban Studies Specialist/Major/Minor <br>
-              Near and Middle Eastern Civilizations Specialist/Major/Minor <br>
-              Peace, Conflict and Justice Specialist/Major  <br>
-              Physiology Major/Minor <br>
-              Classical Civilization Major (UTM) <br>
-              Diaspora and Transnational Studies (UTM) <br>
-              Economics and Political Science (UTM) <br>
-              Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts (UTM) <br>
-              Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts (UTM) <br>
-              Philosophy (UTM) <br>
-              Ethics, Society and Law Minor (UTM) <br>
-              South Asian Civilizations Minor (UTM) <br>
-          </p>
-          <h3 id="course_warning"></h3>
-      </div>
+        </p>
+        <p>
+            <div id="georgi" style="display:none">
+                Due to loose first year requirements we are currently not searching for: <br>
+                <ul>
+                    <li>Earth and Environmental Systems Major </li>
+                    <li> Ethics, Society and Law Major </li>
+                    <li> International Relations Specialist </li>
+                    <li> Forest Conservation Science Specialist/Major/Minor </li>
+                    <li> Forest Conservation Specialist/Major/Minor </li>
+                    <li> Environmental Geography Specialist/Major </li>
+                    <li> Human Geography Specialist/Major/Minor </li>
+                    <li> Physical and Environmental Geography Specialist/Major/Minor </li>
+                    <li> Geographic Information Systems Minor </li>
+                    <li> Urban Studies Specialist/Major/Minor </li>
+                    <li> Near and Middle Eastern Civilizations Specialist/Major/Minor </li>
+                    <li> Peace, Conflict and Justice Specialist/Major </li>
+                    <li> Physiology Major/Minor </li>
+                </ul>
+            </div>
+            <div id="missy" style="display:none">
+                Due to loose first year requirements we are currently not searching for: <br>
+                <ul>
+                    <li>Classical Civilization Major</li>
+                    <li> Diaspora and Transnational Studies</li>
+                    <li> Economics and Political Science</li>
+                    <li> Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts</li>
+                    <li> Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts </li>
+                    <li> Philosophy</li>
+                    <li> Ethics, Society and Law Minor</li>
+                    <li> South Asian Civilizations Minor</li>
+                </ul>
+            </div>
+        </p>
+        <h3 id="course_warning"></h3>
+    </div>
 
-      <script type="text/javascript">
-          $('#course_input').selectize({
-              delimiter: [',', ' '],
-              persist: false,
-              create: function(input) {
+    <script type="text/javascript">
+        $('#course_input').selectize({
+            delimiter: [',', ' '],
+            persist: false,
+            create: function(input) {
                 input = input.toUpperCase();
-                  return {
-                      value: input,
-                      text: input
-                  };
-              }
-          });
-      </script>
-    </body>
+                return {
+                    value: input,
+                    text: input
+                };
+            }
+        });
+    </script>
+</body>
+
 </html>
