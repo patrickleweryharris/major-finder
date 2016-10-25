@@ -26,7 +26,7 @@ program(s) you are eligible for
 UofT offers no easy tool to see what subject programs a student can study given their first year courses. Major finder was created to fill this gap
 
 ## Usage  
-Major finder for UofT St. George is currently released (the gh-pages branch is the release branch). Major finder for UTM is currently in development (master branch).
+Major finder for UofT St. George and Mississauga campus is currently released (the gh-pages branch is the release branch). Major finder for UTSC is planned.
 
 Should you wish to develop major finder for another campus/school, all you need do is create a json file for that school, then put this into the find_majors() function:
 ```javascript
@@ -57,7 +57,8 @@ JSON files that utilize the application should be in the following format:
 ## To Do
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
   - Better feedback for user
-  - Add UTM/UTSC version
+  - Add UTSC version
+  - Eventual updating to 2017 - 2018 calendar will be required 
 
 ## Programs Not Included:
 The following programs are not included due to having non-standard curricula:  
