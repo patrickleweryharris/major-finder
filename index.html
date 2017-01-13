@@ -38,7 +38,8 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css">
     <link rel="stylesheet" href="https://plh.io/stylesheets/home.css">
     <link rel="stylesheet" href="./stylesheets/major-finder.css">
-    <link href="stylesheets/selectize.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./stylesheets/selectize.css">
+    <link rel="stylesheet" href="./stylesheets/alert.css">
 
     <!-- javascript
   ================================================== -->
@@ -84,16 +85,18 @@
     </div>
     <header class="green">
         <h1 class="title">Major Finder</h1>
-        <h2 class="subtitle"> A tool for finding your major at UofT<br>
+        <h2 class="subtitle"> A tool for finding your major at UofT</h2>
     </header>
     <div class="left">
         <p> Enter your first year course codes separated by commas <br>
-          Campus:
-          <input type="radio" name="group1" id="r1" value="UTSG" checked>
-          <label for="item1">St. George</label>
-          <input type="radio" name="group1" id="r2" value="UTM">
-          <label for="item13">Mississauga</label>
-          </p>
+            <fieldset data-role="controlgroup" data-type="horizontal">
+                <legend>Campus:</legend>
+                <input type="radio" name="group1" id="r1" value="UTSG" checked>
+                <label for="r1">St. George</label>
+                <input type="radio" name="group1" id="r2" value="UTM">
+                <label for="r2">Mississauga</label>
+            </fieldset>
+        </p>
         <h3 id="course_warning"></h3>
         <textarea id="course_input" class="longInput" cols="50" rows="20" placeholder="CSC165, CSC148, MAT137..."></textarea>
     </div>
@@ -103,50 +106,77 @@
         </button>
     </div>
     <div class="right">
-            <p id="eligible_programs">
-                Currently using the 2016-2017 Calendar<br> Note that CHM138/139 has been changed to CHM135/136
-            </p>
-            <p>
-                <div id="georgi" style="display:none">
-                    Due to loose first year requirements we are currently not searching for:
-                    <ul>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ess.htm#ASMAJ0509">Geoscience Major / Minor</a></li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ess.htm#ASMAJ2745">Earth and Environmental Systems Major</a></li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_trn.htm#ASMAJ1618">Ethics, Society and Law Major</a>   </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469">International Relations Specialist</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_for.htm#ASSPE1102">Forest Conservation Science Specialist / Major / Minor</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_for.htm#ASSPE1100">Forest Conservation Specialist / Major / Minor</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE1252">Environmental Geography Specialist/Major</a>  </li>
-                        <li> <a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE1667">Human Geography Specialist / Major / Minor </a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE2030">Physical and Environmental Geography Specialist / Major / Minor</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305">Geographic Information Systems Minor</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_ini.htm#ASSPE2207">Urban Studies Specialist / Major / Minor</a>  </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019">Near and Middle Eastern Civilizations Specialist / Major / Minor </a> </li>
-                        <li><a href="http://calendar.artsci.utoronto.ca/crs_pcj.htm#ASSPE1228">Peace, Conflict and Justice Specialist / Major </a>  </li>
-                    </ul>
-                </div>
-                <div id="missy" style="display:none">
-                    Due to loose first year requirements we are currently not searching for:
-                    <ul>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=36">Classical Civilization Major </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=125">Diaspora and Transnational Studies </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=42">Economics and Political Science </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26">Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26">Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=64">Philosophy </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=64">Ethics, Society and Law Minor </a>  </li>
-                      <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=159">South Civilizations Minor</a></li>
-                    </ul>
-                </div>
-            </p>
+        <p id="eligible_programs">
+            <div class="alert">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> Currently using the 2016-2017 Calendar
+            </div>
+
+        </p>
+        <p>
+            <div id="georgi" style="display:none">
+                Due to loose first year requirements we are currently not searching for:
+                <ul>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ess.htm#ASMAJ0509">Geoscience Major / Minor</a></li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ess.htm#ASMAJ2745">Earth and Environmental Systems Major</a></li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_trn.htm#ASMAJ1618">Ethics, Society and Law Major</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469">International Relations Specialist</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_for.htm#ASSPE1102">Forest Conservation Science Specialist / Major / Minor</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_for.htm#ASSPE1100">Forest Conservation Specialist / Major / Minor</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE1252">Environmental Geography Specialist/Major</a> </li>
+                    <li> <a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE1667">Human Geography Specialist / Major / Minor </a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASSPE2030">Physical and Environmental Geography Specialist / Major / Minor</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305">Geographic Information Systems Minor</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_ini.htm#ASSPE2207">Urban Studies Specialist / Major / Minor</a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019">Near and Middle Eastern Civilizations Specialist / Major / Minor </a> </li>
+                    <li><a href="http://calendar.artsci.utoronto.ca/crs_pcj.htm#ASSPE1228">Peace, Conflict and Justice Specialist / Major </a> </li>
+                </ul>
+            </div>
+            <div id="missy" style="display:none">
+                Due to loose first year requirements we are currently not searching for:
+                <ul>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=36">Classical Civilization Major </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=125">Diaspora and Transnational Studies </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=42">Economics and Political Science </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26">Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=26">Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=64">Philosophy </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=64">Ethics, Society and Law Minor </a> </li>
+                    <li><a href="https://student.utm.utoronto.ca/calendar//program_group.pl?Group_Id=159">South Civilizations Minor</a></li>
+                </ul>
+            </div>
+        </p>
     </div>
     <footer>
-        <p class="credits">Made with <span class="love">♥</span> by <a class="green" href="https://github.com/patrickleweryharris" target="blank">Patrick Harris</a> and <a class="cyan" href="https://github.com/patrickleweryharris/major-finder/graphs/contributors" target="blank">contributors</a> under <a class="orange" href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE" target="blank">MIT license</a><br>
-          <a class="github-button" href="https://github.com/patrickleweryharris/major-finder" data-count-href="/patrickleweryharris/major-finder/stargazers" data-count-api="/repos/patrickleweryharris/major-finder#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star patrickleweryharris/major-finder on GitHub">Star</a></h2>
+        <p class="credits">Made with <span class="love">♥</span> by <a class="green" href="https://github.com/patrickleweryharris" target="blank">Patrick Harris</a> and <a class="cyan" href="https://github.com/patrickleweryharris/major-finder/graphs/contributors" target="blank">contributors</a>            under <a class="orange" href="https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE" target="blank">MIT license</a><br>
+            <a class="github-button" href="https://github.com/patrickleweryharris/major-finder" data-count-href="/patrickleweryharris/major-finder/stargazers" data-count-api="/repos/patrickleweryharris/major-finder#stargazers_count" data-count-aria-label="# stargazers on GitHub"
+                aria-label="Star patrickleweryharris/major-finder on GitHub">Star</a>
         </p>
-        </footer>
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-        <script src="js/main.js"></script>
+    </footer>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        // Get all elements with class="closebtn"
+        var close = document.getElementsByClassName("closebtn");
+        var i;
+
+        // Loop through all close buttons
+        for (i = 0; i < close.length; i++) {
+            // When someone clicks on a close button
+            close[i].onclick = function() {
+
+                // Get the parent of <span class="closebtn"> (<div class="alert">)
+                var div = this.parentElement;
+
+                // Set the opacity of div to 0 (transparent)
+                div.style.opacity = "0";
+
+                // Hide the div after 600ms (the same amount of milliseconds it takes to fade out)
+                setTimeout(function() {
+                    div.style.display = "none";
+                }, 600);
+            }
+        }
+    </script>
 </body>
 
 </html>
