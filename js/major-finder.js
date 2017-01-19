@@ -4,7 +4,7 @@ Major Finder 2.0.0 Alpha
 
 Find majors you are eligible for at UofT
 
-Copyright (c) 2016 Patrick Harris (https://plh.io)
+Copyright (c) 2016 - 2017 Patrick Harris (https://plh.io)
 
 Licensed under the MIT License
 https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE
@@ -48,11 +48,19 @@ function findMajors(){
     jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
      $('#georgi').show();
      $('#missy').hide();
+     $('#siberia').hide();
   }
   if (campusSelection == 'UTM'){
     jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
      $('#missy').show();
      $('#georgi').hide();
+     $('#siberia').hide();
+  }
+  if (campusSelection == 'UTSC'){
+    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utsc.json';
+     $('#siberia').show();
+     $('#georgi').hide();
+     $('#missy').hide();
   }
   $.getJSON(jsonStr, function(data){
 
