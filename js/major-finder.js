@@ -18,23 +18,26 @@ Github site: http://github.com/patrickleweryharris/major-finder
 Getting campus selection
 */
 var campusSelection;
-function getSelection(){
-  campusSelection = $('input[name=group1]:checked').val();
+
+function getSelection() {
+    campusSelection = $('input[name=group1]:checked').val();
 }
 /*
  *  Getting user input and sanitizing it
  */
 var userInput;
-function getInput(){
+
+function getInput() {
 
     var userInputText = document.getElementById('course_input').value;
+
 
     userInput = userInputText.toUpperCase().split(',');
 
     //Loop over and sanitize course inputs
-    for (i = 0; i < userInput.length; i++){
-      userInput[i] = userInput[i].trim();
-      userInput[i] = userInput[i].slice(0,6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
+    for (i = 0; i < userInput.length; i++) {
+        userInput[i] = userInput[i].trim();
+        userInput[i] = userInput[i].slice(0, 6); // Take only first six characters (i.e. "MAT135h" becomes "MAT135")
     }
 }
 
@@ -42,50 +45,58 @@ function getInput(){
  * Finding majors
  */
 var jsonStr;
-function findMajors(){
-  getSelection();
-  if (campusSelection == 'UTSG'){
-    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
-     $('#georgi').show();
-     $('#missy').hide();
-     $('#siberia').hide();
-  }
-  if (campusSelection == 'UTM'){
-    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
-     $('#missy').show();
-     $('#georgi').hide();
-     $('#siberia').hide();
-  }
-  if (campusSelection == 'UTSC'){
-    jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utsc.json';
-     $('#siberia').show();
-     $('#georgi').hide();
-     $('#missy').hide();
-  }
-  $.getJSON(jsonStr, function(data){
 
-      getInput();
-      var programOutput = "You are eligible for:";
+function findMajors() {
+    getSelection();
+    if (campusSelection == 'UTSG') {
+        jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
+        $('#georgi').show();
+        $('#missy').hide();
+        $('#siberia').hide();
+    }
+    if (campusSelection == 'UTM') {
+        jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utm.json';
+        $('#missy').show();
+        $('#georgi').hide();
+        $('#siberia').hide();
+    }
+    if (campusSelection == 'UTSC') {
+        jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/utsc.json';
+        $('#siberia').show();
+        $('#georgi').hide();
+        $('#missy').hide();
+    }
+    $.getJSON(jsonStr, function(data) {
 
-      for (i = 0; i < data.length; i++){
+        getInput();
+        var programOutput = "";
 
-        //Check if the input meets any post requirements
-        var flag = isSub(userInput, data[i].requirements);
+        if (userInput != '') {
+            programOutput = "You are eligible for:";
 
-        if (flag === true){
-          programOutput = programOutput.concat("<br>");
-          programOutput = programOutput.concat("<a href=");
-          programOutput = programOutput.concat(data[i].calLink);
-          programOutput = programOutput.concat(">");
-          programOutput = programOutput.concat(data[i].postName);
-          programOutput = programOutput.concat("</a>");
+            for (i = 0; i < data.length; i++) {
+
+                //Check if the input meets any post requirements
+                var flag = isSub(userInput, data[i].requirements);
+
+                if (flag === true) {
+                    programOutput = programOutput.concat("<br>");
+                    programOutput = programOutput.concat("<a href=");
+                    programOutput = programOutput.concat(data[i].calLink);
+                    programOutput = programOutput.concat(">");
+                    programOutput = programOutput.concat(data[i].postName);
+                    programOutput = programOutput.concat("</a>");
+                }
+
+            }
+
+            document.getElementById("eligible_programs").innerHTML = programOutput + "<br>";
+
+        } else {
+            programOutput = "You did not enter any courses";
+            document.getElementById("eligible_programs").innerHTML = programOutput;
         }
-
-      }
-
-      document.getElementById("eligible_programs").innerHTML = programOutput + "<br>";
-
-  });
+    });
 }
 
 /*
@@ -97,20 +108,19 @@ Compare the elements. If an element in the post_reqs is not found in the
 inputted courses, then the courses do not meet the post requirements
 
 */
-function isSub(courses, post_reqs){
-  courses.sort();
-  post_reqs.sort();
-  var i, j;
-  for(i = 0, j = 0; i < courses.length && j < post_reqs.length;){
-    if (courses[i] < post_reqs[j]){
-      ++i; // Something appears in input that reqs doesn't need or have
+function isSub(courses, post_reqs) {
+    courses.sort();
+    post_reqs.sort();
+    var i, j;
+    for (i = 0, j = 0; i < courses.length && j < post_reqs.length;) {
+        if (courses[i] < post_reqs[j]) {
+            ++i; // Something appears in input that reqs doesn't need or have
+        } else if (courses[i] == post_reqs[j]) {
+            ++i;
+            ++j;
+        } else {
+            return false;
+        }
     }
-    else if (courses[i] == post_reqs[j]){
-      ++i; ++j;
-    }
-    else{
-      return false;
-    }
-  }
-  return j == post_reqs.length;
+    return j == post_reqs.length;
 }
