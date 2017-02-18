@@ -1,5 +1,91 @@
 [
   {
+    "postName":"African Studies Minor",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/African_Studies.html",
+    "requirements":[
+      "AFSA01"
+
+    ]
+  },
+  {
+    "postName":"Evolutionary Anthropology Specialist / Major (Science)",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Anthropology.html",
+    "requirements":[
+      "ANTA01",
+      "ANAA02"
+
+    ]
+  },
+  {
+    "postName":"Socio-Cultural Anthropology / Major (Arts)",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Anthropology.html",
+    "requirements":[
+      "ANTA01",
+      "ANAA02"
+
+    ]
+  },
+  {
+    "postName":"Anthropology Minor",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Anthropology.html",
+    "requirements":[
+      "ANTA01",
+      "ANAA02"
+
+    ]
+  },
+  {
+    "postName":"Art History and Visual Culture Major / Minor",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Art_History_and_Visual_Culture.html",
+    "requirements":[
+      "VPHA46"
+
+    ]
+  },
+  {
+    "postName":"Arts Managment Specialist",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Arts_Management.html",
+    "requirements":[
+      "VPAA06",
+      "VPAA10",
+      "VPAA12",
+      "MGTA01",
+      "MGTA02"
+
+    ]
+  },
+  {
+    "postName":"Astronomy and Astrophysics Minor",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Astronomy.html",
+    "requirements":[
+      "PHYA10",
+      "PHYA21",
+      "MATA30",
+      "MATA23",
+      "MATA36"
+
+    ]
+  },
+  {
+    "postName":"Astronomy and Astrophysics Minor",
+    "calLink":"http://www.utsc.utoronto.ca/~registrar/calendars/calendar/Astronomy.html",
+    "requirements":[
+      "PHYA10",
+      "PHYA21",
+      "MATA30",
+      "MATA23",
+      "MATA37"
+
+    ]
+  },
+  {
+    "postName":"",
+    "calLink":"",
+    "requirements":[
+
+    ]
+  },
+  {
     "postName":"",
     "calLink":"",
     "requirements":[
