@@ -26,7 +26,7 @@ program(s) you are eligible for
 UofT offers no easy tool to see what subject programs a student can study given their first year courses. Major finder was created to fill this gap
 
 ## Usage  
-Major finder for UofT St. George and Mississauga campus is currently released (the gh-pages branch is the release branch). Major finder for UTSC is in development.
+Major finder for UofT St. George and Mississauga campus is currently released [here](https://plh.io/major-finder). Major finder for UTSC is in development.
 
 ## API
 
