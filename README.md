@@ -17,8 +17,8 @@ program(s) you are eligible for
 
 - [Background](#background)
 - [Usage](#usage)
-- [To Do](#to-do)
-- [Programs Not Included](#programs-not-included)
+- [API](#api)
+- [Notes](#notes)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -26,17 +26,24 @@ program(s) you are eligible for
 UofT offers no easy tool to see what subject programs a student can study given their first year courses. Major finder was created to fill this gap
 
 ## Usage  
-Major finder for UofT St. George and Mississauga campus is currently released (the gh-pages branch is the release branch). Major finder for UTSC is planned.
+Major finder for UofT St. George and Mississauga campus is currently released (the gh-pages branch is the release branch). Major finder for UTSC is in development.
 
-Should you wish to develop major finder for another campus/school, all you need do is create a json file for that school, then put this into the find_majors() function:
+## API
+
+Should you wish to develop major finder for another campus/school, all you need do is create a json file for that school,
+then add this code into the find_majors() function in [major-finder.js](https://github.com/patrickleweryharris/major-finder/blob/master/js/major-finder.js):
 ```javascript
 if (campusSelection == 'yourCampus'){
   jsonStr = 'yourJSONURL';
 }
 ```
-A corresponding selector must be added to the accompanying html file.
+A corresponding selector must be added to the accompanying [html file](https://github.com/patrickleweryharris/major-finder/blob/master/test.html):
+```html
+<input type="radio" name="group1" id="r1" value="yourCampus">
+        <label for="item1">Your Campus Name</label>
+```
 
-### JSON Format
+#### JSON Format
 
 JSON files that utilize the application should be in the following format:  
 ```json
@@ -53,14 +60,15 @@ JSON files that utilize the application should be in the following format:
   }
 ]
 ```
+## Notes
 
-## To Do
+#### To Do
   - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
   - Better feedback for user
   - Add UTSC version
-  - Eventual updating to 2017 - 2018 calendar will be required 
+  - Eventual updating to 2017 - 2018 calendar will be required
 
-## Programs Not Included:
+#### Programs Not Included:
 The following programs are not included due to having non-standard curricula:  
 - Any program without specific first year requirements
 - Geoscience Major/Minor
