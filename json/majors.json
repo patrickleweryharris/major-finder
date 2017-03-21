@@ -2531,6 +2531,14 @@
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
     "requirements":[
       "ECO105",
+      "HIS103"
+    ]
+  },
+  {
+    "postName":"International Relations Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "requirements":[
+      "ECO105",
       "HIS103",
       "MAT135",
       "MAT136"
