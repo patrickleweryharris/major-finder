@@ -2,6 +2,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -12,6 +13,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -21,6 +23,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC165",
@@ -30,6 +33,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -40,6 +44,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -49,6 +54,7 @@
   {
     "postName":"Computer Science Major / Specialist / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+    "type": "2L",
     "requirements":[
       "CSC148",
       "CSC240",
@@ -58,6 +64,7 @@
   {
     "postName":"African Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_new.htm#ASSPE1707",
+    "type": "1",
     "requirements":[
       "NEW150"
     ]
@@ -65,6 +72,7 @@
   {
     "postName":"Acturial Science Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_act.htm#ASSPE0608",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT137",
@@ -74,6 +82,7 @@
   {
     "postName":"Acturial Science Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_act.htm#ASSPE0608",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT157",
@@ -83,6 +92,7 @@
   {
     "postName":"American Studies",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_usa.htm#ASMAJ0135",
+    "type": "1",
     "requirements":[
       "USA200"
     ]
@@ -97,6 +107,7 @@
   {
     "postName":"Anthropology Major (Evolutionary)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ant.htm",
+    "type": "2",
     "requirements":[
       "ANT100",
       "BIO120"
@@ -105,6 +116,7 @@
   {
     "postName":"Anthropology Specialist / Major (Society, Culture, and Language)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ant.htm",
+    "type": "2",
     "requirements":[
       "ANT100",
       "ANT207"
@@ -113,6 +125,7 @@
   {
     "postName":"Environmental Anthropology Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ant.htm",
+    "type": "1",
     "requirements":[
       "ANT100"
     ]
@@ -120,6 +133,7 @@
   {
     "postName":"Archaeology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arh.htm",
+    "type": "2",
     "requirements":[
       "ANT200",
       "GGR270",
@@ -129,6 +143,7 @@
   {
     "postName":"Archaeology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arh.htm",
+    "type": "2",
     "requirements":[
       "ANT200",
       "ANT100",
@@ -138,6 +153,7 @@
   {
     "postName":"Archaeology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arh.htm",
+    "type": "2",
     "requirements":[
       "ANT200",
       "ANT100"
@@ -146,6 +162,7 @@
   {
     "postName":"Archaeology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arh.htm",
+    "type": "2",
     "requirements":[
       "ANT200",
       "CLA160"
@@ -154,6 +171,7 @@
   {
     "postName":"Visual Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arc.htm",
+    "type": "2L",
     "requirements":[
       "VIS120",
       "VIS130"
@@ -162,6 +180,7 @@
   {
     "postName":"Visual Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_arc.htm",
+    "type": "2L",
     "requirements":[
       "JAV120",
       "JAV130"
@@ -170,6 +189,7 @@
   {
     "postName":"Cognitive Science Major (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1445",
+    "type": "2",
     "requirements":[
       "CSC104",
       "LIN100"
@@ -178,6 +198,7 @@
   {
     "postName":"Cognitive Science Major (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1445",
+    "type": "2",
     "requirements":[
       "CSC108",
       "LIN100"
@@ -186,6 +207,7 @@
   {
     "postName":"Cognitive Science Major (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1445",
+    "type": "2",
     "requirements":[
       "CSC120",
       "LIN100"
@@ -194,6 +216,7 @@
   {
     "postName":"Cognitive Science Major (Science)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1446",
+    "type": "2",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -204,6 +227,7 @@
   {
     "postName":"Cognitive Science Major (Science)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1446",
+    "type": "2",
     "requirements":[
       "CSC120",
       "CSC148",
@@ -214,6 +238,7 @@
   {
     "postName":"Cognitive Science Major (Science)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1446",
+    "type": "2",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -223,6 +248,7 @@
   {
     "postName":"Cognitive Science Major (Science)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASMAJ1446",
+    "type": "2",
     "requirements":[
       "CSC120",
       "CSC148",
@@ -232,6 +258,7 @@
   {
     "postName":"Astronomy and Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT137",
       "MAT223",
@@ -242,6 +269,7 @@
   {
     "postName":"Astronomy and Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -252,6 +280,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -262,6 +291,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -272,6 +302,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT137",
       "PHY131",
@@ -281,6 +312,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT137",
       "PHY151",
@@ -290,6 +322,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT157",
       "PHY131",
@@ -299,6 +332,7 @@
   {
     "postName":"Astronomy and Astrophysics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "MAT157",
       "PHY151",
@@ -308,6 +342,7 @@
   {
     "postName":"Astronomy and Astrophysics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132"
@@ -316,6 +351,7 @@
   {
     "postName":"Astronomy and Astrophysics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ast.htm",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152"
@@ -324,6 +360,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -336,6 +373,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -348,6 +386,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -359,6 +398,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -370,6 +410,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -381,6 +422,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -391,6 +433,7 @@
   {
     "postName":"Biochemistry Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1762",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -401,6 +444,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -414,6 +458,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -427,6 +472,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -439,6 +485,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -451,6 +498,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148",
@@ -463,6 +511,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148",
@@ -474,6 +523,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148",
@@ -486,6 +536,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148",
@@ -497,6 +548,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148",
@@ -509,6 +561,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148",
@@ -521,6 +574,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148",
@@ -532,6 +586,7 @@
   {
     "postName":"Bioinformatics and Computational Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bch.htm#ASSPE1868",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148",
@@ -543,6 +598,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -555,6 +611,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -566,6 +623,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM135",
@@ -577,6 +635,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM151",
@@ -587,6 +646,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CHM135",
@@ -598,6 +658,7 @@
   {
     "postName":"Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASSPE2364",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CHM151",
@@ -608,6 +669,7 @@
   {
     "postName":"Biology Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMIN2364",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130"
@@ -616,6 +678,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -628,6 +691,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -639,6 +703,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM135",
@@ -650,6 +715,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM151",
@@ -660,6 +726,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CHM135",
@@ -671,6 +738,7 @@
   {
     "postName":"Genome Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMAJ2655",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CHM151",
@@ -681,6 +749,7 @@
   {
     "postName":"Book and Media Studies Major / Minor (complicated requirements, see calendar)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASMAJ1300",
+    "type": "2",
     "requirements":[
       "SMC188"
     ]
@@ -688,6 +757,7 @@
   {
     "postName":"Celtic Studies Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASSPE1682",
+    "type": "1",
     "requirements":[
       "SMC141",
       "SMC188"
@@ -696,6 +766,7 @@
   {
     "postName":"Christianity and Culture Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASMAJ0463",
+    "type": "1",
     "requirements":[
       "SMC103"
     ]
@@ -703,6 +774,7 @@
   {
     "postName":"Christianity and Culture Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASMAJ0463",
+    "type": "1",
     "requirements":[
       "SMC188"
     ]
@@ -710,6 +782,7 @@
   {
     "postName":"Christianity and Education Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASMIN1014",
+    "type": "1",
     "requirements":[
       "SMC103"
     ]
@@ -717,6 +790,7 @@
   {
     "postName":"Christianity and Education Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASMIN1014",
+    "type": "1",
     "requirements":[
       "SMC188"
     ]
@@ -724,6 +798,7 @@
   {
     "postName":"Mediaeval Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASSPE1231",
+    "type": "1",
     "requirements":[
       "SMC175"
     ]
@@ -731,6 +806,7 @@
   {
     "postName":"Mediaeval Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASSPE1231",
+    "type": "1",
     "requirements":[
       "SMC176"
     ]
@@ -738,6 +814,7 @@
   {
     "postName":"Caribbean Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASSPE1231",
+    "type": "1",
     "requirements":[
       "NEW120"
     ]
@@ -745,6 +822,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -756,6 +834,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -766,6 +845,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -778,6 +858,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -789,6 +870,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -800,6 +882,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -810,6 +893,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -821,6 +905,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -831,6 +916,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -843,6 +929,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -854,6 +941,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -866,6 +954,7 @@
   {
     "postName":"Animal Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASMAJ1538",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -889,6 +978,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -900,6 +990,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -911,6 +1002,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -921,6 +1013,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -932,6 +1025,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -942,6 +1036,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -953,6 +1048,7 @@
   {
     "postName":"Cell & Molecular Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1003",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -963,6 +1059,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -986,6 +1083,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -997,6 +1095,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1007,6 +1106,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1018,6 +1118,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1028,6 +1129,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1039,6 +1141,7 @@
   {
     "postName":"Developmental Biology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_csb.htm#ASSPE1305",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1049,6 +1152,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1061,6 +1165,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1072,6 +1177,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1083,6 +1189,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1093,6 +1200,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1104,6 +1212,7 @@
   {
     "postName":"Biological Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1995",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1114,6 +1223,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1126,6 +1236,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1137,6 +1248,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1148,6 +1260,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1158,6 +1271,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1169,6 +1283,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1179,6 +1294,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1191,6 +1307,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1202,6 +1319,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1213,6 +1331,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1223,6 +1342,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1234,6 +1354,7 @@
   {
     "postName":"Chemical Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE0600",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1244,6 +1365,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1256,6 +1378,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1267,6 +1390,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1278,6 +1402,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1288,6 +1413,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1299,6 +1425,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1309,6 +1436,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1321,6 +1449,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1332,6 +1461,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1343,6 +1473,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1353,6 +1484,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1364,6 +1496,7 @@
   {
     "postName":"Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1376",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1374,6 +1507,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1384,6 +1518,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM151",
       "MAT135",
@@ -1393,6 +1528,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1402,6 +1538,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM151",
       "MAT137"
@@ -1410,6 +1547,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM135",
       "CHM136",
@@ -1419,6 +1557,7 @@
   {
     "postName": "Chemistry Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMAJ1376",
+    "type": "2",
     "requirements": [
       "CHM151",
       "MAT157"
@@ -1427,6 +1566,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1441,6 +1581,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1454,6 +1595,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1467,6 +1609,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1479,6 +1622,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1492,6 +1636,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1518,6 +1663,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1531,6 +1677,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1544,6 +1691,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1556,6 +1704,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1569,6 +1718,7 @@
   {
     "postName":"Environmental Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE2543",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1581,6 +1731,7 @@
   {
     "postName":"Environmental Chemistry Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2543",
+    "type": "1",
     "requirements":[
       "CHM135",
       "CHM136"
@@ -1589,6 +1740,7 @@
   {
     "postName":"Environmental Chemistry Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2543",
+    "type": "1",
     "requirements":[
       "CHM151"
     ]
@@ -1596,6 +1748,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1608,6 +1761,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1619,6 +1773,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1630,6 +1785,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1640,6 +1796,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1651,6 +1808,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1661,6 +1819,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1673,6 +1832,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1684,6 +1844,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1695,6 +1856,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1705,6 +1867,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1716,6 +1879,7 @@
   {
     "postName":"Synthetic & Catalytic Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASSPE1377",
+    "type": "2",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -1726,6 +1890,7 @@
   {
     "postName":"Cinema Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_cin.htm#ASSPE0797",
+    "type": "2L",
     "requirements":[
       "CIN105"
     ]
@@ -1733,6 +1898,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1745,6 +1911,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1756,6 +1923,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1767,6 +1935,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1777,6 +1946,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1788,6 +1958,7 @@
   {
     "postName":"Environmental Geosciences Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1253",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1798,6 +1969,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1808,6 +1980,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1818,6 +1991,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1827,6 +2001,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1836,6 +2011,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1845,6 +2021,7 @@
   {
     "postName":"Geophysics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm#ASSPE1650",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -1854,6 +2031,7 @@
   {
     "postName":"Environmental Geosciences Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ess.htm",
+    "type": "1",
     "requirements":[
       "CHM136"
     ]
@@ -1861,6 +2039,7 @@
   {
     "postName":"East Asian Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eas.htm#ASSPE1058",
+    "type": "1",
     "requirements":[
       "EAS103",
       "EAS105"
@@ -1869,6 +2048,7 @@
   {
     "postName":"Biodiversity and Conservation Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ0110",
+    "type": "1",
     "requirements":[
       "BIO120",
       "MAT135",
@@ -1878,6 +2058,7 @@
   {
     "postName":"Biodiversity and Conservation Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ0110",
+    "type": "1",
     "requirements":[
       "BIO120",
       "MAT137"
@@ -1886,6 +2067,7 @@
   {
     "postName":"Biodiversity and Conservation Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ0110",
+    "type": "1",
     "requirements":[
       "BIO120",
       "MAT157"
@@ -1894,6 +2076,7 @@
   {
     "postName":"Biodiversity and Conservation Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ0110",
+    "type": "1",
     "requirements":[
       "BIO120",
       "JMB170"
@@ -1902,6 +2085,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1914,6 +2098,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1925,6 +2110,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1936,6 +2122,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1946,6 +2133,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1957,6 +2145,7 @@
   {
     "postName":"Ecology and Evolutionary Biology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASSPE1006",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1967,6 +2156,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1979,6 +2169,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -1990,6 +2181,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2001,6 +2193,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2011,6 +2204,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2022,6 +2216,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -2032,6 +2227,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2044,6 +2240,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2055,6 +2252,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2066,6 +2264,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2076,6 +2275,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2087,6 +2287,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY131",
@@ -2097,6 +2298,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2109,6 +2311,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2120,6 +2323,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2131,6 +2335,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2141,6 +2346,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2152,6 +2358,7 @@
   {
     "postName":"Environmental Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMAJ1390",
+    "type": "1",
     "requirements":[
       "BIO120",
       "PHY151",
@@ -2162,6 +2369,7 @@
   {
     "postName":"Environmental Biology Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eeb.htm#ASMIN1390",
+    "type": "1",
     "requirements":[
       "BIO120"
     ]
@@ -2169,6 +2377,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT133"
@@ -2177,6 +2386,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT135",
@@ -2186,6 +2396,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT137"
@@ -2194,6 +2405,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT157"
@@ -2202,6 +2414,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO105",
       "MAT133"
@@ -2210,6 +2423,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO105",
       "MAT135",
@@ -2219,6 +2433,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO105",
       "MAT137"
@@ -2227,6 +2442,7 @@
   {
     "postName":"Economics Major / Minor (Arts)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASMAJ1478",
+    "type": "2",
     "requirements":[
       "ECO105",
       "MAT157"
@@ -2235,6 +2451,7 @@
   {
     "postName":"Financial Economics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASSPE2722",
+    "type": "2L",
     "requirements":[
       "ECO100",
       "MAT135",
@@ -2244,6 +2461,7 @@
   {
     "postName":"Financial Economics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASSPE2722",
+    "type": "2L",
     "requirements":[
       "ECO100",
       "MAT137"
@@ -2252,6 +2470,7 @@
   {
     "postName":"Financial Economics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASSPE2722",
+    "type": "2L",
     "requirements":[
       "ECO100",
       "MAT157"
@@ -2260,6 +2479,7 @@
   {
     "postName":"Economics and Mathematics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASSPE2599",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT137"
@@ -2268,6 +2488,7 @@
   {
     "postName":"Economics and Mathematics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eco.htm#ASSPE2599",
+    "type": "2",
     "requirements":[
       "ECO100",
       "MAT157"
@@ -2276,6 +2497,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO100",
       "SOC101"
@@ -2284,6 +2506,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO105",
       "SOC101"
@@ -2292,6 +2515,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO100",
       "SOC102",
@@ -2301,6 +2525,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO105",
       "SOC102",
@@ -2310,6 +2535,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO100",
       "SOC102",
@@ -2319,6 +2545,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO105",
       "SOC102",
@@ -2328,6 +2555,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO100",
       "PSY100",
@@ -2337,6 +2565,7 @@
   {
     "postName":"Employment Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ire.htm#ASSPE1535",
+    "type": "3",
     "requirements":[
       "ECO105",
       "PSY100",
@@ -2346,6 +2575,7 @@
   {
     "postName":"English Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eng.htm#ASSPE1645",
+    "type": "1",
     "requirements":[
       "ENG110"
     ]
@@ -2353,6 +2583,7 @@
   {
     "postName":"English Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eng.htm#ASSPE1645",
+    "type": "1",
     "requirements":[
       "ENG140"
     ]
@@ -2360,6 +2591,7 @@
   {
     "postName":"English Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eng.htm#ASSPE1645",
+    "type": "1",
     "requirements":[
       "ENG150"
     ]
@@ -2367,6 +2599,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2376,6 +2609,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2385,6 +2619,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2394,6 +2629,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2403,6 +2639,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2412,6 +2649,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2430,6 +2668,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2439,6 +2678,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2448,6 +2688,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM136",
@@ -2457,6 +2698,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM151",
@@ -2466,6 +2708,7 @@
   {
     "postName":"Environmental Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1076",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "CHM135",
@@ -2475,6 +2718,7 @@
   {
     "postName":"Estonian Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_est.htm#ASMIN1756",
+    "type": "1",
     "requirements":[
       "EST100",
       "EST101"
@@ -2483,6 +2727,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2492,6 +2737,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2501,6 +2747,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS103",
@@ -2511,6 +2758,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2520,6 +2768,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2529,6 +2778,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS103"
@@ -2537,6 +2787,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS103",
@@ -2547,6 +2798,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2556,6 +2808,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2565,6 +2818,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "HIS102",
@@ -2575,6 +2829,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2584,6 +2839,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2593,6 +2849,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "HIS102",
@@ -2603,6 +2860,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2612,6 +2870,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2621,6 +2880,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN150",
@@ -2631,6 +2891,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2640,6 +2901,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2649,6 +2911,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN150",
@@ -2659,6 +2922,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2668,6 +2932,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2677,6 +2942,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO100",
       "TRN151",
@@ -2687,6 +2953,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2696,6 +2963,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2705,6 +2973,7 @@
   {
     "postName":"International Relations Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASSPE1469",
+    "type": "3",
     "requirements":[
       "ECO105",
       "TRN151",
@@ -2715,6 +2984,7 @@
   {
     "postName":"European Studies Major (Estonian)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "EST100",
       "EST101"
@@ -2723,6 +2993,7 @@
   {
     "postName":"European Studies Major (French)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "FSL100",
       "FSL102"
@@ -2731,6 +3002,7 @@
   {
     "postName":"European Studies Major (French)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "FSL100",
       "FSL121"
@@ -2739,6 +3011,7 @@
   {
     "postName":"European Studies Major (German)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "GER100"
     ]
@@ -2746,6 +3019,7 @@
   {
     "postName":"European Studies Major (Hungarian)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "HUN100"
     ]
@@ -2753,6 +3027,7 @@
   {
     "postName":"European Studies Major (Italian)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "ITA100"
     ]
@@ -2760,6 +3035,7 @@
   {
     "postName":"European Studies Major (Greek)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "MGR100"
     ]
@@ -2767,6 +3043,7 @@
   {
     "postName":"European Studies Major (Greek)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "MGR101"
     ]
@@ -2774,6 +3051,7 @@
   {
     "postName":"European Studies Major (Portugese)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "PRT100"
     ]
@@ -2781,6 +3059,7 @@
   {
     "postName":"European Studies Major (Czech)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "SLA204"
     ]
@@ -2788,6 +3067,7 @@
   {
     "postName":"European Studies Major (Ukranian)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "SLA208"
     ]
@@ -2795,6 +3075,7 @@
   {
     "postName":"European Studies Major (Russian)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_eur.htm#ASMAJ1625",
+    "type": "2",
     "requirements":[
       "SLA220"
     ]
@@ -2802,6 +3083,7 @@
   {
     "postName":"Finnish Studies Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fin.htm#ASMAJ1089",
+    "type": "2",
     "requirements":[
       "FIN100",
       "FIN110"
@@ -2810,6 +3092,7 @@
   {
     "postName":"Forest Biomaterials Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASMAJ1098",
+    "type": "1",
     "requirements":[
       "BIO120",
       "ECO100"
@@ -2818,6 +3101,7 @@
   {
     "postName":"Forest Biomaterials Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASMAJ1098",
+    "type": "1",
     "requirements":[
       "BIO120",
       "ECO105"
@@ -2826,6 +3110,7 @@
   {
     "postName":"Forest Biomaterials Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASMAJ1098",
+    "type": "1",
     "requirements":[
       "BIO120",
       "MAT135",
@@ -2835,6 +3120,7 @@
   {
     "postName":"Forest Biomaterials Science Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASMAJ1098",
+    "type": "1",
     "requirements":[
       "BIO120",
       "MSE101",
@@ -2844,6 +3130,7 @@
   {
     "postName":"French Language and Literature Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASSPE1295",
+    "type": "1",
     "requirements":[
       "FSL121"
     ]
@@ -2851,6 +3138,7 @@
   {
     "postName":"French Language and Literature Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASSPE1295",
+    "type": "1",
     "requirements":[
       "FSL221"
     ]
@@ -2858,6 +3146,7 @@
   {
     "postName":"French Language and French Linguistics Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASSPE0525",
+    "type": "1",
     "requirements":[
       "FSL121"
     ]
@@ -2865,6 +3154,7 @@
   {
     "postName":"French Language and French Linguistics Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASSPE0525",
+    "type": "1",
     "requirements":[
       "FSL221"
     ]
@@ -2872,6 +3162,7 @@
   {
     "postName":"French Language Learning Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMAJ0120",
+    "type": "1",
     "requirements":[
       "FSL121"
     ]
@@ -2879,6 +3170,7 @@
   {
     "postName":"French Language Learning Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMAJ0120",
+    "type": "1",
     "requirements":[
       "FSL221"
     ]
@@ -2886,6 +3178,7 @@
   {
     "postName":"French as a Second Language Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMIN0555",
+    "type": "1",
     "requirements":[
       "FSL121"
     ]
@@ -2893,6 +3186,7 @@
   {
     "postName":"French as a Second Language Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMIN0555",
+    "type": "1",
     "requirements":[
       "FSL221"
     ]
@@ -2900,6 +3194,7 @@
   {
     "postName":"French Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMIN1135",
+    "type": "1",
     "requirements":[
       "FSL121"
     ]
@@ -2907,6 +3202,7 @@
   {
     "postName":"French Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fre.htm#ASMIN1135",
+    "type": "1",
     "requirements":[
       "FSL221"
     ]
@@ -2914,6 +3210,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -2924,6 +3221,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM135",
@@ -2933,6 +3231,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -2942,6 +3241,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CHM151"
@@ -2950,6 +3250,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -2960,6 +3261,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT137",
       "PHY131",
@@ -2969,6 +3271,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -2979,6 +3282,7 @@
   {
     "postName":"Environment and Energy Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1552",
+    "type": "1",
     "requirements":[
       "MAT137",
       "PHY151",
@@ -2988,6 +3292,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "GGR107"
     ]
@@ -2995,6 +3300,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "GGR100"
     ]
@@ -3002,6 +3308,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "GGR101"
     ]
@@ -3009,6 +3316,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "GGR112"
     ]
@@ -3016,6 +3324,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "GGR124"
     ]
@@ -3023,6 +3332,7 @@
   {
     "postName":"Environmental Geography Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN1252",
+    "type": "1",
     "requirements":[
       "JEG100"
     ]
@@ -3030,6 +3340,7 @@
   {
     "postName":"German Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ger.htm#ASSPE1400",
+    "type": "1",
     "requirements":[
       "GER100"
     ]
@@ -3037,6 +3348,7 @@
   {
     "postName":"German Stuides in English Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ger.htm#ASMAJ1405",
+    "type": "1",
     "requirements":[
       "GER150"
     ]
@@ -3044,6 +3356,7 @@
   {
     "postName":"Business German Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ger.htm#ASMIN2453",
+    "type": "1",
     "requirements":[
       "GER100"
     ]
@@ -3051,6 +3364,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS100"
     ]
@@ -3058,6 +3372,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS101"
     ]
@@ -3065,6 +3380,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS102"
     ]
@@ -3072,6 +3388,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS103"
     ]
@@ -3079,6 +3396,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS106"
     ]
@@ -3086,6 +3404,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS107"
     ]
@@ -3093,6 +3412,7 @@
   {
     "postName":"History Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_his.htm#ASSPE0652",
+    "type": "1",
     "requirements":[
       "HIS109"
     ]
@@ -3100,6 +3420,7 @@
   {
     "postName":"History and Philosophy of Science and Technology Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hps.htm#ASMAJ0667",
+    "type": "1",
     "requirements":[
       "HPS100"
     ]
@@ -3107,6 +3428,7 @@
   {
     "postName":"History and Philosophy of Science and Technology Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hps.htm#ASMAJ0667",
+    "type": "1",
     "requirements":[
       "HPS110"
     ]
@@ -3114,6 +3436,7 @@
   {
     "postName":"History and Philosophy of Science and Technology Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hps.htm#ASMAJ0667",
+    "type": "1",
     "requirements":[
       "HPS120"
     ]
@@ -3121,6 +3444,7 @@
   {
     "postName":"History of Art Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_fah.htm#ASSPE0908",
+    "type": "1",
     "requirements":[
       "FAH102"
     ]
@@ -3128,6 +3452,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3139,6 +3464,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3149,6 +3475,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3159,6 +3486,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3170,6 +3498,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3180,6 +3509,7 @@
   {
     "postName":"Fundamental Genetics and its Applications Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1050",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3191,6 +3521,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3202,6 +3533,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3212,6 +3544,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3222,6 +3555,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3233,6 +3567,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3243,6 +3578,7 @@
   {
     "postName":"Global Health Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2575",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3254,6 +3590,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3265,6 +3602,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3275,6 +3613,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3285,6 +3624,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3296,6 +3636,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3306,6 +3647,7 @@
   {
     "postName":"Global Health Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2575",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3317,6 +3659,7 @@
   {
     "postName":"Health and Disease Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2013",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3328,6 +3671,7 @@
   {
     "postName":"Health and Disease Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2013",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3338,6 +3682,7 @@
   {
     "postName":"Health and Disease Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2013",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3348,6 +3693,7 @@
   {
     "postName":"Health and Disease Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2013",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3359,6 +3705,7 @@
   {
     "postName":"Health and Disease Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE2013",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3380,6 +3727,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3392,6 +3740,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3403,6 +3752,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3414,6 +3764,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3426,6 +3777,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3437,6 +3789,7 @@
   {
     "postName":"Neuroscience Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASSPE1472",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3449,6 +3802,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3460,6 +3814,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3470,6 +3825,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3480,6 +3836,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3491,6 +3848,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3501,6 +3859,7 @@
   {
     "postName":"Human Biology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hmb.htm#ASMAJ2035",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3512,6 +3871,7 @@
   {
     "postName":"Hungarian Studies Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_hun.htm#ASMAJ1124",
+    "type": "1",
     "requirements":[
       "HUN100"
     ]
@@ -3519,6 +3879,7 @@
   {
     "postName":"Immunology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASSPE1002",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3531,6 +3892,7 @@
   {
     "postName":"Immunology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASSPE1002",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3542,6 +3904,7 @@
   {
     "postName":"Immunology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASSPE1002",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3552,6 +3915,7 @@
   {
     "postName":"Immunology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASSPE1002",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3561,8 +3925,9 @@
     ]
   },
   {
-    "postName":"Immunology Major / Minor",
+    "postName":"Immunology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASMAJ1002",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3572,8 +3937,32 @@
     ]
   },
   {
-    "postName":"Immunology Major / Minor",
+    "postName":"Immunology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASMAJ1002",
+    "type": "3",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Immunology Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASMAJ1002",
+    "type": "1",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136",
+      "MAT135"
+    ]
+  },
+  {
+    "postName":"Immunology Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_imm.htm#ASMAJ1002",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3584,6 +3973,7 @@
   {
     "postName":"Italian Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ita.htm#ASSPE2524",
+    "type": "1",
     "requirements":[
       "ITA100"
     ]
@@ -3591,6 +3981,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3603,6 +3994,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3614,6 +4006,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3624,6 +4017,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3635,6 +4029,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3645,6 +4040,7 @@
   {
     "postName":"Pathobiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lmp.htm#ASSPE2025",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3656,6 +4052,7 @@
   {
     "postName":"Linguistics Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_lin.htm#ASSPE0506",
+    "type": "1",
     "requirements":[
       "LIN100",
       "LIN102"
@@ -3664,6 +4061,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3676,6 +4074,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3687,6 +4086,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3697,6 +4097,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3708,6 +4109,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3718,6 +4120,7 @@
   {
     "postName":"Materials Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mse.htm#ASSPE2424",
+    "type": "2",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3729,6 +4132,7 @@
   {
     "postName":"Mathematics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1165",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -3738,6 +4142,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -3747,6 +4152,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -3756,6 +4162,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT137",
       "MAT223"
@@ -3764,6 +4171,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT137",
       "MAT240"
@@ -3772,6 +4180,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT223"
@@ -3780,6 +4189,7 @@
   {
     "postName":"Mathematics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMAJ1165",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240"
@@ -3788,6 +4198,7 @@
   {
     "postName":"Mathematics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMIN1165",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136"
@@ -3796,6 +4207,7 @@
   {
     "postName":"Mathematics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASMIN1165",
+    "type": "1",
     "requirements":[
       "MAT137"
     ]
@@ -3803,6 +4215,7 @@
   {
     "postName":"Applied Mathematics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE2053",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -3814,6 +4227,7 @@
   {
     "postName":"Mathematics and Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE0397",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -3825,6 +4239,7 @@
   {
     "postName":"Mathematics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1361",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -3835,6 +4250,7 @@
   {
     "postName":"Mathematics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1361",
+    "type": "1",
     "requirements":[
       "MAT157",
       "MAT240",
@@ -3845,6 +4261,7 @@
   {
     "postName":"Mathematics and Its Applications Specialist (Teaching)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1361",
+    "type": "1",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -3855,6 +4272,7 @@
   {
     "postName":"Mathematics and Its Applications Specialist (Teaching)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1361",
+    "type": "1",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -3865,6 +4283,7 @@
   {
     "postName":"Mathematics and Its Applications Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1758",
+    "type": "1",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -3875,6 +4294,7 @@
   {
     "postName":"Mathematics and Its Applications Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1758",
+    "type": "1",
     "requirements":[
       "CSC108",
       "CSC148",
@@ -3885,6 +4305,7 @@
   {
     "postName":"Mathematical Applications in Economics and Finance Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1700",
+    "type": "1",
     "requirements":[
       "ECO100",
       "MAT137",
@@ -3895,6 +4316,7 @@
   {
     "postName":"Mathematical Applications in Economics and Finance Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mat.htm#ASSPE1700",
+    "type": "1",
     "requirements":[
       "ECO100",
       "MAT157",
@@ -3905,6 +4327,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3917,6 +4340,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3928,6 +4352,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3938,6 +4363,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3949,6 +4375,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3959,6 +4386,7 @@
   {
     "postName":"Molecular Genetics and Microbiology Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mgy.htm#ASSPE1387",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3970,6 +4398,7 @@
   {
     "postName":"Music Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mus.htm#ASSPE2276",
+    "type": "3",
     "requirements":[
       "HMU111",
       "HMU126",
@@ -3980,6 +4409,7 @@
   {
     "postName":"Music History and Culture Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_mus.htm#ASMIN0695",
+    "type": "1",
     "requirements":[
       "MUS110",
       "MUS111"
@@ -3988,6 +4418,7 @@
   {
     "postName":"Nutritional Science Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_nfs.htm#ASMAJ1068",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -3998,6 +4429,7 @@
   {
     "postName":"Nutritional Science Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_nfs.htm#ASMAJ1068",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4007,6 +4439,7 @@
   {
     "postName":"Pharmaceutical Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phc.htm#ASSPE1211",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4019,6 +4452,7 @@
   {
     "postName":"Pharmaceutical Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phc.htm#ASSPE1211",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4030,6 +4464,7 @@
   {
     "postName":"Pharmaceutical Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phc.htm#ASSPE1211",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4042,6 +4477,7 @@
   {
     "postName":"Pharmaceutical Chemistry Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phc.htm#ASSPE1211",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4053,6 +4489,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4065,6 +4502,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4076,6 +4514,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4087,6 +4526,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4097,6 +4537,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4108,6 +4549,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4118,6 +4560,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4130,6 +4573,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4141,6 +4585,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4153,6 +4598,7 @@
   {
     "postName":"Pharmacology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4164,6 +4610,7 @@
   {
     "postName":"Pharmacology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4174,6 +4621,7 @@
   {
     "postName":"Pharmacology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2082",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4183,6 +4631,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4195,6 +4644,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4206,6 +4656,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4217,6 +4668,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4227,6 +4679,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4238,6 +4691,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4248,6 +4702,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4260,6 +4715,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4271,6 +4727,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4283,6 +4740,7 @@
   {
     "postName":"Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4294,6 +4752,7 @@
   {
     "postName":"Biomedical Toxicology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASMAJ2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4304,6 +4763,7 @@
   {
     "postName":"Biomedical Toxicology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASMAJ2573",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4313,6 +4773,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4325,6 +4786,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4336,6 +4798,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4347,6 +4810,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4357,6 +4821,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4368,6 +4833,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4378,6 +4844,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4390,6 +4857,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4401,6 +4869,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4413,6 +4882,7 @@
   {
     "postName":"Pharmacology and Biomedical Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE2675",
+    "type": "3",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4424,6 +4894,7 @@
   {
     "postName":"Environment and Toxicology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pcl.htm#ASSPE0605",
+    "type": "2L",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4435,6 +4906,7 @@
   {
     "postName":"Philosophy Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE0231",
+    "type": "1",
     "requirements":[
       "PHL100"
     ]
@@ -4442,6 +4914,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4454,6 +4927,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4466,6 +4940,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4478,6 +4953,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4490,6 +4966,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4501,6 +4978,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4512,6 +4990,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4523,6 +5002,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4534,6 +5014,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4545,6 +5026,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4556,6 +5038,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4567,6 +5050,7 @@
   {
     "postName":"Physics and Philosophy Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE2584",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4578,6 +5062,7 @@
   {
     "postName":"Bioethics Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phl.htm#ASSPE1001",
+    "type": "1",
     "requirements":[
       "PHL100",
       "BIO120",
@@ -4587,6 +5072,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4598,6 +5084,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4609,6 +5096,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4620,6 +5108,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4631,6 +5120,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4641,6 +5131,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4651,6 +5142,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4661,6 +5153,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4671,6 +5164,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4681,6 +5175,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4691,6 +5186,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4701,6 +5197,7 @@
   {
     "postName":"Physics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4711,6 +5208,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4721,6 +5219,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4731,6 +5230,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4740,6 +5240,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4749,6 +5250,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132",
@@ -4758,6 +5260,7 @@
   {
     "postName":"Physics Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMAJ1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152",
@@ -4767,6 +5270,7 @@
   {
     "postName":"Physics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMIN1944",
+    "type": "1",
     "requirements":[
       "PHY131",
       "PHY132"
@@ -4775,6 +5279,7 @@
   {
     "postName":"Physics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASMIN1944",
+    "type": "1",
     "requirements":[
       "PHY151",
       "PHY152"
@@ -4783,6 +5288,7 @@
   {
     "postName":"Physiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASSPE0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4795,6 +5301,7 @@
   {
     "postName":"Physiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASSPE0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4807,6 +5314,7 @@
   {
     "postName":"Physiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASSPE0482",
+    "type": "1",
     "requirements":[
       "PSL190",
       "BIO130",
@@ -4819,6 +5327,7 @@
   {
     "postName":"Physiology Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASSPE0482",
+    "type": "1",
     "requirements":[
       "PSL190",
       "BIO130",
@@ -4831,6 +5340,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4843,6 +5353,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4854,6 +5365,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4865,6 +5377,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4875,6 +5388,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4886,6 +5400,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4896,6 +5411,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4908,6 +5424,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4919,6 +5436,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4931,6 +5449,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4942,6 +5461,7 @@
   {
     "postName":"Physiology Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMAJ0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130",
@@ -4954,6 +5474,7 @@
   {
     "postName":"Physiology Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMIN0482",
+    "type": "1",
     "requirements":[
       "BIO120",
       "BIO130"
@@ -4962,6 +5483,7 @@
   {
     "postName":"Physiology Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psl.htm#ASMIN0482",
+    "type": "1",
     "requirements":[
       "BIO150"
     ]
@@ -4969,6 +5491,7 @@
   {
     "postName":"Planetary Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pln.htm#ASSPE1073",
+    "type": "1",
     "requirements":[
       "CHM151",
       "PHY151",
@@ -4979,6 +5502,7 @@
   {
     "postName":"Planetary Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pln.htm#ASSPE1073",
+    "type": "1",
     "requirements":[
       "CHM151",
       "PHY131",
@@ -4989,6 +5513,7 @@
   {
     "postName":"Planetary Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pln.htm#ASSPE1073",
+    "type": "1",
     "requirements":[
       "CHM151",
       "PHY151",
@@ -5000,6 +5525,7 @@
   {
     "postName":"Planetary Science Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pln.htm#ASSPE1073",
+    "type": "1",
     "requirements":[
       "CHM151",
       "PHY131",
@@ -5011,6 +5537,7 @@
   {
     "postName":"Political Science Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_pol.htm#ASSPE2015",
+    "type": "2",
     "requirements":[
       "POL101"
     ]
@@ -5018,6 +5545,7 @@
   {
     "postName":"Portuguese Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_prt.htm#ASSPE0338",
+    "type": "1",
     "requirements":[
       "PRT100"
     ]
@@ -5025,6 +5553,7 @@
   {
     "postName":"Portuguese Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_prt.htm#ASSPE0338",
+    "type": "1",
     "requirements":[
       "PRT120"
     ]
@@ -5032,13 +5561,15 @@
   {
     "postName":"Psychology Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psy.htm#ASSPE1160",
+    "type": "2L",
     "requirements":[
       "PSY100"
     ]
   },
   {
-    "postName":"Psychology Research Specialist (Type 3 with hard reqs.)",
+    "postName":"Psychology Research Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_psy.htm#ASSPE1958",
+    "type": "3",
     "requirements":[
       "PSY100"
     ]
@@ -5046,6 +5577,7 @@
   {
     "postName":"Education and Society Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1029",
+    "type": "3",
     "requirements":[
       "PSY100"
     ]
@@ -5053,6 +5585,7 @@
   {
     "postName":"Literature and Critical Theory in the Comparative Literature Stream Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASSPE1026",
+    "type": "1",
     "requirements":[
       "VIC202"
     ]
@@ -5060,6 +5593,7 @@
   {
     "postName":"Literature and Critical Theory in the Cultural Theory Stream Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASSPE1023",
+    "type": "1",
     "requirements":[
       "VIC202"
     ]
@@ -5067,6 +5601,7 @@
   {
     "postName":"Major in Public Policy",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ppg.htm#ASMAJ2660",
+    "type": "2L",
     "requirements":[
       "POl101",
       "ECO100"
@@ -5075,6 +5610,7 @@
   {
     "postName":"Major in Public Policy",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_ppg.htm#ASMAJ2660",
+    "type": "2L",
     "requirements":[
       "POl101",
       "ECO105"
@@ -5083,6 +5619,7 @@
   {
     "postName":"Religion Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE0151",
+    "type": "1",
     "requirements":[
       "RLG100"
     ]
@@ -5090,6 +5627,7 @@
   {
     "postName":"Religion Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE0151",
+    "type": "1",
     "requirements":[
       "RLG101"
     ]
@@ -5097,6 +5635,7 @@
   {
     "postName":"Buddhist Studies Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE1525",
+    "type": "1",
     "requirements":[
       "RLG100"
     ]
@@ -5104,6 +5643,7 @@
   {
     "postName":"Buddhist Studies Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE1525",
+    "type": "1",
     "requirements":[
       "RLG101"
     ]
@@ -5111,6 +5651,7 @@
   {
     "postName":"Islamic Studies Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASMAJ1359",
+    "type": "1",
     "requirements":[
       "RLG100"
     ]
@@ -5118,6 +5659,7 @@
   {
     "postName":"Islamic Studies Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASMAJ1359",
+    "type": "1",
     "requirements":[
       "RLG101"
     ]
@@ -5125,6 +5667,7 @@
   {
     "postName":"Chrisitan Origins Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE1520",
+    "type": "1",
     "requirements":[
       "RLG100"
     ]
@@ -5132,6 +5675,7 @@
   {
     "postName":"Chrisitan Origins Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rlg.htm#ASSPE1520",
+    "type": "1",
     "requirements":[
       "RLG101"
     ]
@@ -5139,6 +5683,7 @@
   {
     "postName":"Rotman Commerce",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5148,6 +5693,7 @@
   {
     "postName":"Rotman Commerce",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5158,6 +5704,7 @@
   {
     "postName":"Rotman Commerce",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5167,6 +5714,7 @@
   {
     "postName":"Rotman Commerce",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5176,6 +5724,7 @@
   {
     "postName":"Finance and Economics Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5195,6 +5744,7 @@
   {
     "postName":"Finance and Economics Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5204,6 +5754,7 @@
   {
     "postName":"Finance and Economics Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5213,6 +5764,7 @@
   {
     "postName":"Management Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2431",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5222,6 +5774,7 @@
   {
     "postName":"Management Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2431",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5232,6 +5785,7 @@
   {
     "postName":"Management Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2431",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5241,6 +5795,7 @@
   {
     "postName":"Management Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2431",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5250,6 +5805,7 @@
   {
     "postName":"Accounting Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2678",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5259,6 +5815,7 @@
   {
     "postName":"Accounting Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2678",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5269,6 +5826,7 @@
   {
     "postName":"Accounting Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2678",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5278,6 +5836,7 @@
   {
     "postName":"Accounting Specialist (BCom)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2678",
+    "type": "3",
     "requirements":[
       "RSM100",
       "ECO100",
@@ -5287,6 +5846,7 @@
   {
     "postName":"Women and Gender Studies Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_wgs.htm#ASSPE0571",
+    "type": "1",
     "requirements":[
       "WGS160"
     ]
@@ -5294,6 +5854,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC108)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -5303,6 +5864,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -5312,6 +5874,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC121)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -5321,6 +5884,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136",
@@ -5330,6 +5894,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC108)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC108"
@@ -5338,6 +5903,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC120"
@@ -5346,6 +5912,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC121)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC121"
@@ -5354,6 +5921,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148"
@@ -5362,6 +5930,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC108)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC108"
@@ -5370,6 +5939,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC120"
@@ -5378,6 +5948,7 @@
   {
     "postName":"Applied Statistics Specialist (using CSC121)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC121"
@@ -5386,6 +5957,7 @@
   {
     "postName":"Applied Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE1540",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148"
@@ -5394,6 +5966,7 @@
   {
     "postName":"Statistics Specialist (using CSC108)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC108"
@@ -5402,6 +5975,7 @@
   {
     "postName":"Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC120"
@@ -5410,6 +5984,7 @@
   {
     "postName":"Statistics Specialist (using CSC121)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC121"
@@ -5418,6 +5993,7 @@
   {
     "postName":"Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT137",
       "CSC148"
@@ -5426,6 +6002,7 @@
   {
     "postName":"Statistics Specialist (using CSC108)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC108"
@@ -5434,6 +6011,7 @@
   {
     "postName":"Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC120"
@@ -5442,6 +6020,7 @@
   {
     "postName":"Statistics Specialist (using CSC121)",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC121"
@@ -5450,6 +6029,7 @@
   {
     "postName":"Statistics Specialist",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASSPE2289",
+    "type": "1",
     "requirements":[
       "MAT157",
       "CSC148"
@@ -5458,6 +6038,7 @@
   {
     "postName":"Statistics Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASMAJ2289",
+    "type": "1",
     "requirements":[
       "MAT135",
       "MAT136"
@@ -5466,6 +6047,7 @@
   {
     "postName":"Statistics Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASMAJ2289",
+    "type": "1",
     "requirements":[
       "MAT137"
     ]
@@ -5473,6 +6055,7 @@
   {
     "postName":"Statistics Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASMAJ2289",
+    "type": "1",
     "requirements":[
       "MAT157"
     ]
@@ -5480,6 +6063,7 @@
   {
     "postName":"Statistics Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sta.htm#ASMIN2289",
+    "type": "1",
     "requirements":[
       "MAT133"
     ]
@@ -5487,6 +6071,7 @@
   {
     "postName":"Spanish Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_spa.htm#ASSPE0623",
+    "type": "1",
     "requirements":[
       "SPA100"
     ]
@@ -5494,6 +6079,7 @@
   {
     "postName":"South Asian Studies Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sas.htm#ASMIN1333",
+    "type": "1",
     "requirements":[
       "SAS114"
     ]
@@ -5501,6 +6087,7 @@
   {
     "postName":"Sociology Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_soc.htm",
+    "type": "2L",
     "requirements":[
       "SOC101"
     ]
@@ -5508,6 +6095,7 @@
   {
     "postName":"Sociology Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_soc.htm",
+    "type": "2L",
     "requirements":[
       "SOC102",
       "SOC103"
@@ -5516,6 +6104,7 @@
   {
     "postName":"Czech and Slovak Studies Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMAJ1553",
+    "type": "1",
     "requirements":[
       "SLA105"
     ]
@@ -5523,6 +6112,7 @@
   {
     "postName":"Polish Language and Literature Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMAJ2426",
+    "type": "1",
     "requirements":[
       "SLA106"
     ]
@@ -5530,6 +6120,7 @@
   {
     "postName":"Polish Studies Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMAJ1860",
+    "type": "1",
     "requirements":[
       "SLA106"
     ]
@@ -5537,6 +6128,7 @@
   {
     "postName":"Russian Language and Literature Specialist / Major / Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASSPE0494",
+    "type": "1",
     "requirements":[
       "SLA100",
       "SLA101"
@@ -5545,6 +6137,7 @@
   {
     "postName":"Russian Language Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMIN2122",
+    "type": "1",
     "requirements":[
       "SLA100",
       "SLA101"
@@ -5553,6 +6146,7 @@
   {
     "postName":"South Slavic Studies Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMAJ1187",
+    "type": "1",
     "requirements":[
       "SLA109"
     ]
@@ -5560,6 +6154,7 @@
   {
     "postName":"Ukrainian Language and Literature Specialist / Major",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASSPE1585",
+    "type": "1",
     "requirements":[
       "SLA108"
     ]
@@ -5567,6 +6162,7 @@
   {
     "postName":"Literature and Critical Theory Minor",
     "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN0539",
+    "type": "1",
     "requirements":[
       "VIC202"
     ]
