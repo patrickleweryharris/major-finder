@@ -27,7 +27,6 @@ def parse():
         if code not in included:
             not_included.append(code)
 
-    
     # print(not_included)
     for item in not_included:
         print(item)
