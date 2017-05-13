@@ -73,7 +73,6 @@ The following programs are not included due to having non-standard curricula:
 - Geoscience Major/Minor (40 different combinations)
 - Earth and Environmental Systems Major (35 different combinations)
 - Physical and Environmental Geography Specialist/Major/Minor
-- Urban Studies Specialist/Major/Minor (Pick selections of different courses)
 - Geology Specialist
 - Physical & Environmental Geography Major
 - Renaissance Studies Specialist / Major / Minor (pick from a list of courses)
