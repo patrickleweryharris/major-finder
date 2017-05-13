@@ -813,7 +813,7 @@
   },
   {
     "postName":"Caribbean Studies Specialist / Major / Minor",
-    "calLink":"http://calendar.artsci.utoronto.ca/crs_smc.htm#ASSPE1231",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_new.htm#ASSPE1545",
     "type": "1",
     "requirements":[
       "NEW120"
@@ -6157,6 +6157,965 @@
     "type": "1",
     "requirements":[
       "SLA108"
+    ]
+  },
+  {
+    "postName":"Accounting: Financial Reporting and Control Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
+    "requirements":[
+      "ECO100",
+      "RSM100",
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Accounting: Financial Reporting and Control Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
+    "requirements":[
+      "ECO100",
+      "RSM100",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Accounting: Financial Reporting and Control Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
+    "requirements":[
+      "ECO100",
+      "RSM100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Accounting: Financial Reporting and Control Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_rsm.htm#ASSPE2038",
+    "type": "3",
+    "requirements":[
+      "ECO100",
+      "RSM100",
+      "MAT157"
+    ]
+  },
+  {
+    "postName":"Asian Canadian Studies Minor",
+    "calLink":"http://www.uc.utoronto.ca/acs",
+    "type": "1",
+    "requirements":[
+      "CDN267"
+    ]
+  },
+  {
+    "postName":"Asian Canadian Studies Minor",
+    "calLink":"http://www.uc.utoronto.ca/acs",
+    "type": "1",
+    "requirements":[
+      "CDN268"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "GGR100"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "GGR101"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "GGR107"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "GGR112"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Asian Geographies (Joint NUS)",
+    "calLink":"http://geography.utoronto.ca/undergraduate/programs-of-study/asian-geographies-program-requirements/",
+    "type": "3",
+    "requirements":[
+      "JEG100"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT136",
+      "PHY131",
+      "PHY132"
+    ]
+  },{
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT136",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT137",
+      "PHY131",
+      "PHY132"
+    ]
+  },{
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT137",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT157",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT157",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT136",
+      "PHY151",
+      "PHY152"
+    ]
+  },{
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT136",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT137",
+      "PHY151",
+      "PHY152"
+    ]
+  },{
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT137",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM135",
+      "CHM136",
+      "MAT157",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Biological Physics Specialist",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_phy.htm#ASSPE2739",
+    "type": "1",
+    "requirements":[
+      "CHM151",
+      "MAT157",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Biology (Joint NUS) Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_bio.htm#ASMIN2730",
+    "type": "3",
+    "requirements":[
+      "BIO120",
+      "BIO130"
+    ]
+  },
+  {
+    "postName":"Buddhism, Psychology & Mental Health Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_new.htm#ASMIN1017",
+    "type": "1",
+    "requirements":[
+      "NEW232"
+    ]
+  },
+  {
+    "postName":"Canadian Studies Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASSPE0728",
+    "type": "1",
+    "requirements":[
+      "CDN267",
+      "CDN268",
+      "HIS263"
+    ]
+  },
+  {
+    "postName":"Classical Civilization Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cla.htm#ASMAJ0382",
+    "type": "2",
+    "requirements":[
+      "CLA160"
+    ]
+  },
+  {
+    "postName":"Classics Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cla.htm#ASMAJ0962",
+    "type": "1",
+    "requirements":[
+      "CLA160"
+    ]
+  },
+  {
+    "postName":"Contemporary Asian Studies Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cas.htm#ASMAJ0235",
+    "type": "1",
+    "requirements":[
+      "CAS200"
+    ]
+  },
+  {
+    "postName":"Contemporary Asian Studies Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cas.htm#ASMAJ0235",
+    "type": "1",
+    "requirements":[
+      "CAS201",
+      "CAS202"
+    ]
+  },
+  {
+    "postName":"Creative Expression & Society Minor (grade req for first year courses)",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN2741",
+    "type": "1",
+    "requirements":[
+      "VIC191"
+    ]
+  },
+  {
+    "postName":"Creative Expression & Society Minor (grade req for first year courses)",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN2741",
+    "type": "1",
+    "requirements":[
+      "VIC190"
+    ]
+  },
+  {
+    "postName":"Criminology & Sociolegal Studies Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cri.htm#ASSPE0826",
+    "type": "3",
+    "requirements":[
+      "CRI205",
+      "CRI210",
+      "CRI225"
+    ]
+  },
+  {
+    "postName":"Diaspora & Transnational Studies Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_dts.htm#ASMAJ1407",
+    "type": "1",
+    "requirements":[
+      "DTS200"
+    ]
+  },
+  {
+    "postName":"Drama Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_drm.htm#ASSPE2148",
+    "type": "3",
+    "requirements":[
+      "DRM100"
+    ]
+  },
+  {
+    "postName":"Drama Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_drm.htm#ASSPE2148",
+    "type": "3",
+    "requirements":[
+      "DRM101"
+    ]
+  },
+  {
+    "postName":"Drama Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_drm.htm#ASSPE2148",
+    "type": "3",
+    "requirements":[
+      "UNI102"
+    ]
+  },
+  {
+    "postName":"Environment & Behaviour Minor (you must also be enrolled in psych specialist, major or minor)",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMIN1551",
+    "type": "1",
+    "requirements":[
+      "PSY100"
+    ]
+  },
+  {
+    "postName":"Environment & Health Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ0365",
+    "type": "1",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM135",
+      "CHM136"
+    ]
+  },
+  {
+    "postName":"Environment & Health Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ0365",
+    "type": "1",
+    "requirements":[
+      "BIO120",
+      "BIO130",
+      "CHM151"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO100",
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO100",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO100",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO105",
+      "MAT133"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO105",
+      "MAT136"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO105",
+      "MAT137"
+    ]
+  },
+  {
+    "postName":"Environmental Economics Minor",
+    "calLink":"https://www.economics.utoronto.ca/index.php/index/undergraduate/load/overview",
+    "type": "2",
+    "requirements":[
+      "ECO105",
+      "MAT157"
+    ]
+  },
+  {
+    "postName":"Environmental Ethics Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1107",
+    "type": "1",
+    "requirements":[
+      "ENV221H1",
+      "ENV222H1",
+      "PHL273H1",
+      "JGE321H1"
+    ]
+  },
+  {
+    "postName":"Environmental Ethics Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMIN1107",
+    "type": "1",
+    "requirements":[
+      "PHL273H1"
+    ]
+  },
+  {
+    "postName":"Environmental Studies Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1254",
+    "type": "1",
+    "requirements":[
+      "ENV100"
+    ]
+  },
+  {
+    "postName":"Equity Studies Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_new.htm#ASMAJ1140",
+    "type": "1",
+    "requirements":[
+      "NEW240"
+    ]
+  },
+  {
+    "postName":"Ethics, Society & Law Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_trn.htm#ASMAJ1618",
+    "type": "2L",
+    "requirements":[
+      "PHL271",
+      "TRN203",
+      "TRN240"
+    ]
+  },
+  {
+    "postName":"Forest Conservation Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASMAJ1100",
+    "type": "1",
+    "requirements":[
+      "BIO120"
+    ]
+  },
+  {
+    "postName":"Forest Conservation Science Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_for.htm#ASSPE1102",
+    "type": "1",
+    "requirements":[
+      "BIO120"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "GGR100"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "GGR101"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "GGR107"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "GGR112"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Geographic Information Systems Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMIN0305",
+    "type": "1",
+    "requirements":[
+      "JEG100"
+    ]
+  },
+  {
+    "postName":"Greek Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cla.htm#ASMAJ2123",
+    "type": "1",
+    "requirements":[
+      "CLA160"
+    ]
+  },
+  {
+    "postName":"Health Studies Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_uni.htm#ASSPE2085",
+    "type": "2L",
+    "requirements":[
+      "HST209",
+      "HST211",
+      "HST250"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR100",
+      "GGR101"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR100",
+      "GGR107"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR100",
+      "GGR112"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR100",
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR112",
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR107",
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR112",
+      "GGR107"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR101",
+      "GGR107"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR101",
+      "GGR112"
+    ]
+  },
+  {
+    "postName":"Human Geography Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ggr.htm#ASMAJ1667",
+    "type": "2L",
+    "requirements":[
+      "GGR101",
+      "GGR124"
+    ]
+  },
+  {
+    "postName":"Indigenous Studies Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_abs.htm",
+    "type": "1",
+    "requirements":[
+      "ABS201"
+    ]
+  },
+  {
+    "postName":"Italian Culture and Communication Studies Minor ",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ita.htm#ASMIN1245",
+    "type": "1",
+    "requirements":[
+      "ITA100"
+    ]
+  },
+  {
+    "postName":"Jewish Studies Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cjs.htm#ASSPE0385",
+    "type": "1",
+    "requirements":[
+      "CJS200"
+    ]
+  },
+  {
+    "postName":"Jewish Studies Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cjs.htm#ASSPE0385",
+    "type": "1",
+    "requirements":[
+      "CJS201"
+    ]
+  },
+  {
+    "postName":"Latin Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_cla.htm#ASMIN1451",
+    "type": "1",
+    "requirements":[
+      "CLA160"
+    ]
+  },
+  {
+    "postName":"Latin American Studies Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_las.htm#ASMAJ0552",
+    "type": "1",
+    "requirements":[
+      "LAS200",
+      "LAS201"
+    ]
+  },
+  {
+    "postName":"Material Culture Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN2729",
+    "type": "1",
+    "requirements":[
+      "VIC224"
+    ]
+  },
+  {
+    "postName":"Material Culture Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN2729",
+    "type": "1",
+    "requirements":[
+      "VIC225"
+    ]
+  },
+  {
+    "postName":"Music with Ensemble Option Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_mus.htm#ASMAJ2027",
+    "type": "3",
+    "requirements":[
+      "HMU111",
+      "HMU126",
+      "MUS120",
+      "TMU115",
+      "TMU140"
+    ]
+  },
+  {
+    "postName":"Nanoscience (NUS) Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2723",
+    "type": "3",
+    "requirements":[
+      "CHM151",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Nanoscience (NUS) Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2723",
+    "type": "3",
+    "requirements":[
+      "CHM135",
+      "PHY151",
+      "PHY152"
+    ]
+  },
+  {
+    "postName":"Nanoscience (NUS) Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2723",
+    "type": "3",
+    "requirements":[
+      "CHM151",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Nanoscience (NUS) Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_chm.htm#ASMIN2723",
+    "type": "3",
+    "requirements":[
+      "CHM135",
+      "PHY131",
+      "PHY132"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC101",
+      "NMC102"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC101",
+      "NMC103"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC101",
+      "NMC104"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC102",
+      "NMC103"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC102",
+      "NMC104"
+    ]
+  },
+  {
+    "postName":"Near and Middle Eastern Civilizations Specialist / Major / Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_nmc.htm#ASSPE1019",
+    "type": "1",
+    "requirements":[
+      "NMC103",
+      "NMC104"
+    ]
+  },
+  {
+    "postName":"Peace, Conflict & Justice Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_pcj.htm#ASSPE1228",
+    "type": "3",
+    "requirements":[
+      "POL208"
+    ]
+  },
+  {
+    "postName":"Russian Literature in Translation Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_sla.htm#ASMIN1281",
+    "type": "1",
+    "requirements":[
+      "SLA245",
+      "SLA246"
+    ]
+  },
+  {
+    "postName":"Science & Society Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN2743",
+    "type": "1",
+    "requirements":[
+      "HPS200"
+    ]
+  },
+  {
+    "postName":"Semiotics & Communication Theory Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1939",
+    "type": "2L",
+    "requirements":[
+      "ANT100"
+    ]
+  },
+  {
+    "postName":"Semiotics & Communication Theory Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1939",
+    "type": "2L",
+    "requirements":[
+      "LIN100"
+    ]
+  },
+  {
+    "postName":"Semiotics & Communication Theory Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1939",
+    "type": "2L",
+    "requirements":[
+      "PHL100"
+    ]
+  },
+  {
+    "postName":"Semiotics & Communication Theory Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1939",
+    "type": "2L",
+    "requirements":[
+      "SOC101"
+    ]
+  },
+  {
+    "postName":"Semiotics & Communication Theory Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_vic.htm#ASMIN1939",
+    "type": "2L",
+    "requirements":[
+      "SOC102",
+      "SOC103"
+    ]
+  },
+  {
+    "postName":"Sexual Diversity Studies Specialist / Major",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_sds.htm#ASSPE1240",
+    "type": "1",
+    "requirements":[
+      "SDS255",
+      "SDS256"
+    ]
+  },
+  {
+    "postName":"Sexual Diversity Studies Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_sds.htm#ASSPE1240",
+    "type": "1",
+    "requirements":[
+      "SDS255"
+    ]
+  },
+  {
+    "postName":"Sexual Diversity Studies Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_sds.htm#ASSPE1240",
+    "type": "1",
+    "requirements":[
+      "SDS256"
+    ]
+  },
+  {
+    "postName":"Urban Studies Specialist / Major / Minor (additional reqs, see calendar)",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ini.htm#ASSPE2207",
+    "type": "2L",
+    "requirements":[
+      "ECO100"
+    ]
+  },
+  {
+    "postName":"Urban Studies Specialist / Major / Minor (additional reqs, see calendar)",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ini.htm#ASSPE2207",
+    "type": "2L",
+    "requirements":[
+      "ECO105"
+    ]
+  },
+  {
+    "postName":"Writing & Rhetoric Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ini.htm#ASMIN2137",
+    "type": "1",
+    "requirements":[
+      "JEI206"
+    ]
+  },
+  {
+    "postName":"Al and Malka Green Yiddish Program Minor",
+    "calLink":"http://calendar.artsci.utoronto.ca/crs_ger.htm#ASMIN1163",
+    "type": "1",
+    "requirements":[
+      "GER260"
     ]
   },
   {

@@ -21,11 +21,11 @@ def parse():
         curr = program['calLink'][-4:]
         included.add(curr)
 
-    not_included = []
+    not_included = set()
     for code in codes:
         code = code[5:9]
         if code not in included:
-            not_included.append(code)
+            not_included.add(code)
 
     # print(not_included)
     for item in not_included:

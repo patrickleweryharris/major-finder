@@ -70,20 +70,13 @@ JSON files that utilize the application should be in the following format:
 
 #### Programs Not Included:
 The following programs are not included due to having non-standard curricula:  
-- Any program without specific first year requirements
-- Geoscience Major/Minor
-- Earth and Environmental Systems Major
-- Ethics, Society and Law Major (Based on breadth reqs.)
-- International Relations Specialist (Only some variants of the reqs.
-- Forest Conservation Science Specialist/Major/Minor
-- Forest Conservation Specialist/Major/Minor
-- Environmental Geography Specialist/Major ("Pick any two courses")
-- Human Geography Specialist/Major/Minor ("Pick any two courses")
+- Geoscience Major/Minor (40 different combinations)
+- Earth and Environmental Systems Major (35 different combinations)
 - Physical and Environmental Geography Specialist/Major/Minor
-- Geographic Information Systems Minor
 - Urban Studies Specialist/Major/Minor (Pick selections of different courses)
-- Near and Middle Eastern Civilizations Specialist/Major/Minor (Many many different combos)
-- Peace, Conflict and Justice Specialist/Major (Type 3 with many many requirements)
+- Geology Specialist
+- Physical & Environmental Geography Major
+- Renaissance Studies Specialist / Major / Minor (pick from a list of courses)
 - Classical Civilization Major (UTM)
 - Diaspora and Transnational Studies (UTM)
 - Economics and Political Science (UTM)
