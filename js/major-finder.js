@@ -1,6 +1,6 @@
 /*
 
-Major Finder 2.0.0 Alpha
+Major Finder 2.0.0
 
 Find majors you are eligible for at UofT
 
@@ -69,10 +69,17 @@ function findMajors() {
     $.getJSON(jsonStr, function(data) {
 
         getInput();
-        var programOutput = "";
+        var type1Output = "";
+        var type2Output = "";
+        var type2LOutput = "";
+        var type3Output = "";
 
         if (userInput != '') {
-            programOutput = "You are eligible for:";
+            type1Output = "You are eligible for: <br> Type 1 Programs: <ul>";
+            type2Output = "Type 2 Programs: <ul>";
+            type2LOutput = "Type 2L Programs: <ul>";
+            type3Output = "Type 3 Progrms: <ul>";
+
 
             for (i = 0; i < data.length; i++) {
 
@@ -80,21 +87,55 @@ function findMajors() {
                 var flag = isSub(userInput, data[i].requirements);
 
                 if (flag === true) {
-                    programOutput = programOutput.concat("<br>");
-                    programOutput = programOutput.concat("<a href=");
-                    programOutput = programOutput.concat(data[i].calLink);
-                    programOutput = programOutput.concat(">");
-                    programOutput = programOutput.concat(data[i].postName);
-                    programOutput = programOutput.concat("</a>");
+                    if (data[i].type == "1"){
+                      type1Output = type1Output.concat("<li>");
+                      type1Output = type1Output.concat("<a href=");
+                      type1Output = type1Output.concat(data[i].calLink);
+                      type1Output = type1Output.concat(">");
+                      type1Output = type1Output.concat(data[i].postName);
+                      type1Output = type1Output.concat("</a></li>");
+
+                    }
+                    else if (data[i].type == "2"){
+                      type2Output = type2Output.concat("<li>");
+                      type2Output = type2Output.concat("<a href=");
+                      type2Output = type2Output.concat(data[i].calLink);
+                      type2Output = type2Output.concat(">");
+                      type2Output = type2Output.concat(data[i].postName);
+                      type2Output = type2Output.concat("</a></li>");
+
+                    }
+                    else if (data[i].type == "2L"){
+                      type2LOutput = type2LOutput.concat("<li>");
+                      type2LOutput = type2LOutput.concat("<a href=");
+                      type2LOutput = type2LOutput.concat(data[i].calLink);
+                      type2LOutput = type2LOutput.concat(">");
+                      type2LOutput = type2LOutput.concat(data[i].postName);
+                      type2LOutput = type2LOutput.concat("</a></li>");
+
+                    }
+                    else if (data[i].type == "3"){
+                      type3Output = type3Output.concat("<li>");
+                      type3Output = type3Output.concat("<a href=");
+                      type3Output = type3Output.concat(data[i].calLink);
+                      type3Output = type3Output.concat(">");
+                      type3Output = type3Output.concat(data[i].postName);
+                      type3Output = type3Output.concat("</a></li>");
+                    }
+
                 }
 
             }
 
-            document.getElementById("eligible_programs").innerHTML = programOutput + "<br>";
+            type1Output = type1Output.concat("</ul>");
+            type2Output = type2Output.concat("</ul>");
+            type2LOutput = type2LOutput.concat("</ul>");
+            type3Output = type3Output.concat("</ul>");
+            document.getElementById("eligible_programs").innerHTML = type1Output + "<br>" + type2Output + "<br>" + type2LOutput  + "<br>" + type3Output;
 
         } else {
-            programOutput = "You did not enter any courses";
-            document.getElementById("eligible_programs").innerHTML = programOutput;
+            type1Output = "You did not enter any courses";
+            document.getElementById("eligible_programs").innerHTML = type1Output;
         }
     });
 }

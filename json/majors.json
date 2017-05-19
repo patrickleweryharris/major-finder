@@ -6612,10 +6612,10 @@
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMAJ1107",
     "type": "1",
     "requirements":[
-      "ENV221H1",
-      "ENV222H1",
-      "PHL273H1",
-      "JGE321H1"
+      "ENV221",
+      "ENV222",
+      "PHL273",
+      "JGE321"
     ]
   },
   {
@@ -6623,7 +6623,7 @@
     "calLink":"http://calendar.artsci.utoronto.ca/crs_env.htm#ASMIN1107",
     "type": "1",
     "requirements":[
-      "PHL273H1"
+      "PHL273"
     ]
   },
   {
