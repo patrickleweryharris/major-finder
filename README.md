@@ -26,7 +26,7 @@ program(s) you are eligible for
 UofT offers no easy tool to see what subject programs a student can study given their first year courses. Major finder was created to fill this gap
 
 ## Usage  
-Major finder for UofT St. George and Mississauga campus is currently released [here](https://plh.io/major-finder). Major finder for UTSC is in development.
+Major finder for the UofT St. George campus is currently released [here](https://plh.io/major-finder). Major finder for UTSC and UTM is no longer supported.
 
 ## API
 
@@ -47,25 +47,23 @@ A corresponding selector must be added to the accompanying [html file](https://g
 
 JSON files that utilize the application should be in the following format:  
 ```json
-[
-  {
-    "name":"Computer Science Major / Specialist / Minor",
-    "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
-    "requirements:":[
-      "CSC148",
-      "CSC165",
-      "MAT135",
-      "MAT136"
-    ]
-  }
-]
+{
+  "postName":"Computer Science Major / Specialist / Minor",
+  "calLink":"http://calendar.artsci.utoronto.ca/crs_csc.htm#ASSPE1689",
+  "type": "2L",
+  "requirements":[
+    "CSC148",
+    "CSC165",
+    "MAT135",
+    "MAT136"
+  ]
+}
 ```
 ## Notes
 
 #### To Do
-  - Filtering (i.e. if a user did not take any math courses there is no point searching through programs that require math)
-  - Better feedback for user
-  - Add UTSC version
+  - Second year program entry
+  - Type 2L program grade requirements
   - Eventual updating to 2017 - 2018 calendar will be required
 
 #### Programs Not Included:
@@ -76,14 +74,6 @@ The following programs are not included due to having non-standard curricula:
 - Geology Specialist
 - Physical & Environmental Geography Major
 - Renaissance Studies Specialist / Major / Minor (pick from a list of courses)
-- Classical Civilization Major (UTM)
-- Diaspora and Transnational Studies (UTM)
-- Economics and Political Science (UTM)
-- Combined Degree Program: Exceptionality in Human Learning (Specialist), HBSc/Child Study and Education, Master of Arts (UTM)
-- Combined Degree Program: Psychology (Specialist / Major), Honours Bachelor of Science/Child Study and Education, Master of Arts (UTM)
-- Philosophy (UTM)
-- Ethics, Society and Law Minor (UTM)
-- South Asian Civilizations Minor (UTM)   
 
 ## Contribute
 
