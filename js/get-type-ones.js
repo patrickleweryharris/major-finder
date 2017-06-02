@@ -1,4 +1,5 @@
 var jsonStr;
+var seenPrograms = [];
 
 function getTypeOnes() {
   jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
@@ -7,12 +8,17 @@ function getTypeOnes() {
 
     for (i = 0; i < data.length; i++) {
       if (data[i].type == "1"){
-        type1Output = type1Output.concat("<li>");
-        type1Output = type1Output.concat("<a href=");
-        type1Output = type1Output.concat(data[i].calLink);
-        type1Output = type1Output.concat(">");
-        type1Output = type1Output.concat(data[i].postName);
-        type1Output = type1Output.concat("</a></li>");
+
+        if ($.inArray(data[i].postName, seenPrograms) == -1){
+
+          seenPrograms.push(data[i].postName);
+          type1Output = type1Output.concat("<li>");
+          type1Output = type1Output.concat("<a href=");
+          type1Output = type1Output.concat(data[i].calLink);
+          type1Output = type1Output.concat(">");
+          type1Output = type1Output.concat(data[i].postName);
+          type1Output = type1Output.concat("</a></li>");
+        }
 
       }
     }
