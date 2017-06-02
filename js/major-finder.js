@@ -51,7 +51,7 @@ function findMajors() {
     getSelection();
     if (campusSelection == 'UTSG') {
         jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
-        $('#georgi').show();
+        $('#georgi').hide();
         $('#missy').hide();
         $('#siberia').hide();
     }
@@ -74,6 +74,7 @@ function findMajors() {
         var type2Output = "";
         var type2LOutput = "";
         var type3Output = "";
+        var autoTypeOne = "Additionally, you are eligble for all Type One programs not already listed <br> You can view them <a href='https://plh.io/major-finder/type1'>here</a>";
 
         if (userInput != '') {
             type1Output = "You are eligible for: <br> Type 1 Programs: <ul>";
@@ -135,7 +136,7 @@ function findMajors() {
             type2Output = type2Output.concat("</ul>");
             type2LOutput = type2LOutput.concat("</ul>");
             type3Output = type3Output.concat("</ul>");
-            document.getElementById("eligible_programs").innerHTML = type1Output + "<br>" + type2Output + "<br>" + type2LOutput  + "<br>" + type3Output;
+            document.getElementById("eligible_programs").innerHTML = type1Output + "<br>" + type2Output + "<br>" + type2LOutput  + "<br>" + type3Output + "<br>" + autoTypeOne;
 
         } else {
             type1Output = "You did not enter any courses";
