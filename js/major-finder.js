@@ -1,11 +1,18 @@
 /*
+
 Major Finder 2.0.0
+
 Find majors you are eligible for at UofT
+
 Copyright (c) 2016 - 2017 Patrick Harris (https://plh.io)
+
 Licensed under the MIT License
 https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/LICENSE
+
+
 Project site: https://plh.io/major-finder
 Github site: http://github.com/patrickleweryharris/major-finder
+
 */
 /*
 Getting campus selection
@@ -38,12 +45,13 @@ function getInput() {
  * Finding majors
  */
 var jsonStr;
+var seenPrograms = [];
 
 function findMajors() {
     getSelection();
     if (campusSelection == 'UTSG') {
         jsonStr = 'https://raw.githubusercontent.com/patrickleweryharris/major-finder/master/json/majors.json';
-        $('#georgi').hide();
+        $('#georgi').show();
         $('#missy').hide();
         $('#siberia').hide();
     }
@@ -80,6 +88,8 @@ function findMajors() {
                 var flag = isSub(userInput, data[i].requirements);
 
                 if (flag === true) {
+                  if ($.inArray(data[i].postName, seenPrograms) == -1){
+                    seenPrograms.push(data[i].postName);
                     if (data[i].type == "1"){
                       type1Output = type1Output.concat("<li>");
                       type1Output = type1Output.concat("<a href=");
@@ -117,6 +127,7 @@ function findMajors() {
                     }
 
                 }
+              }
 
             }
 
@@ -134,10 +145,13 @@ function findMajors() {
 }
 
 /*
+
 Helper function for comparing the arrays
+
 Sort both arrays, traverse both.
 Compare the elements. If an element in the post_reqs is not found in the
 inputted courses, then the courses do not meet the post requirements
+
 */
 function isSub(courses, post_reqs) {
     courses.sort();
