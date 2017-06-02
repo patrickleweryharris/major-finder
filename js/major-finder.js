@@ -45,6 +45,7 @@ function getInput() {
  * Finding majors
  */
 var jsonStr;
+var seenPrograms = [];
 
 function findMajors() {
     getSelection();
@@ -87,6 +88,8 @@ function findMajors() {
                 var flag = isSub(userInput, data[i].requirements);
 
                 if (flag === true) {
+                  if ($.inArray(data[i].postName, seenPrograms) == -1){
+                    seenPrograms.push(data[i].postName);
                     if (data[i].type == "1"){
                       type1Output = type1Output.concat("<li>");
                       type1Output = type1Output.concat("<a href=");
@@ -124,6 +127,7 @@ function findMajors() {
                     }
 
                 }
+              }
 
             }
 
